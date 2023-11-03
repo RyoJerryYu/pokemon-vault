@@ -1,0 +1,213 @@
+---
+id: 490
+name: low-sweep
+type: fighting
+power: 65
+pp: 20
+priority: 0
+accuracy: 100
+damage_class: physical
+zh_name: 下盘踢
+jp_name: ローキック
+kr_name: 로킥
+aliases:
+  - ローキック
+  - 로킥
+  - 下盤踢
+  - Balayette
+  - Fußtritt
+  - Puntapié
+  - Calciobasso
+  - Low Sweep
+  - ローキック
+  - 下盘踢
+  - low-sweep
+  - move/490
+  - move/low-sweep
+---
+# low-sweep
+    
+ローキック | 로킥 | 下盤踢 | Balayette | Fußtritt | Puntapié | Calciobasso | Low Sweep | ローキック | 下盘踢
+
+[[2_fighting|type/fighting]]
+
+## Effect
+
+Lowers the target's Speed by one stage.
+
+## Description
+
+
+
+## Pokemon
+
+- [[54_psyduck|pokemon/psyduck]]
+- [[55_golduck|pokemon/golduck]]
+- [[56_mankey|pokemon/mankey]]
+- [[57_primeape|pokemon/primeape]]
+- [[61_poliwhirl|pokemon/poliwhirl]]
+- [[62_poliwrath|pokemon/poliwrath]]
+- [[66_machop|pokemon/machop]]
+- [[67_machoke|pokemon/machoke]]
+- [[68_machamp|pokemon/machamp]]
+- [[96_drowzee|pokemon/drowzee]]
+- [[97_hypno|pokemon/hypno]]
+- [[106_hitmonlee|pokemon/hitmonlee]]
+- [[107_hitmonchan|pokemon/hitmonchan]]
+- [[125_electabuzz|pokemon/electabuzz]]
+- [[126_magmar|pokemon/magmar]]
+- [[150_mewtwo|pokemon/mewtwo]]
+- [[151_mew|pokemon/mew]]
+- [[185_sudowoodo|pokemon/sudowoodo]]
+- [[186_politoed|pokemon/politoed]]
+- [[190_aipom|pokemon/aipom]]
+- [[215_sneasel|pokemon/sneasel]]
+- [[236_tyrogue|pokemon/tyrogue]]
+- [[237_hitmontop|pokemon/hitmontop]]
+- [[253_grovyle|pokemon/grovyle]]
+- [[254_sceptile|pokemon/sceptile]]
+- [[256_combusken|pokemon/combusken]]
+- [[257_blaziken|pokemon/blaziken]]
+- [[274_nuzleaf|pokemon/nuzleaf]]
+- [[275_shiftry|pokemon/shiftry]]
+- [[286_breloom|pokemon/breloom]]
+- [[288_vigoroth|pokemon/vigoroth]]
+- [[289_slaking|pokemon/slaking]]
+- [[296_makuhita|pokemon/makuhita]]
+- [[297_hariyama|pokemon/hariyama]]
+- [[302_sableye|pokemon/sableye]]
+- [[307_meditite|pokemon/meditite]]
+- [[308_medicham|pokemon/medicham]]
+- [[326_grumpig|pokemon/grumpig]]
+- [[335_zangoose|pokemon/zangoose]]
+- [[386_deoxys-normal|pokemon/deoxys-normal]]
+- [[390_chimchar|pokemon/chimchar]]
+- [[391_monferno|pokemon/monferno]]
+- [[392_infernape|pokemon/infernape]]
+- [[418_buizel|pokemon/buizel]]
+- [[419_floatzel|pokemon/floatzel]]
+- [[424_ambipom|pokemon/ambipom]]
+- [[427_buneary|pokemon/buneary]]
+- [[428_lopunny|pokemon/lopunny]]
+- [[447_riolu|pokemon/riolu]]
+- [[448_lucario|pokemon/lucario]]
+- [[453_croagunk|pokemon/croagunk]]
+- [[454_toxicroak|pokemon/toxicroak]]
+- [[461_weavile|pokemon/weavile]]
+- [[466_electivire|pokemon/electivire]]
+- [[467_magmortar|pokemon/magmortar]]
+- [[475_gallade|pokemon/gallade]]
+- [[499_pignite|pokemon/pignite]]
+- [[500_emboar|pokemon/emboar]]
+- [[511_pansage|pokemon/pansage]]
+- [[512_simisage|pokemon/simisage]]
+- [[513_pansear|pokemon/pansear]]
+- [[514_simisear|pokemon/simisear]]
+- [[515_panpour|pokemon/panpour]]
+- [[516_simipour|pokemon/simipour]]
+- [[532_timburr|pokemon/timburr]]
+- [[533_gurdurr|pokemon/gurdurr]]
+- [[534_conkeldurr|pokemon/conkeldurr]]
+- [[538_throh|pokemon/throh]]
+- [[539_sawk|pokemon/sawk]]
+- [[552_krokorok|pokemon/krokorok]]
+- [[553_krookodile|pokemon/krookodile]]
+- [[559_scraggy|pokemon/scraggy]]
+- [[560_scrafty|pokemon/scrafty]]
+- [[571_zoroark|pokemon/zoroark]]
+- [[576_gothitelle|pokemon/gothitelle]]
+- [[612_haxorus|pokemon/haxorus]]
+- [[619_mienfoo|pokemon/mienfoo]]
+- [[620_mienshao|pokemon/mienshao]]
+- [[622_golett|pokemon/golett]]
+- [[623_golurk|pokemon/golurk]]
+- [[624_pawniard|pokemon/pawniard]]
+- [[625_bisharp|pokemon/bisharp]]
+- [[648_meloetta-aria|pokemon/meloetta-aria]]
+- [[650_chespin|pokemon/chespin]]
+- [[651_quilladin|pokemon/quilladin]]
+- [[652_chesnaught|pokemon/chesnaught]]
+- [[658_greninja|pokemon/greninja]]
+- [[674_pancham|pokemon/pancham]]
+- [[675_pangoro|pokemon/pangoro]]
+- [[694_helioptile|pokemon/helioptile]]
+- [[695_heliolisk|pokemon/heliolisk]]
+- [[701_hawlucha|pokemon/hawlucha]]
+- [[724_decidueye|pokemon/decidueye]]
+- [[727_incineroar|pokemon/incineroar]]
+- [[735_gumshoos|pokemon/gumshoos]]
+- [[749_mudbray|pokemon/mudbray]]
+- [[750_mudsdale|pokemon/mudsdale]]
+- [[754_lurantis|pokemon/lurantis]]
+- [[759_stufful|pokemon/stufful]]
+- [[760_bewear|pokemon/bewear]]
+- [[762_steenee|pokemon/steenee]]
+- [[763_tsareena|pokemon/tsareena]]
+- [[766_passimian|pokemon/passimian]]
+- [[775_komala|pokemon/komala]]
+- [[794_buzzwole|pokemon/buzzwole]]
+- [[795_pheromosa|pokemon/pheromosa]]
+- [[802_marshadow|pokemon/marshadow]]
+- [[807_zeraora|pokemon/zeraora]]
+- [[812_rillaboom|pokemon/rillaboom]]
+- [[813_scorbunny|pokemon/scorbunny]]
+- [[814_raboot|pokemon/raboot]]
+- [[815_cinderace|pokemon/cinderace]]
+- [[861_grimmsnarl|pokemon/grimmsnarl]]
+- [[874_stonjourner|pokemon/stonjourner]]
+- [[891_kubfu|pokemon/kubfu]]
+- [[892_urshifu-single-strike|pokemon/urshifu-single-strike]]
+- [[893_zarude|pokemon/zarude]]
+- [[903_sneasler|pokemon/sneasler]]
+- [[907_floragato|pokemon/floragato]]
+- [[908_meowscarada|pokemon/meowscarada]]
+- [[913_quaxwell|pokemon/quaxwell]]
+- [[914_quaquaval|pokemon/quaquaval]]
+- [[920_lokix|pokemon/lokix]]
+- [[922_pawmo|pokemon/pawmo]]
+- [[923_pawmot|pokemon/pawmot]]
+- [[924_tandemaus|pokemon/tandemaus]]
+- [[925_maushold|pokemon/maushold]]
+- [[945_grafaiai|pokemon/grafaiai]]
+- [[973_flamigo|pokemon/flamigo]]
+- [[979_annihilape|pokemon/annihilape]]
+- [[983_kingambit|pokemon/kingambit]]
+- [[988_slither-wing|pokemon/slither-wing]]
+- [[992_iron-hands|pokemon/iron-hands]]
+- [[1000_gholdengo|pokemon/gholdengo]]
+- [[1007_koraidon|pokemon/koraidon]]
+- [[1014_okidogi|pokemon/okidogi]]
+- [[1017_ogerpon|pokemon/ogerpon]]
+- [[10001_deoxys-attack|pokemon/deoxys-attack]]
+- [[10002_deoxys-defense|pokemon/deoxys-defense]]
+- [[10003_deoxys-speed|pokemon/deoxys-speed]]
+- [[10018_meloetta-pirouette|pokemon/meloetta-pirouette]]
+- [[10043_mewtwo-mega-x|pokemon/mewtwo-mega-x]]
+- [[10044_mewtwo-mega-y|pokemon/mewtwo-mega-y]]
+- [[10050_blaziken-mega|pokemon/blaziken-mega]]
+- [[10054_medicham-mega|pokemon/medicham-mega]]
+- [[10059_lucario-mega|pokemon/lucario-mega]]
+- [[10065_sceptile-mega|pokemon/sceptile-mega]]
+- [[10066_sableye-mega|pokemon/sableye-mega]]
+- [[10068_gallade-mega|pokemon/gallade-mega]]
+- [[10088_lopunny-mega|pokemon/lopunny-mega]]
+- [[10117_greninja-ash|pokemon/greninja-ash]]
+- [[10126_lycanroc-midnight|pokemon/lycanroc-midnight]]
+- [[10128_lurantis-totem|pokemon/lurantis-totem]]
+- [[10170_zapdos-galar|pokemon/zapdos-galar]]
+- [[10172_slowking-galar|pokemon/slowking-galar]]
+- [[10191_urshifu-rapid-strike|pokemon/urshifu-rapid-strike]]
+- [[10192_zarude-dada|pokemon/zarude-dada]]
+- [[10235_sneasel-hisui|pokemon/sneasel-hisui]]
+- [[10237_lilligant-hisui|pokemon/lilligant-hisui]]
+- [[10239_zoroark-hisui|pokemon/zoroark-hisui]]
+- [[10244_decidueye-hisui|pokemon/decidueye-hisui]]
+- [[10257_maushold-family-of-three|pokemon/maushold-family-of-three]]
+- [[10264_koraidon-limited-build|pokemon/koraidon-limited-build]]
+- [[10265_koraidon-sprinting-build|pokemon/koraidon-sprinting-build]]
+- [[10266_koraidon-swimming-build|pokemon/koraidon-swimming-build]]
+- [[10267_koraidon-gliding-build|pokemon/koraidon-gliding-build]]
+- [[10273_ogerpon-wellspring-mask|pokemon/ogerpon-wellspring-mask]]
+- [[10274_ogerpon-hearthflame-mask|pokemon/ogerpon-hearthflame-mask]]
+- [[10275_ogerpon-cornerstone-mask|pokemon/ogerpon-cornerstone-mask]]
+

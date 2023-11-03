@@ -1,0 +1,198 @@
+---
+id: 311
+name: weather-ball
+type: normal
+power: 50
+pp: 10
+priority: 0
+accuracy: 100
+damage_class: special
+zh_name: 气象球
+jp_name: ウェザーボール
+kr_name: 웨더볼
+aliases:
+  - ウェザーボール
+  - 웨더볼
+  - 氣象球
+  - Ball’Météo
+  - Meteorologe
+  - Meteorobola
+  - Palla Clima
+  - Weather Ball
+  - ウェザーボール
+  - 气象球
+  - weather-ball
+  - move/311
+  - move/weather-ball
+---
+# weather-ball
+    
+ウェザーボール | 웨더볼 | 氣象球 | Ball’Météo | Meteorologe | Meteorobola | Palla Clima | Weather Ball | ウェザーボール | 气象球
+
+[[1_normal|type/normal]]
+
+## Effect
+
+Inflicts regular damage.  If a weather move is active, this move has double power, and its type becomes the type of the weather move.  shadow sky is typeless for the purposes of this move.
+
+## Description
+
+
+
+## Pokemon
+
+- [[1_bulbasaur|pokemon/bulbasaur]]
+- [[2_ivysaur|pokemon/ivysaur]]
+- [[3_venusaur|pokemon/venusaur]]
+- [[4_charmander|pokemon/charmander]]
+- [[5_charmeleon|pokemon/charmeleon]]
+- [[6_charizard|pokemon/charizard]]
+- [[7_squirtle|pokemon/squirtle]]
+- [[8_wartortle|pokemon/wartortle]]
+- [[9_blastoise|pokemon/blastoise]]
+- [[37_vulpix|pokemon/vulpix]]
+- [[38_ninetales|pokemon/ninetales]]
+- [[60_poliwag|pokemon/poliwag]]
+- [[61_poliwhirl|pokemon/poliwhirl]]
+- [[62_poliwrath|pokemon/poliwrath]]
+- [[69_bellsprout|pokemon/bellsprout]]
+- [[70_weepinbell|pokemon/weepinbell]]
+- [[71_victreebel|pokemon/victreebel]]
+- [[79_slowpoke|pokemon/slowpoke]]
+- [[80_slowbro|pokemon/slowbro]]
+- [[91_cloyster|pokemon/cloyster]]
+- [[131_lapras|pokemon/lapras]]
+- [[133_eevee|pokemon/eevee]]
+- [[134_vaporeon|pokemon/vaporeon]]
+- [[135_jolteon|pokemon/jolteon]]
+- [[136_flareon|pokemon/flareon]]
+- [[144_articuno|pokemon/articuno]]
+- [[145_zapdos|pokemon/zapdos]]
+- [[146_moltres|pokemon/moltres]]
+- [[148_dragonair|pokemon/dragonair]]
+- [[149_dragonite|pokemon/dragonite]]
+- [[150_mewtwo|pokemon/mewtwo]]
+- [[151_mew|pokemon/mew]]
+- [[186_politoed|pokemon/politoed]]
+- [[191_sunkern|pokemon/sunkern]]
+- [[192_sunflora|pokemon/sunflora]]
+- [[196_espeon|pokemon/espeon]]
+- [[197_umbreon|pokemon/umbreon]]
+- [[199_slowking|pokemon/slowking]]
+- [[225_delibird|pokemon/delibird]]
+- [[243_raikou|pokemon/raikou]]
+- [[244_entei|pokemon/entei]]
+- [[245_suicune|pokemon/suicune]]
+- [[249_lugia|pokemon/lugia]]
+- [[250_ho-oh|pokemon/ho-oh]]
+- [[251_celebi|pokemon/celebi]]
+- [[270_lotad|pokemon/lotad]]
+- [[271_lombre|pokemon/lombre]]
+- [[272_ludicolo|pokemon/ludicolo]]
+- [[274_nuzleaf|pokemon/nuzleaf]]
+- [[275_shiftry|pokemon/shiftry]]
+- [[279_pelipper|pokemon/pelipper]]
+- [[284_masquerain|pokemon/masquerain]]
+- [[315_roselia|pokemon/roselia]]
+- [[320_wailmer|pokemon/wailmer]]
+- [[321_wailord|pokemon/wailord]]
+- [[324_torkoal|pokemon/torkoal]]
+- [[334_altaria|pokemon/altaria]]
+- [[337_lunatone|pokemon/lunatone]]
+- [[338_solrock|pokemon/solrock]]
+- [[340_whiscash|pokemon/whiscash]]
+- [[350_milotic|pokemon/milotic]]
+- [[351_castform|pokemon/castform]]
+- [[361_snorunt|pokemon/snorunt]]
+- [[362_glalie|pokemon/glalie]]
+- [[393_piplup|pokemon/piplup]]
+- [[394_prinplup|pokemon/prinplup]]
+- [[395_empoleon|pokemon/empoleon]]
+- [[406_budew|pokemon/budew]]
+- [[407_roserade|pokemon/roserade]]
+- [[420_cherubi|pokemon/cherubi]]
+- [[421_cherrim|pokemon/cherrim]]
+- [[423_gastrodon|pokemon/gastrodon]]
+- [[425_drifloon|pokemon/drifloon]]
+- [[426_drifblim|pokemon/drifblim]]
+- [[437_bronzong|pokemon/bronzong]]
+- [[449_hippopotas|pokemon/hippopotas]]
+- [[450_hippowdon|pokemon/hippowdon]]
+- [[459_snover|pokemon/snover]]
+- [[460_abomasnow|pokemon/abomasnow]]
+- [[466_electivire|pokemon/electivire]]
+- [[467_magmortar|pokemon/magmortar]]
+- [[470_leafeon|pokemon/leafeon]]
+- [[471_glaceon|pokemon/glaceon]]
+- [[478_froslass|pokemon/froslass]]
+- [[489_phione|pokemon/phione]]
+- [[490_manaphy|pokemon/manaphy]]
+- [[526_gigalith|pokemon/gigalith]]
+- [[535_tympole|pokemon/tympole]]
+- [[536_palpitoad|pokemon/palpitoad]]
+- [[537_seismitoad|pokemon/seismitoad]]
+- [[549_lilligant|pokemon/lilligant]]
+- [[556_maractus|pokemon/maractus]]
+- [[581_swanna|pokemon/swanna]]
+- [[584_vanilluxe|pokemon/vanilluxe]]
+- [[641_tornadus-incarnate|pokemon/tornadus-incarnate]]
+- [[642_thundurus-incarnate|pokemon/thundurus-incarnate]]
+- [[643_reshiram|pokemon/reshiram]]
+- [[644_zekrom|pokemon/zekrom]]
+- [[645_landorus-incarnate|pokemon/landorus-incarnate]]
+- [[646_kyurem|pokemon/kyurem]]
+- [[658_greninja|pokemon/greninja]]
+- [[666_vivillon|pokemon/vivillon]]
+- [[692_clauncher|pokemon/clauncher]]
+- [[693_clawitzer|pokemon/clawitzer]]
+- [[695_heliolisk|pokemon/heliolisk]]
+- [[698_amaura|pokemon/amaura]]
+- [[699_aurorus|pokemon/aurorus]]
+- [[700_sylveon|pokemon/sylveon]]
+- [[706_goodra|pokemon/goodra]]
+- [[721_volcanion|pokemon/volcanion]]
+- [[730_primarina|pokemon/primarina]]
+- [[753_fomantis|pokemon/fomantis]]
+- [[754_lurantis|pokemon/lurantis]]
+- [[756_shiinotic|pokemon/shiinotic]]
+- [[814_raboot|pokemon/raboot]]
+- [[815_cinderace|pokemon/cinderace]]
+- [[816_sobble|pokemon/sobble]]
+- [[817_drizzile|pokemon/drizzile]]
+- [[818_inteleon|pokemon/inteleon]]
+- [[830_eldegoss|pokemon/eldegoss]]
+- [[845_cramorant|pokemon/cramorant]]
+- [[873_frosmoth|pokemon/frosmoth]]
+- [[875_eiscue-ice|pokemon/eiscue-ice]]
+- [[905_enamorus-incarnate|pokemon/enamorus-incarnate]]
+- [[928_smoliv|pokemon/smoliv]]
+- [[929_dolliv|pokemon/dolliv]]
+- [[930_arboliva|pokemon/arboliva]]
+- [[936_armarouge|pokemon/armarouge]]
+- [[938_tadbulb|pokemon/tadbulb]]
+- [[939_bellibolt|pokemon/bellibolt]]
+- [[940_wattrel|pokemon/wattrel]]
+- [[941_kilowattrel|pokemon/kilowattrel]]
+- [[953_rellor|pokemon/rellor]]
+- [[954_rabsca|pokemon/rabsca]]
+- [[1009_walking-wake|pokemon/walking-wake]]
+- [[10013_castform-sunny|pokemon/castform-sunny]]
+- [[10014_castform-rainy|pokemon/castform-rainy]]
+- [[10015_castform-snowy|pokemon/castform-snowy]]
+- [[10019_tornadus-therian|pokemon/tornadus-therian]]
+- [[10020_thundurus-therian|pokemon/thundurus-therian]]
+- [[10021_landorus-therian|pokemon/landorus-therian]]
+- [[10022_kyurem-black|pokemon/kyurem-black]]
+- [[10023_kyurem-white|pokemon/kyurem-white]]
+- [[10103_vulpix-alola|pokemon/vulpix-alola]]
+- [[10104_ninetales-alola|pokemon/ninetales-alola]]
+- [[10164_slowpoke-galar|pokemon/slowpoke-galar]]
+- [[10165_slowbro-galar|pokemon/slowbro-galar]]
+- [[10172_slowking-galar|pokemon/slowking-galar]]
+- [[10182_cramorant-gulping|pokemon/cramorant-gulping]]
+- [[10183_cramorant-gorging|pokemon/cramorant-gorging]]
+- [[10185_eiscue-noice|pokemon/eiscue-noice]]
+- [[10237_lilligant-hisui|pokemon/lilligant-hisui]]
+- [[10242_goodra-hisui|pokemon/goodra-hisui]]
+- [[10249_enamorus-therian|pokemon/enamorus-therian]]
+

@@ -1,0 +1,214 @@
+---
+id: 210
+name: fury-cutter
+type: bug
+power: 40
+pp: 20
+priority: 0
+accuracy: 95
+damage_class: physical
+zh_name: 连斩
+jp_name: れんぞくぎり
+kr_name: 연속자르기
+aliases:
+  - れんぞくぎり
+  - 연속자르기
+  - 連斬
+  - Taillade
+  - Zornklinge
+  - Corte Furia
+  - Tagliofuria
+  - Fury Cutter
+  - れんぞくぎり
+  - 连斩
+  - fury-cutter
+  - move/210
+  - move/fury-cutter
+---
+# fury-cutter
+    
+れんぞくぎり | 연속자르기 | 連斬 | Taillade | Zornklinge | Corte Furia | Tagliofuria | Fury Cutter | れんぞくぎり | 连斩
+
+[[7_bug|type/bug]]
+
+## Effect
+
+Inflicts regular damage.  Power doubles after every time this move is used, whether consecutively or not, maxing out at 16x.  If this move misses or the user leaves the field, power resets.
+
+## Description
+
+
+
+## Pokemon
+
+- [[1_bulbasaur|pokemon/bulbasaur]]
+- [[2_ivysaur|pokemon/ivysaur]]
+- [[3_venusaur|pokemon/venusaur]]
+- [[4_charmander|pokemon/charmander]]
+- [[5_charmeleon|pokemon/charmeleon]]
+- [[6_charizard|pokemon/charizard]]
+- [[15_beedrill|pokemon/beedrill]]
+- [[27_sandshrew|pokemon/sandshrew]]
+- [[28_sandslash|pokemon/sandslash]]
+- [[31_nidoqueen|pokemon/nidoqueen]]
+- [[34_nidoking|pokemon/nidoking]]
+- [[46_paras|pokemon/paras]]
+- [[47_parasect|pokemon/parasect]]
+- [[55_golduck|pokemon/golduck]]
+- [[76_golem|pokemon/golem]]
+- [[80_slowbro|pokemon/slowbro]]
+- [[83_farfetchd|pokemon/farfetchd]]
+- [[98_krabby|pokemon/krabby]]
+- [[99_kingler|pokemon/kingler]]
+- [[104_cubone|pokemon/cubone]]
+- [[105_marowak|pokemon/marowak]]
+- [[112_rhydon|pokemon/rhydon]]
+- [[115_kangaskhan|pokemon/kangaskhan]]
+- [[118_goldeen|pokemon/goldeen]]
+- [[119_seaking|pokemon/seaking]]
+- [[123_scyther|pokemon/scyther]]
+- [[127_pinsir|pokemon/pinsir]]
+- [[141_kabutops|pokemon/kabutops]]
+- [[149_dragonite|pokemon/dragonite]]
+- [[151_mew|pokemon/mew]]
+- [[152_chikorita|pokemon/chikorita]]
+- [[153_bayleef|pokemon/bayleef]]
+- [[154_meganium|pokemon/meganium]]
+- [[156_quilava|pokemon/quilava]]
+- [[157_typhlosion|pokemon/typhlosion]]
+- [[159_croconaw|pokemon/croconaw]]
+- [[160_feraligatr|pokemon/feraligatr]]
+- [[161_sentret|pokemon/sentret]]
+- [[162_furret|pokemon/furret]]
+- [[190_aipom|pokemon/aipom]]
+- [[199_slowking|pokemon/slowking]]
+- [[207_gligar|pokemon/gligar]]
+- [[212_scizor|pokemon/scizor]]
+- [[214_heracross|pokemon/heracross]]
+- [[215_sneasel|pokemon/sneasel]]
+- [[216_teddiursa|pokemon/teddiursa]]
+- [[217_ursaring|pokemon/ursaring]]
+- [[227_skarmory|pokemon/skarmory]]
+- [[248_tyranitar|pokemon/tyranitar]]
+- [[252_treecko|pokemon/treecko]]
+- [[253_grovyle|pokemon/grovyle]]
+- [[254_sceptile|pokemon/sceptile]]
+- [[256_combusken|pokemon/combusken]]
+- [[257_blaziken|pokemon/blaziken]]
+- [[263_zigzagoon|pokemon/zigzagoon]]
+- [[264_linoone|pokemon/linoone]]
+- [[274_nuzleaf|pokemon/nuzleaf]]
+- [[275_shiftry|pokemon/shiftry]]
+- [[286_breloom|pokemon/breloom]]
+- [[287_slakoth|pokemon/slakoth]]
+- [[288_vigoroth|pokemon/vigoroth]]
+- [[289_slaking|pokemon/slaking]]
+- [[290_nincada|pokemon/nincada]]
+- [[291_ninjask|pokemon/ninjask]]
+- [[292_shedinja|pokemon/shedinja]]
+- [[302_sableye|pokemon/sableye]]
+- [[304_aron|pokemon/aron]]
+- [[305_lairon|pokemon/lairon]]
+- [[306_aggron|pokemon/aggron]]
+- [[315_roselia|pokemon/roselia]]
+- [[318_carvanha|pokemon/carvanha]]
+- [[319_sharpedo|pokemon/sharpedo]]
+- [[328_trapinch|pokemon/trapinch]]
+- [[329_vibrava|pokemon/vibrava]]
+- [[330_flygon|pokemon/flygon]]
+- [[331_cacnea|pokemon/cacnea]]
+- [[332_cacturne|pokemon/cacturne]]
+- [[335_zangoose|pokemon/zangoose]]
+- [[336_seviper|pokemon/seviper]]
+- [[341_corphish|pokemon/corphish]]
+- [[342_crawdaunt|pokemon/crawdaunt]]
+- [[347_anorith|pokemon/anorith]]
+- [[348_armaldo|pokemon/armaldo]]
+- [[352_kecleon|pokemon/kecleon]]
+- [[357_tropius|pokemon/tropius]]
+- [[359_absol|pokemon/absol]]
+- [[365_walrein|pokemon/walrein]]
+- [[371_bagon|pokemon/bagon]]
+- [[372_shelgon|pokemon/shelgon]]
+- [[373_salamence|pokemon/salamence]]
+- [[375_metang|pokemon/metang]]
+- [[376_metagross|pokemon/metagross]]
+- [[380_latias|pokemon/latias]]
+- [[381_latios|pokemon/latios]]
+- [[383_groudon|pokemon/groudon]]
+- [[384_rayquaza|pokemon/rayquaza]]
+- [[395_empoleon|pokemon/empoleon]]
+- [[399_bidoof|pokemon/bidoof]]
+- [[400_bibarel|pokemon/bibarel]]
+- [[402_kricketune|pokemon/kricketune]]
+- [[403_shinx|pokemon/shinx]]
+- [[404_luxio|pokemon/luxio]]
+- [[405_luxray|pokemon/luxray]]
+- [[407_roserade|pokemon/roserade]]
+- [[416_vespiquen|pokemon/vespiquen]]
+- [[418_buizel|pokemon/buizel]]
+- [[424_ambipom|pokemon/ambipom]]
+- [[428_lopunny|pokemon/lopunny]]
+- [[431_glameow|pokemon/glameow]]
+- [[432_purugly|pokemon/purugly]]
+- [[434_stunky|pokemon/stunky]]
+- [[435_skuntank|pokemon/skuntank]]
+- [[443_gible|pokemon/gible]]
+- [[444_gabite|pokemon/gabite]]
+- [[445_garchomp|pokemon/garchomp]]
+- [[447_riolu|pokemon/riolu]]
+- [[448_lucario|pokemon/lucario]]
+- [[451_skorupi|pokemon/skorupi]]
+- [[452_drapion|pokemon/drapion]]
+- [[453_croagunk|pokemon/croagunk]]
+- [[454_toxicroak|pokemon/toxicroak]]
+- [[455_carnivine|pokemon/carnivine]]
+- [[461_weavile|pokemon/weavile]]
+- [[464_rhyperior|pokemon/rhyperior]]
+- [[470_leafeon|pokemon/leafeon]]
+- [[472_gliscor|pokemon/gliscor]]
+- [[473_mamoswine|pokemon/mamoswine]]
+- [[475_gallade|pokemon/gallade]]
+- [[483_dialga|pokemon/dialga]]
+- [[484_palkia|pokemon/palkia]]
+- [[487_giratina-altered|pokemon/giratina-altered]]
+- [[488_cresselia|pokemon/cresselia]]
+- [[493_arceus|pokemon/arceus]]
+- [[501_oshawott|pokemon/oshawott]]
+- [[502_dewott|pokemon/dewott]]
+- [[503_samurott|pokemon/samurott]]
+- [[543_venipede|pokemon/venipede]]
+- [[557_dwebble|pokemon/dwebble]]
+- [[558_crustle|pokemon/crustle]]
+- [[588_karrablast|pokemon/karrablast]]
+- [[589_escavalier|pokemon/escavalier]]
+- [[595_joltik|pokemon/joltik]]
+- [[596_galvantula|pokemon/galvantula]]
+- [[624_pawniard|pokemon/pawniard]]
+- [[625_bisharp|pokemon/bisharp]]
+- [[632_durant|pokemon/durant]]
+- [[649_genesect|pokemon/genesect]]
+- [[679_honedge|pokemon/honedge]]
+- [[680_doublade|pokemon/doublade]]
+- [[681_aegislash-shield|pokemon/aegislash-shield]]
+- [[688_binacle|pokemon/binacle]]
+- [[689_barbaracle|pokemon/barbaracle]]
+- [[753_fomantis|pokemon/fomantis]]
+- [[754_lurantis|pokemon/lurantis]]
+- [[768_golisopod|pokemon/golisopod]]
+- [[798_kartana|pokemon/kartana]]
+- [[865_sirfetchd|pokemon/sirfetchd]]
+- [[900_kleavor|pokemon/kleavor]]
+- [[983_kingambit|pokemon/kingambit]]
+- [[1006_iron-valiant|pokemon/iron-valiant]]
+- [[10007_giratina-origin|pokemon/giratina-origin]]
+- [[10026_aegislash-blade|pokemon/aegislash-blade]]
+- [[10046_scizor-mega|pokemon/scizor-mega]]
+- [[10065_sceptile-mega|pokemon/sceptile-mega]]
+- [[10068_gallade-mega|pokemon/gallade-mega]]
+- [[10101_sandshrew-alola|pokemon/sandshrew-alola]]
+- [[10102_sandslash-alola|pokemon/sandslash-alola]]
+- [[10128_lurantis-totem|pokemon/lurantis-totem]]
+- [[10166_farfetchd-galar|pokemon/farfetchd-galar]]
+- [[10236_samurott-hisui|pokemon/samurott-hisui]]
+

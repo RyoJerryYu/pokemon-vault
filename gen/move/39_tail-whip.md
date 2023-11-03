@@ -1,0 +1,189 @@
+---
+id: 39
+name: tail-whip
+type: normal
+power: null
+pp: 30
+priority: 0
+accuracy: 100
+damage_class: status
+zh_name: 摇尾巴
+jp_name: しっぽをふる
+kr_name: 꼬리흔들기
+aliases:
+  - しっぽをふる
+  - 꼬리흔들기
+  - 搖尾巴
+  - Mimi-Queue
+  - Rutenschlag
+  - Látigo
+  - Colpocoda
+  - Tail Whip
+  - しっぽをふる
+  - 摇尾巴
+  - tail-whip
+  - move/39
+  - move/tail-whip
+---
+# tail-whip
+    
+しっぽをふる | 꼬리흔들기 | 搖尾巴 | Mimi-Queue | Rutenschlag | Látigo | Colpocoda | Tail Whip | しっぽをふる | 摇尾巴
+
+[[1_normal|type/normal]]
+
+## Effect
+
+Lowers the target's Defense by one stage.
+
+## Description
+
+
+
+## Pokemon
+
+- [[7_squirtle|pokemon/squirtle]]
+- [[8_wartortle|pokemon/wartortle]]
+- [[9_blastoise|pokemon/blastoise]]
+- [[19_rattata|pokemon/rattata]]
+- [[20_raticate|pokemon/raticate]]
+- [[25_pikachu|pokemon/pikachu]]
+- [[26_raichu|pokemon/raichu]]
+- [[29_nidoran-f|pokemon/nidoran-f]]
+- [[30_nidorina|pokemon/nidorina]]
+- [[31_nidoqueen|pokemon/nidoqueen]]
+- [[37_vulpix|pokemon/vulpix]]
+- [[38_ninetales|pokemon/ninetales]]
+- [[52_meowth|pokemon/meowth]]
+- [[54_psyduck|pokemon/psyduck]]
+- [[55_golduck|pokemon/golduck]]
+- [[77_ponyta|pokemon/ponyta]]
+- [[78_rapidash|pokemon/rapidash]]
+- [[104_cubone|pokemon/cubone]]
+- [[105_marowak|pokemon/marowak]]
+- [[111_rhyhorn|pokemon/rhyhorn]]
+- [[112_rhydon|pokemon/rhydon]]
+- [[113_chansey|pokemon/chansey]]
+- [[115_kangaskhan|pokemon/kangaskhan]]
+- [[118_goldeen|pokemon/goldeen]]
+- [[119_seaking|pokemon/seaking]]
+- [[128_tauros|pokemon/tauros]]
+- [[133_eevee|pokemon/eevee]]
+- [[134_vaporeon|pokemon/vaporeon]]
+- [[135_jolteon|pokemon/jolteon]]
+- [[136_flareon|pokemon/flareon]]
+- [[172_pichu|pokemon/pichu]]
+- [[183_marill|pokemon/marill]]
+- [[184_azumarill|pokemon/azumarill]]
+- [[187_hoppip|pokemon/hoppip]]
+- [[188_skiploom|pokemon/skiploom]]
+- [[189_jumpluff|pokemon/jumpluff]]
+- [[190_aipom|pokemon/aipom]]
+- [[194_wooper|pokemon/wooper]]
+- [[195_quagsire|pokemon/quagsire]]
+- [[196_espeon|pokemon/espeon]]
+- [[197_umbreon|pokemon/umbreon]]
+- [[209_snubbull|pokemon/snubbull]]
+- [[210_granbull|pokemon/granbull]]
+- [[242_blissey|pokemon/blissey]]
+- [[263_zigzagoon|pokemon/zigzagoon]]
+- [[264_linoone|pokemon/linoone]]
+- [[298_azurill|pokemon/azurill]]
+- [[300_skitty|pokemon/skitty]]
+- [[301_delcatty|pokemon/delcatty]]
+- [[352_kecleon|pokemon/kecleon]]
+- [[417_pachirisu|pokemon/pachirisu]]
+- [[418_buizel|pokemon/buizel]]
+- [[419_floatzel|pokemon/floatzel]]
+- [[424_ambipom|pokemon/ambipom]]
+- [[431_glameow|pokemon/glameow]]
+- [[464_rhyperior|pokemon/rhyperior]]
+- [[470_leafeon|pokemon/leafeon]]
+- [[471_glaceon|pokemon/glaceon]]
+- [[498_tepig|pokemon/tepig]]
+- [[499_pignite|pokemon/pignite]]
+- [[500_emboar|pokemon/emboar]]
+- [[501_oshawott|pokemon/oshawott]]
+- [[502_dewott|pokemon/dewott]]
+- [[503_samurott|pokemon/samurott]]
+- [[522_blitzle|pokemon/blitzle]]
+- [[523_zebstrika|pokemon/zebstrika]]
+- [[550_basculin-red-striped|pokemon/basculin-red-striped]]
+- [[572_minccino|pokemon/minccino]]
+- [[587_emolga|pokemon/emolga]]
+- [[653_fennekin|pokemon/fennekin]]
+- [[654_braixen|pokemon/braixen]]
+- [[655_delphox|pokemon/delphox]]
+- [[672_skiddo|pokemon/skiddo]]
+- [[673_gogoat|pokemon/gogoat]]
+- [[676_furfrou|pokemon/furfrou]]
+- [[690_skrelp|pokemon/skrelp]]
+- [[691_dragalge|pokemon/dragalge]]
+- [[694_helioptile|pokemon/helioptile]]
+- [[695_heliolisk|pokemon/heliolisk]]
+- [[696_tyrunt|pokemon/tyrunt]]
+- [[697_tyrantrum|pokemon/tyrantrum]]
+- [[700_sylveon|pokemon/sylveon]]
+- [[702_dedenne|pokemon/dedenne]]
+- [[808_meltan|pokemon/meltan]]
+- [[809_melmetal|pokemon/melmetal]]
+- [[819_skwovet|pokemon/skwovet]]
+- [[820_greedent|pokemon/greedent]]
+- [[827_nickit|pokemon/nickit]]
+- [[828_thievul|pokemon/thievul]]
+- [[835_yamper|pokemon/yamper]]
+- [[836_boltund|pokemon/boltund]]
+- [[877_morpeko-full-belly|pokemon/morpeko-full-belly]]
+- [[896_glastrier|pokemon/glastrier]]
+- [[897_spectrier|pokemon/spectrier]]
+- [[902_basculegion-male|pokemon/basculegion-male]]
+- [[906_sprigatito|pokemon/sprigatito]]
+- [[907_floragato|pokemon/floragato]]
+- [[908_meowscarada|pokemon/meowscarada]]
+- [[915_lechonk|pokemon/lechonk]]
+- [[916_oinkologne|pokemon/oinkologne]]
+- [[926_fidough|pokemon/fidough]]
+- [[927_dachsbun|pokemon/dachsbun]]
+- [[971_greavard|pokemon/greavard]]
+- [[972_houndstone|pokemon/houndstone]]
+- [[980_clodsire|pokemon/clodsire]]
+- [[10016_basculin-blue-striped|pokemon/basculin-blue-striped]]
+- [[10036_blastoise-mega|pokemon/blastoise-mega]]
+- [[10039_kangaskhan-mega|pokemon/kangaskhan-mega]]
+- [[10080_pikachu-rock-star|pokemon/pikachu-rock-star]]
+- [[10081_pikachu-belle|pokemon/pikachu-belle]]
+- [[10082_pikachu-pop-star|pokemon/pikachu-pop-star]]
+- [[10083_pikachu-phd|pokemon/pikachu-phd]]
+- [[10084_pikachu-libre|pokemon/pikachu-libre]]
+- [[10085_pikachu-cosplay|pokemon/pikachu-cosplay]]
+- [[10091_rattata-alola|pokemon/rattata-alola]]
+- [[10092_raticate-alola|pokemon/raticate-alola]]
+- [[10093_raticate-totem-alola|pokemon/raticate-totem-alola]]
+- [[10094_pikachu-original-cap|pokemon/pikachu-original-cap]]
+- [[10095_pikachu-hoenn-cap|pokemon/pikachu-hoenn-cap]]
+- [[10096_pikachu-sinnoh-cap|pokemon/pikachu-sinnoh-cap]]
+- [[10097_pikachu-unova-cap|pokemon/pikachu-unova-cap]]
+- [[10098_pikachu-kalos-cap|pokemon/pikachu-kalos-cap]]
+- [[10099_pikachu-alola-cap|pokemon/pikachu-alola-cap]]
+- [[10100_raichu-alola|pokemon/raichu-alola]]
+- [[10103_vulpix-alola|pokemon/vulpix-alola]]
+- [[10104_ninetales-alola|pokemon/ninetales-alola]]
+- [[10115_marowak-alola|pokemon/marowak-alola]]
+- [[10148_pikachu-partner-cap|pokemon/pikachu-partner-cap]]
+- [[10149_marowak-totem|pokemon/marowak-totem]]
+- [[10158_pikachu-starter|pokemon/pikachu-starter]]
+- [[10159_eevee-starter|pokemon/eevee-starter]]
+- [[10160_pikachu-world-cap|pokemon/pikachu-world-cap]]
+- [[10162_ponyta-galar|pokemon/ponyta-galar]]
+- [[10163_rapidash-galar|pokemon/rapidash-galar]]
+- [[10187_morpeko-hangry|pokemon/morpeko-hangry]]
+- [[10193_calyrex-ice|pokemon/calyrex-ice]]
+- [[10194_calyrex-shadow|pokemon/calyrex-shadow]]
+- [[10236_samurott-hisui|pokemon/samurott-hisui]]
+- [[10247_basculin-white-striped|pokemon/basculin-white-striped]]
+- [[10248_basculegion-female|pokemon/basculegion-female]]
+- [[10250_tauros-paldea-combat-breed|pokemon/tauros-paldea-combat-breed]]
+- [[10251_tauros-paldea-blaze-breed|pokemon/tauros-paldea-blaze-breed]]
+- [[10252_tauros-paldea-aqua-breed|pokemon/tauros-paldea-aqua-breed]]
+- [[10253_wooper-paldea|pokemon/wooper-paldea]]
+- [[10254_oinkologne-female|pokemon/oinkologne-female]]
+

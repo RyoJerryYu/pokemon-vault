@@ -1,0 +1,217 @@
+---
+id: 387
+name: last-resort
+type: normal
+power: 140
+pp: 5
+priority: 0
+accuracy: 100
+damage_class: physical
+zh_name: 珍藏
+jp_name: とっておき
+kr_name: 뒀다쓰기
+aliases:
+  - とっておき
+  - 뒀다쓰기
+  - 珍藏
+  - Dernier Recours
+  - Zuflucht
+  - Última Baza
+  - Ultimascelta
+  - Last Resort
+  - とっておき
+  - 珍藏
+  - last-resort
+  - move/387
+  - move/last-resort
+---
+# last-resort
+    
+とっておき | 뒀다쓰기 | 珍藏 | Dernier Recours | Zuflucht | Última Baza | Ultimascelta | Last Resort | とっておき | 珍藏
+
+[[1_normal|type/normal]]
+
+## Effect
+
+Inflicts regular damage.  This move can only be used if each of the user's other moves has been used at least once since the user entered the field.  If this is the user's only move, this move will fail.
+
+## Description
+
+
+
+## Pokemon
+
+- [[19_rattata|pokemon/rattata]]
+- [[20_raticate|pokemon/raticate]]
+- [[35_clefairy|pokemon/clefairy]]
+- [[36_clefable|pokemon/clefable]]
+- [[39_jigglypuff|pokemon/jigglypuff]]
+- [[40_wigglytuff|pokemon/wigglytuff]]
+- [[52_meowth|pokemon/meowth]]
+- [[53_persian|pokemon/persian]]
+- [[83_farfetchd|pokemon/farfetchd]]
+- [[113_chansey|pokemon/chansey]]
+- [[115_kangaskhan|pokemon/kangaskhan]]
+- [[133_eevee|pokemon/eevee]]
+- [[134_vaporeon|pokemon/vaporeon]]
+- [[135_jolteon|pokemon/jolteon]]
+- [[136_flareon|pokemon/flareon]]
+- [[137_porygon|pokemon/porygon]]
+- [[143_snorlax|pokemon/snorlax]]
+- [[151_mew|pokemon/mew]]
+- [[161_sentret|pokemon/sentret]]
+- [[162_furret|pokemon/furret]]
+- [[173_cleffa|pokemon/cleffa]]
+- [[174_igglybuff|pokemon/igglybuff]]
+- [[175_togepi|pokemon/togepi]]
+- [[176_togetic|pokemon/togetic]]
+- [[190_aipom|pokemon/aipom]]
+- [[196_espeon|pokemon/espeon]]
+- [[197_umbreon|pokemon/umbreon]]
+- [[206_dunsparce|pokemon/dunsparce]]
+- [[209_snubbull|pokemon/snubbull]]
+- [[210_granbull|pokemon/granbull]]
+- [[216_teddiursa|pokemon/teddiursa]]
+- [[217_ursaring|pokemon/ursaring]]
+- [[231_phanpy|pokemon/phanpy]]
+- [[232_donphan|pokemon/donphan]]
+- [[233_porygon2|pokemon/porygon2]]
+- [[234_stantler|pokemon/stantler]]
+- [[242_blissey|pokemon/blissey]]
+- [[251_celebi|pokemon/celebi]]
+- [[255_torchic|pokemon/torchic]]
+- [[256_combusken|pokemon/combusken]]
+- [[257_blaziken|pokemon/blaziken]]
+- [[263_zigzagoon|pokemon/zigzagoon]]
+- [[264_linoone|pokemon/linoone]]
+- [[300_skitty|pokemon/skitty]]
+- [[301_delcatty|pokemon/delcatty]]
+- [[303_mawile|pokemon/mawile]]
+- [[311_plusle|pokemon/plusle]]
+- [[312_minun|pokemon/minun]]
+- [[327_spinda|pokemon/spinda]]
+- [[335_zangoose|pokemon/zangoose]]
+- [[351_castform|pokemon/castform]]
+- [[352_kecleon|pokemon/kecleon]]
+- [[358_chimecho|pokemon/chimecho]]
+- [[380_latias|pokemon/latias]]
+- [[381_latios|pokemon/latios]]
+- [[385_jirachi|pokemon/jirachi]]
+- [[399_bidoof|pokemon/bidoof]]
+- [[400_bibarel|pokemon/bibarel]]
+- [[417_pachirisu|pokemon/pachirisu]]
+- [[424_ambipom|pokemon/ambipom]]
+- [[427_buneary|pokemon/buneary]]
+- [[428_lopunny|pokemon/lopunny]]
+- [[431_glameow|pokemon/glameow]]
+- [[432_purugly|pokemon/purugly]]
+- [[433_chingling|pokemon/chingling]]
+- [[440_happiny|pokemon/happiny]]
+- [[446_munchlax|pokemon/munchlax]]
+- [[468_togekiss|pokemon/togekiss]]
+- [[470_leafeon|pokemon/leafeon]]
+- [[471_glaceon|pokemon/glaceon]]
+- [[474_porygon-z|pokemon/porygon-z]]
+- [[482_azelf|pokemon/azelf]]
+- [[489_phione|pokemon/phione]]
+- [[490_manaphy|pokemon/manaphy]]
+- [[491_darkrai|pokemon/darkrai]]
+- [[492_shaymin-land|pokemon/shaymin-land]]
+- [[493_arceus|pokemon/arceus]]
+- [[494_victini|pokemon/victini]]
+- [[504_patrat|pokemon/patrat]]
+- [[505_watchog|pokemon/watchog]]
+- [[506_lillipup|pokemon/lillipup]]
+- [[507_herdier|pokemon/herdier]]
+- [[508_stoutland|pokemon/stoutland]]
+- [[531_audino|pokemon/audino]]
+- [[572_minccino|pokemon/minccino]]
+- [[573_cinccino|pokemon/cinccino]]
+- [[585_deerling|pokemon/deerling]]
+- [[586_sawsbuck|pokemon/sawsbuck]]
+- [[587_emolga|pokemon/emolga]]
+- [[647_keldeo-ordinary|pokemon/keldeo-ordinary]]
+- [[648_meloetta-aria|pokemon/meloetta-aria]]
+- [[649_genesect|pokemon/genesect]]
+- [[659_bunnelby|pokemon/bunnelby]]
+- [[660_diggersby|pokemon/diggersby]]
+- [[676_furfrou|pokemon/furfrou]]
+- [[700_sylveon|pokemon/sylveon]]
+- [[701_hawlucha|pokemon/hawlucha]]
+- [[702_dedenne|pokemon/dedenne]]
+- [[707_klefki|pokemon/klefki]]
+- [[719_diancie|pokemon/diancie]]
+- [[720_hoopa|pokemon/hoopa]]
+- [[734_yungoos|pokemon/yungoos]]
+- [[735_gumshoos|pokemon/gumshoos]]
+- [[742_cutiefly|pokemon/cutiefly]]
+- [[743_ribombee|pokemon/ribombee]]
+- [[744_rockruff|pokemon/rockruff]]
+- [[745_lycanroc-midday|pokemon/lycanroc-midday]]
+- [[765_oranguru|pokemon/oranguru]]
+- [[772_type-null|pokemon/type-null]]
+- [[773_silvally|pokemon/silvally]]
+- [[774_minior-red-meteor|pokemon/minior-red-meteor]]
+- [[775_komala|pokemon/komala]]
+- [[777_togedemaru|pokemon/togedemaru]]
+- [[778_mimikyu-disguised|pokemon/mimikyu-disguised]]
+- [[791_solgaleo|pokemon/solgaleo]]
+- [[798_kartana|pokemon/kartana]]
+- [[799_guzzlord|pokemon/guzzlord]]
+- [[801_magearna|pokemon/magearna]]
+- [[802_marshadow|pokemon/marshadow]]
+- [[806_blacephalon|pokemon/blacephalon]]
+- [[819_skwovet|pokemon/skwovet]]
+- [[832_dubwool|pokemon/dubwool]]
+- [[843_silicobra|pokemon/silicobra]]
+- [[868_milcery|pokemon/milcery]]
+- [[876_indeedee-male|pokemon/indeedee-male]]
+- [[886_drakloak|pokemon/drakloak]]
+- [[887_dragapult|pokemon/dragapult]]
+- [[912_quaxly|pokemon/quaxly]]
+- [[926_fidough|pokemon/fidough]]
+- [[927_dachsbun|pokemon/dachsbun]]
+- [[956_espathra|pokemon/espathra]]
+- [[10006_shaymin-sky|pokemon/shaymin-sky]]
+- [[10013_castform-sunny|pokemon/castform-sunny]]
+- [[10014_castform-rainy|pokemon/castform-rainy]]
+- [[10015_castform-snowy|pokemon/castform-snowy]]
+- [[10018_meloetta-pirouette|pokemon/meloetta-pirouette]]
+- [[10024_keldeo-resolute|pokemon/keldeo-resolute]]
+- [[10050_blaziken-mega|pokemon/blaziken-mega]]
+- [[10052_mawile-mega|pokemon/mawile-mega]]
+- [[10062_latias-mega|pokemon/latias-mega]]
+- [[10063_latios-mega|pokemon/latios-mega]]
+- [[10069_audino-mega|pokemon/audino-mega]]
+- [[10075_diancie-mega|pokemon/diancie-mega]]
+- [[10086_hoopa-unbound|pokemon/hoopa-unbound]]
+- [[10088_lopunny-mega|pokemon/lopunny-mega]]
+- [[10091_rattata-alola|pokemon/rattata-alola]]
+- [[10092_raticate-alola|pokemon/raticate-alola]]
+- [[10093_raticate-totem-alola|pokemon/raticate-totem-alola]]
+- [[10107_meowth-alola|pokemon/meowth-alola]]
+- [[10108_persian-alola|pokemon/persian-alola]]
+- [[10121_gumshoos-totem|pokemon/gumshoos-totem]]
+- [[10126_lycanroc-midnight|pokemon/lycanroc-midnight]]
+- [[10130_minior-orange-meteor|pokemon/minior-orange-meteor]]
+- [[10131_minior-yellow-meteor|pokemon/minior-yellow-meteor]]
+- [[10132_minior-green-meteor|pokemon/minior-green-meteor]]
+- [[10133_minior-blue-meteor|pokemon/minior-blue-meteor]]
+- [[10134_minior-indigo-meteor|pokemon/minior-indigo-meteor]]
+- [[10135_minior-violet-meteor|pokemon/minior-violet-meteor]]
+- [[10136_minior-red|pokemon/minior-red]]
+- [[10137_minior-orange|pokemon/minior-orange]]
+- [[10138_minior-yellow|pokemon/minior-yellow]]
+- [[10139_minior-green|pokemon/minior-green]]
+- [[10140_minior-blue|pokemon/minior-blue]]
+- [[10141_minior-indigo|pokemon/minior-indigo]]
+- [[10142_minior-violet|pokemon/minior-violet]]
+- [[10143_mimikyu-busted|pokemon/mimikyu-busted]]
+- [[10144_mimikyu-totem-disguised|pokemon/mimikyu-totem-disguised]]
+- [[10145_mimikyu-totem-busted|pokemon/mimikyu-totem-busted]]
+- [[10147_magearna-original|pokemon/magearna-original]]
+- [[10150_ribombee-totem|pokemon/ribombee-totem]]
+- [[10151_rockruff-own-tempo|pokemon/rockruff-own-tempo]]
+- [[10152_lycanroc-dusk|pokemon/lycanroc-dusk]]
+- [[10154_togedemaru-totem|pokemon/togedemaru-totem]]
+

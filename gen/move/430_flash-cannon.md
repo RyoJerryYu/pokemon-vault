@@ -1,0 +1,214 @@
+---
+id: 430
+name: flash-cannon
+type: steel
+power: 80
+pp: 10
+priority: 0
+accuracy: 100
+damage_class: special
+zh_name: 加农光炮
+jp_name: ラスターカノン
+kr_name: 러스터캐논
+aliases:
+  - ラスターカノン
+  - 러스터캐논
+  - 加農光炮
+  - Luminocanon
+  - Lichtkanone
+  - Foco Resplandor
+  - Cannonflash
+  - Flash Cannon
+  - ラスターカノン
+  - 加农光炮
+  - flash-cannon
+  - move/430
+  - move/flash-cannon
+---
+# flash-cannon
+    
+ラスターカノン | 러스터캐논 | 加農光炮 | Luminocanon | Lichtkanone | Foco Resplandor | Cannonflash | Flash Cannon | ラスターカノン | 加农光炮
+
+[[9_steel|type/steel]]
+
+## Effect
+
+Inflicts regular damage.  Has a $effect_chance% chance to lower the target's Special Defense by one stage.
+
+## Description
+
+
+
+## Pokemon
+
+- [[9_blastoise|pokemon/blastoise]]
+- [[81_magnemite|pokemon/magnemite]]
+- [[82_magneton|pokemon/magneton]]
+- [[95_onix|pokemon/onix]]
+- [[116_horsea|pokemon/horsea]]
+- [[117_seadra|pokemon/seadra]]
+- [[120_staryu|pokemon/staryu]]
+- [[121_starmie|pokemon/starmie]]
+- [[151_mew|pokemon/mew]]
+- [[205_forretress|pokemon/forretress]]
+- [[208_steelix|pokemon/steelix]]
+- [[212_scizor|pokemon/scizor]]
+- [[224_octillery|pokemon/octillery]]
+- [[227_skarmory|pokemon/skarmory]]
+- [[230_kingdra|pokemon/kingdra]]
+- [[299_nosepass|pokemon/nosepass]]
+- [[303_mawile|pokemon/mawile]]
+- [[306_aggron|pokemon/aggron]]
+- [[322_numel|pokemon/numel]]
+- [[323_camerupt|pokemon/camerupt]]
+- [[325_spoink|pokemon/spoink]]
+- [[326_grumpig|pokemon/grumpig]]
+- [[348_armaldo|pokemon/armaldo]]
+- [[375_metang|pokemon/metang]]
+- [[376_metagross|pokemon/metagross]]
+- [[377_regirock|pokemon/regirock]]
+- [[378_regice|pokemon/regice]]
+- [[379_registeel|pokemon/registeel]]
+- [[385_jirachi|pokemon/jirachi]]
+- [[386_deoxys-normal|pokemon/deoxys-normal]]
+- [[395_empoleon|pokemon/empoleon]]
+- [[410_shieldon|pokemon/shieldon]]
+- [[411_bastiodon|pokemon/bastiodon]]
+- [[436_bronzor|pokemon/bronzor]]
+- [[437_bronzong|pokemon/bronzong]]
+- [[448_lucario|pokemon/lucario]]
+- [[462_magnezone|pokemon/magnezone]]
+- [[464_rhyperior|pokemon/rhyperior]]
+- [[476_probopass|pokemon/probopass]]
+- [[483_dialga|pokemon/dialga]]
+- [[485_heatran|pokemon/heatran]]
+- [[493_arceus|pokemon/arceus]]
+- [[524_roggenrola|pokemon/roggenrola]]
+- [[525_boldore|pokemon/boldore]]
+- [[526_gigalith|pokemon/gigalith]]
+- [[561_sigilyph|pokemon/sigilyph]]
+- [[577_solosis|pokemon/solosis]]
+- [[578_duosion|pokemon/duosion]]
+- [[579_reuniclus|pokemon/reuniclus]]
+- [[582_vanillite|pokemon/vanillite]]
+- [[583_vanillish|pokemon/vanillish]]
+- [[584_vanilluxe|pokemon/vanilluxe]]
+- [[597_ferroseed|pokemon/ferroseed]]
+- [[598_ferrothorn|pokemon/ferrothorn]]
+- [[599_klink|pokemon/klink]]
+- [[600_klang|pokemon/klang]]
+- [[601_klinklang|pokemon/klinklang]]
+- [[603_eelektrik|pokemon/eelektrik]]
+- [[604_eelektross|pokemon/eelektross]]
+- [[606_beheeyem|pokemon/beheeyem]]
+- [[615_cryogonal|pokemon/cryogonal]]
+- [[621_druddigon|pokemon/druddigon]]
+- [[623_golurk|pokemon/golurk]]
+- [[624_pawniard|pokemon/pawniard]]
+- [[625_bisharp|pokemon/bisharp]]
+- [[632_durant|pokemon/durant]]
+- [[635_hydreigon|pokemon/hydreigon]]
+- [[638_cobalion|pokemon/cobalion]]
+- [[642_thundurus-incarnate|pokemon/thundurus-incarnate]]
+- [[644_zekrom|pokemon/zekrom]]
+- [[646_kyurem|pokemon/kyurem]]
+- [[649_genesect|pokemon/genesect]]
+- [[679_honedge|pokemon/honedge]]
+- [[680_doublade|pokemon/doublade]]
+- [[681_aegislash-shield|pokemon/aegislash-shield]]
+- [[682_spritzee|pokemon/spritzee]]
+- [[683_aromatisse|pokemon/aromatisse]]
+- [[692_clauncher|pokemon/clauncher]]
+- [[693_clawitzer|pokemon/clawitzer]]
+- [[698_amaura|pokemon/amaura]]
+- [[699_aurorus|pokemon/aurorus]]
+- [[703_carbink|pokemon/carbink]]
+- [[707_klefki|pokemon/klefki]]
+- [[712_bergmite|pokemon/bergmite]]
+- [[713_avalugg|pokemon/avalugg]]
+- [[716_xerneas|pokemon/xerneas]]
+- [[719_diancie|pokemon/diancie]]
+- [[721_volcanion|pokemon/volcanion]]
+- [[733_toucannon|pokemon/toucannon]]
+- [[738_vikavolt|pokemon/vikavolt]]
+- [[769_sandygast|pokemon/sandygast]]
+- [[770_palossand|pokemon/palossand]]
+- [[773_silvally|pokemon/silvally]]
+- [[776_turtonator|pokemon/turtonator]]
+- [[781_dhelmise|pokemon/dhelmise]]
+- [[784_kommo-o|pokemon/kommo-o]]
+- [[791_solgaleo|pokemon/solgaleo]]
+- [[797_celesteela|pokemon/celesteela]]
+- [[800_necrozma|pokemon/necrozma]]
+- [[801_magearna|pokemon/magearna]]
+- [[805_stakataka|pokemon/stakataka]]
+- [[808_meltan|pokemon/meltan]]
+- [[809_melmetal|pokemon/melmetal]]
+- [[823_corviknight|pokemon/corviknight]]
+- [[878_cufant|pokemon/cufant]]
+- [[879_copperajah|pokemon/copperajah]]
+- [[884_duraludon|pokemon/duraludon]]
+- [[888_zacian|pokemon/zacian]]
+- [[889_zamazenta|pokemon/zamazenta]]
+- [[890_eternatus|pokemon/eternatus]]
+- [[932_nacli|pokemon/nacli]]
+- [[933_naclstack|pokemon/naclstack]]
+- [[934_garganacl|pokemon/garganacl]]
+- [[936_armarouge|pokemon/armarouge]]
+- [[948_toedscool|pokemon/toedscool]]
+- [[949_toedscruel|pokemon/toedscruel]]
+- [[956_espathra|pokemon/espathra]]
+- [[957_tinkatink|pokemon/tinkatink]]
+- [[958_tinkatuff|pokemon/tinkatuff]]
+- [[959_tinkaton|pokemon/tinkaton]]
+- [[965_varoom|pokemon/varoom]]
+- [[966_revavroom|pokemon/revavroom]]
+- [[968_orthworm|pokemon/orthworm]]
+- [[970_glimmora|pokemon/glimmora]]
+- [[983_kingambit|pokemon/kingambit]]
+- [[984_great-tusk|pokemon/great-tusk]]
+- [[989_sandy-shocks|pokemon/sandy-shocks]]
+- [[990_iron-treads|pokemon/iron-treads]]
+- [[993_iron-jugulis|pokemon/iron-jugulis]]
+- [[994_iron-moth|pokemon/iron-moth]]
+- [[1000_gholdengo|pokemon/gholdengo]]
+- [[1008_miraidon|pokemon/miraidon]]
+- [[10001_deoxys-attack|pokemon/deoxys-attack]]
+- [[10002_deoxys-defense|pokemon/deoxys-defense]]
+- [[10003_deoxys-speed|pokemon/deoxys-speed]]
+- [[10005_wormadam-trash|pokemon/wormadam-trash]]
+- [[10020_thundurus-therian|pokemon/thundurus-therian]]
+- [[10022_kyurem-black|pokemon/kyurem-black]]
+- [[10023_kyurem-white|pokemon/kyurem-white]]
+- [[10026_aegislash-blade|pokemon/aegislash-blade]]
+- [[10036_blastoise-mega|pokemon/blastoise-mega]]
+- [[10046_scizor-mega|pokemon/scizor-mega]]
+- [[10052_mawile-mega|pokemon/mawile-mega]]
+- [[10053_aggron-mega|pokemon/aggron-mega]]
+- [[10059_lucario-mega|pokemon/lucario-mega]]
+- [[10072_steelix-mega|pokemon/steelix-mega]]
+- [[10076_metagross-mega|pokemon/metagross-mega]]
+- [[10087_camerupt-mega|pokemon/camerupt-mega]]
+- [[10101_sandshrew-alola|pokemon/sandshrew-alola]]
+- [[10102_sandslash-alola|pokemon/sandslash-alola]]
+- [[10105_diglett-alola|pokemon/diglett-alola]]
+- [[10106_dugtrio-alola|pokemon/dugtrio-alola]]
+- [[10122_vikavolt-totem|pokemon/vikavolt-totem]]
+- [[10146_kommo-o-totem|pokemon/kommo-o-totem]]
+- [[10147_magearna-original|pokemon/magearna-original]]
+- [[10155_necrozma-dusk|pokemon/necrozma-dusk]]
+- [[10156_necrozma-dawn|pokemon/necrozma-dawn]]
+- [[10157_necrozma-ultra|pokemon/necrozma-ultra]]
+- [[10161_meowth-galar|pokemon/meowth-galar]]
+- [[10180_stunfisk-galar|pokemon/stunfisk-galar]]
+- [[10188_zacian-crowned|pokemon/zacian-crowned]]
+- [[10189_zamazenta-crowned|pokemon/zamazenta-crowned]]
+- [[10190_eternatus-eternamax|pokemon/eternatus-eternamax]]
+- [[10241_sliggoo-hisui|pokemon/sliggoo-hisui]]
+- [[10242_goodra-hisui|pokemon/goodra-hisui]]
+- [[10245_dialga-origin|pokemon/dialga-origin]]
+- [[10268_miraidon-low-power-mode|pokemon/miraidon-low-power-mode]]
+- [[10269_miraidon-drive-mode|pokemon/miraidon-drive-mode]]
+- [[10270_miraidon-aquatic-mode|pokemon/miraidon-aquatic-mode]]
+- [[10271_miraidon-glide-mode|pokemon/miraidon-glide-mode]]
+

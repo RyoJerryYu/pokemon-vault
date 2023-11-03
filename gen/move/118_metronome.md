@@ -1,0 +1,189 @@
+---
+id: 118
+name: metronome
+type: normal
+power: null
+pp: 10
+priority: 0
+accuracy: null
+damage_class: status
+zh_name: 挥指
+jp_name: ゆびをふる
+kr_name: 손가락흔들기
+aliases:
+  - ゆびをふる
+  - 손가락흔들기
+  - 揮指
+  - Métronome
+  - Metronom
+  - Metrónomo
+  - Metronomo
+  - Metronome
+  - ゆびをふる
+  - 挥指
+  - metronome
+  - move/118
+  - move/metronome
+---
+# metronome
+    
+ゆびをふる | 손가락흔들기 | 揮指 | Métronome | Metronom | Metrónomo | Metronomo | Metronome | ゆびをふる | 挥指
+
+[[1_normal|type/normal]]
+
+## Effect
+
+Selects any move at random and uses it.  Moves the user already knows are not eligible.  Assist, meta, protection, and reflection moves are also not eligible; specifically, assist, chatter, copycat, counter, covet, destiny bond, detect, endure, feint, focus punch, follow me, helping hand, me first, metronome, mimic, mirror coat, mirror move, protect, quick guard, sketch, sleep talk, snatch, struggle, switcheroo, thief, trick, and wide guard will not be selected by this move.
+
+This move cannot be copied by mimic or mirror move, nor selected by assist, metronome, or sleep talk.
+
+## Description
+
+
+
+## Pokemon
+
+- [[35_clefairy|pokemon/clefairy]]
+- [[36_clefable|pokemon/clefable]]
+- [[39_jigglypuff|pokemon/jigglypuff]]
+- [[40_wigglytuff|pokemon/wigglytuff]]
+- [[54_psyduck|pokemon/psyduck]]
+- [[55_golduck|pokemon/golduck]]
+- [[56_mankey|pokemon/mankey]]
+- [[57_primeape|pokemon/primeape]]
+- [[61_poliwhirl|pokemon/poliwhirl]]
+- [[62_poliwrath|pokemon/poliwrath]]
+- [[63_abra|pokemon/abra]]
+- [[64_kadabra|pokemon/kadabra]]
+- [[65_alakazam|pokemon/alakazam]]
+- [[66_machop|pokemon/machop]]
+- [[67_machoke|pokemon/machoke]]
+- [[68_machamp|pokemon/machamp]]
+- [[74_geodude|pokemon/geodude]]
+- [[75_graveler|pokemon/graveler]]
+- [[76_golem|pokemon/golem]]
+- [[80_slowbro|pokemon/slowbro]]
+- [[88_grimer|pokemon/grimer]]
+- [[89_muk|pokemon/muk]]
+- [[93_haunter|pokemon/haunter]]
+- [[94_gengar|pokemon/gengar]]
+- [[96_drowzee|pokemon/drowzee]]
+- [[97_hypno|pokemon/hypno]]
+- [[106_hitmonlee|pokemon/hitmonlee]]
+- [[107_hitmonchan|pokemon/hitmonchan]]
+- [[113_chansey|pokemon/chansey]]
+- [[122_mr-mime|pokemon/mr-mime]]
+- [[124_jynx|pokemon/jynx]]
+- [[125_electabuzz|pokemon/electabuzz]]
+- [[126_magmar|pokemon/magmar]]
+- [[143_snorlax|pokemon/snorlax]]
+- [[149_dragonite|pokemon/dragonite]]
+- [[150_mewtwo|pokemon/mewtwo]]
+- [[151_mew|pokemon/mew]]
+- [[173_cleffa|pokemon/cleffa]]
+- [[175_togepi|pokemon/togepi]]
+- [[176_togetic|pokemon/togetic]]
+- [[183_marill|pokemon/marill]]
+- [[184_azumarill|pokemon/azumarill]]
+- [[186_politoed|pokemon/politoed]]
+- [[190_aipom|pokemon/aipom]]
+- [[199_slowking|pokemon/slowking]]
+- [[209_snubbull|pokemon/snubbull]]
+- [[210_granbull|pokemon/granbull]]
+- [[216_teddiursa|pokemon/teddiursa]]
+- [[217_ursaring|pokemon/ursaring]]
+- [[238_smoochum|pokemon/smoochum]]
+- [[241_miltank|pokemon/miltank]]
+- [[242_blissey|pokemon/blissey]]
+- [[251_celebi|pokemon/celebi]]
+- [[271_lombre|pokemon/lombre]]
+- [[272_ludicolo|pokemon/ludicolo]]
+- [[280_ralts|pokemon/ralts]]
+- [[281_kirlia|pokemon/kirlia]]
+- [[282_gardevoir|pokemon/gardevoir]]
+- [[287_slakoth|pokemon/slakoth]]
+- [[288_vigoroth|pokemon/vigoroth]]
+- [[289_slaking|pokemon/slaking]]
+- [[296_makuhita|pokemon/makuhita]]
+- [[297_hariyama|pokemon/hariyama]]
+- [[302_sableye|pokemon/sableye]]
+- [[307_meditite|pokemon/meditite]]
+- [[308_medicham|pokemon/medicham]]
+- [[311_plusle|pokemon/plusle]]
+- [[312_minun|pokemon/minun]]
+- [[313_volbeat|pokemon/volbeat]]
+- [[314_illumise|pokemon/illumise]]
+- [[317_swalot|pokemon/swalot]]
+- [[326_grumpig|pokemon/grumpig]]
+- [[327_spinda|pokemon/spinda]]
+- [[352_kecleon|pokemon/kecleon]]
+- [[353_shuppet|pokemon/shuppet]]
+- [[354_banette|pokemon/banette]]
+- [[356_dusclops|pokemon/dusclops]]
+- [[385_jirachi|pokemon/jirachi]]
+- [[419_floatzel|pokemon/floatzel]]
+- [[424_ambipom|pokemon/ambipom]]
+- [[440_happiny|pokemon/happiny]]
+- [[446_munchlax|pokemon/munchlax]]
+- [[448_lucario|pokemon/lucario]]
+- [[461_weavile|pokemon/weavile]]
+- [[468_togekiss|pokemon/togekiss]]
+- [[477_dusknoir|pokemon/dusknoir]]
+- [[480_uxie|pokemon/uxie]]
+- [[481_mesprit|pokemon/mesprit]]
+- [[482_azelf|pokemon/azelf]]
+- [[575_gothorita|pokemon/gothorita]]
+- [[576_gothitelle|pokemon/gothitelle]]
+- [[641_tornadus-incarnate|pokemon/tornadus-incarnate]]
+- [[648_meloetta-aria|pokemon/meloetta-aria]]
+- [[655_delphox|pokemon/delphox]]
+- [[670_floette|pokemon/floette]]
+- [[671_florges|pokemon/florges]]
+- [[683_aromatisse|pokemon/aromatisse]]
+- [[685_slurpuff|pokemon/slurpuff]]
+- [[719_diancie|pokemon/diancie]]
+- [[818_inteleon|pokemon/inteleon]]
+- [[849_toxtricity-amped|pokemon/toxtricity-amped]]
+- [[854_sinistea|pokemon/sinistea]]
+- [[855_polteageist|pokemon/polteageist]]
+- [[856_hatenna|pokemon/hatenna]]
+- [[857_hattrem|pokemon/hattrem]]
+- [[858_hatterene|pokemon/hatterene]]
+- [[859_impidimp|pokemon/impidimp]]
+- [[860_morgrem|pokemon/morgrem]]
+- [[861_grimmsnarl|pokemon/grimmsnarl]]
+- [[863_perrserker|pokemon/perrserker]]
+- [[866_mr-rime|pokemon/mr-rime]]
+- [[869_alcremie|pokemon/alcremie]]
+- [[876_indeedee-male|pokemon/indeedee-male]]
+- [[898_calyrex|pokemon/calyrex]]
+- [[901_ursaluna|pokemon/ursaluna]]
+- [[923_pawmot|pokemon/pawmot]]
+- [[930_arboliva|pokemon/arboliva]]
+- [[944_shroodle|pokemon/shroodle]]
+- [[945_grafaiai|pokemon/grafaiai]]
+- [[957_tinkatink|pokemon/tinkatink]]
+- [[958_tinkatuff|pokemon/tinkatuff]]
+- [[959_tinkaton|pokemon/tinkaton]]
+- [[979_annihilape|pokemon/annihilape]]
+- [[985_scream-tail|pokemon/scream-tail]]
+- [[992_iron-hands|pokemon/iron-hands]]
+- [[1006_iron-valiant|pokemon/iron-valiant]]
+- [[1015_munkidori|pokemon/munkidori]]
+- [[10018_meloetta-pirouette|pokemon/meloetta-pirouette]]
+- [[10019_tornadus-therian|pokemon/tornadus-therian]]
+- [[10110_graveler-alola|pokemon/graveler-alola]]
+- [[10111_golem-alola|pokemon/golem-alola]]
+- [[10112_grimer-alola|pokemon/grimer-alola]]
+- [[10113_muk-alola|pokemon/muk-alola]]
+- [[10161_meowth-galar|pokemon/meowth-galar]]
+- [[10165_slowbro-galar|pokemon/slowbro-galar]]
+- [[10168_mr-mime-galar|pokemon/mr-mime-galar]]
+- [[10172_slowking-galar|pokemon/slowking-galar]]
+- [[10184_toxtricity-low-key|pokemon/toxtricity-low-key]]
+- [[10186_indeedee-female|pokemon/indeedee-female]]
+- [[10193_calyrex-ice|pokemon/calyrex-ice]]
+- [[10194_calyrex-shadow|pokemon/calyrex-shadow]]
+- [[10237_lilligant-hisui|pokemon/lilligant-hisui]]
+- [[10272_ursaluna-bloodmoon|pokemon/ursaluna-bloodmoon]]
+

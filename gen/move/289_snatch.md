@@ -1,0 +1,229 @@
+---
+id: 289
+name: snatch
+type: dark
+power: null
+pp: 10
+priority: 4
+accuracy: null
+damage_class: status
+zh_name: 抢夺
+jp_name: よこどり
+kr_name: 가로챔
+aliases:
+  - よこどり
+  - 가로챔
+  - 搶奪
+  - Saisie
+  - Übernahme
+  - Robo
+  - Scippo
+  - Snatch
+  - よこどり
+  - 抢夺
+  - snatch
+  - move/289
+  - move/snatch
+---
+# snatch
+    
+よこどり | 가로챔 | 搶奪 | Saisie | Übernahme | Robo | Scippo | Snatch | よこどり | 抢夺
+
+[[17_dark|type/dark]]
+
+## Effect
+
+The next time a Pokémon uses a beneficial move on itself or itself and its ally this turn, the user of this move will steal the move and use it itself.  Moves which may be stolen by this move are identified by the "snatchable" flag.
+
+If two Pokémon use this move on the same turn, the faster Pokémon will steal the first beneficial move, and the slower Pokémon will then steal it again—thus, only the slowest Pokémon using this move ultimately gains a stolen move's effect.
+
+If the user steals psych up, it will target the Pokémon that used psych up.  If the user was the original target of psych up, and the Pokémon that originally used it's affected by pressure, it will only lose 1 PP.
+
+This move cannot be copied by mirror move, nor selected by assist or metronome.
+
+## Description
+
+
+
+## Pokemon
+
+- [[23_ekans|pokemon/ekans]]
+- [[24_arbok|pokemon/arbok]]
+- [[35_clefairy|pokemon/clefairy]]
+- [[36_clefable|pokemon/clefable]]
+- [[39_jigglypuff|pokemon/jigglypuff]]
+- [[40_wigglytuff|pokemon/wigglytuff]]
+- [[41_zubat|pokemon/zubat]]
+- [[42_golbat|pokemon/golbat]]
+- [[52_meowth|pokemon/meowth]]
+- [[53_persian|pokemon/persian]]
+- [[63_abra|pokemon/abra]]
+- [[64_kadabra|pokemon/kadabra]]
+- [[65_alakazam|pokemon/alakazam]]
+- [[92_gastly|pokemon/gastly]]
+- [[93_haunter|pokemon/haunter]]
+- [[94_gengar|pokemon/gengar]]
+- [[96_drowzee|pokemon/drowzee]]
+- [[97_hypno|pokemon/hypno]]
+- [[113_chansey|pokemon/chansey]]
+- [[122_mr-mime|pokemon/mr-mime]]
+- [[143_snorlax|pokemon/snorlax]]
+- [[150_mewtwo|pokemon/mewtwo]]
+- [[151_mew|pokemon/mew]]
+- [[169_crobat|pokemon/crobat]]
+- [[190_aipom|pokemon/aipom]]
+- [[197_umbreon|pokemon/umbreon]]
+- [[198_murkrow|pokemon/murkrow]]
+- [[200_misdreavus|pokemon/misdreavus]]
+- [[215_sneasel|pokemon/sneasel]]
+- [[228_houndour|pokemon/houndour]]
+- [[229_houndoom|pokemon/houndoom]]
+- [[242_blissey|pokemon/blissey]]
+- [[261_poochyena|pokemon/poochyena]]
+- [[262_mightyena|pokemon/mightyena]]
+- [[280_ralts|pokemon/ralts]]
+- [[281_kirlia|pokemon/kirlia]]
+- [[282_gardevoir|pokemon/gardevoir]]
+- [[285_shroomish|pokemon/shroomish]]
+- [[286_breloom|pokemon/breloom]]
+- [[302_sableye|pokemon/sableye]]
+- [[303_mawile|pokemon/mawile]]
+- [[316_gulpin|pokemon/gulpin]]
+- [[317_swalot|pokemon/swalot]]
+- [[325_spoink|pokemon/spoink]]
+- [[326_grumpig|pokemon/grumpig]]
+- [[327_spinda|pokemon/spinda]]
+- [[336_seviper|pokemon/seviper]]
+- [[352_kecleon|pokemon/kecleon]]
+- [[353_shuppet|pokemon/shuppet]]
+- [[354_banette|pokemon/banette]]
+- [[355_duskull|pokemon/duskull]]
+- [[356_dusclops|pokemon/dusclops]]
+- [[358_chimecho|pokemon/chimecho]]
+- [[359_absol|pokemon/absol]]
+- [[367_huntail|pokemon/huntail]]
+- [[386_deoxys-normal|pokemon/deoxys-normal]]
+- [[424_ambipom|pokemon/ambipom]]
+- [[429_mismagius|pokemon/mismagius]]
+- [[430_honchkrow|pokemon/honchkrow]]
+- [[431_glameow|pokemon/glameow]]
+- [[432_purugly|pokemon/purugly]]
+- [[433_chingling|pokemon/chingling]]
+- [[434_stunky|pokemon/stunky]]
+- [[435_skuntank|pokemon/skuntank]]
+- [[439_mime-jr|pokemon/mime-jr]]
+- [[442_spiritomb|pokemon/spiritomb]]
+- [[446_munchlax|pokemon/munchlax]]
+- [[453_croagunk|pokemon/croagunk]]
+- [[454_toxicroak|pokemon/toxicroak]]
+- [[461_weavile|pokemon/weavile]]
+- [[475_gallade|pokemon/gallade]]
+- [[477_dusknoir|pokemon/dusknoir]]
+- [[478_froslass|pokemon/froslass]]
+- [[479_rotom|pokemon/rotom]]
+- [[491_darkrai|pokemon/darkrai]]
+- [[495_snivy|pokemon/snivy]]
+- [[496_servine|pokemon/servine]]
+- [[497_serperior|pokemon/serperior]]
+- [[509_purrloin|pokemon/purrloin]]
+- [[510_liepard|pokemon/liepard]]
+- [[522_blitzle|pokemon/blitzle]]
+- [[523_zebstrika|pokemon/zebstrika]]
+- [[531_audino|pokemon/audino]]
+- [[545_scolipede|pokemon/scolipede]]
+- [[551_sandile|pokemon/sandile]]
+- [[552_krokorok|pokemon/krokorok]]
+- [[553_krookodile|pokemon/krookodile]]
+- [[554_darumaka|pokemon/darumaka]]
+- [[555_darmanitan-standard|pokemon/darmanitan-standard]]
+- [[559_scraggy|pokemon/scraggy]]
+- [[560_scrafty|pokemon/scrafty]]
+- [[562_yamask|pokemon/yamask]]
+- [[563_cofagrigus|pokemon/cofagrigus]]
+- [[570_zorua|pokemon/zorua]]
+- [[571_zoroark|pokemon/zoroark]]
+- [[574_gothita|pokemon/gothita]]
+- [[575_gothorita|pokemon/gothorita]]
+- [[576_gothitelle|pokemon/gothitelle]]
+- [[577_solosis|pokemon/solosis]]
+- [[578_duosion|pokemon/duosion]]
+- [[579_reuniclus|pokemon/reuniclus]]
+- [[605_elgyem|pokemon/elgyem]]
+- [[606_beheeyem|pokemon/beheeyem]]
+- [[621_druddigon|pokemon/druddigon]]
+- [[624_pawniard|pokemon/pawniard]]
+- [[625_bisharp|pokemon/bisharp]]
+- [[629_vullaby|pokemon/vullaby]]
+- [[630_mandibuzz|pokemon/mandibuzz]]
+- [[631_heatmor|pokemon/heatmor]]
+- [[648_meloetta-aria|pokemon/meloetta-aria]]
+- [[654_braixen|pokemon/braixen]]
+- [[655_delphox|pokemon/delphox]]
+- [[656_froakie|pokemon/froakie]]
+- [[657_frogadier|pokemon/frogadier]]
+- [[658_greninja|pokemon/greninja]]
+- [[660_diggersby|pokemon/diggersby]]
+- [[661_fletchling|pokemon/fletchling]]
+- [[662_fletchinder|pokemon/fletchinder]]
+- [[663_talonflame|pokemon/talonflame]]
+- [[667_litleo|pokemon/litleo]]
+- [[668_pyroar|pokemon/pyroar]]
+- [[674_pancham|pokemon/pancham]]
+- [[675_pangoro|pokemon/pangoro]]
+- [[677_espurr|pokemon/espurr]]
+- [[678_meowstic-male|pokemon/meowstic-male]]
+- [[686_inkay|pokemon/inkay]]
+- [[687_malamar|pokemon/malamar]]
+- [[714_noibat|pokemon/noibat]]
+- [[715_noivern|pokemon/noivern]]
+- [[720_hoopa|pokemon/hoopa]]
+- [[727_incineroar|pokemon/incineroar]]
+- [[747_mareanie|pokemon/mareanie]]
+- [[748_toxapex|pokemon/toxapex]]
+- [[757_salandit|pokemon/salandit]]
+- [[758_salazzle|pokemon/salazzle]]
+- [[765_oranguru|pokemon/oranguru]]
+- [[766_passimian|pokemon/passimian]]
+- [[778_mimikyu-disguised|pokemon/mimikyu-disguised]]
+- [[779_bruxish|pokemon/bruxish]]
+- [[795_pheromosa|pokemon/pheromosa]]
+- [[802_marshadow|pokemon/marshadow]]
+- [[803_poipole|pokemon/poipole]]
+- [[804_naganadel|pokemon/naganadel]]
+- [[807_zeraora|pokemon/zeraora]]
+- [[10001_deoxys-attack|pokemon/deoxys-attack]]
+- [[10002_deoxys-defense|pokemon/deoxys-defense]]
+- [[10003_deoxys-speed|pokemon/deoxys-speed]]
+- [[10008_rotom-heat|pokemon/rotom-heat]]
+- [[10009_rotom-wash|pokemon/rotom-wash]]
+- [[10010_rotom-frost|pokemon/rotom-frost]]
+- [[10011_rotom-fan|pokemon/rotom-fan]]
+- [[10012_rotom-mow|pokemon/rotom-mow]]
+- [[10017_darmanitan-zen|pokemon/darmanitan-zen]]
+- [[10018_meloetta-pirouette|pokemon/meloetta-pirouette]]
+- [[10025_meowstic-female|pokemon/meowstic-female]]
+- [[10037_alakazam-mega|pokemon/alakazam-mega]]
+- [[10038_gengar-mega|pokemon/gengar-mega]]
+- [[10043_mewtwo-mega-x|pokemon/mewtwo-mega-x]]
+- [[10044_mewtwo-mega-y|pokemon/mewtwo-mega-y]]
+- [[10048_houndoom-mega|pokemon/houndoom-mega]]
+- [[10051_gardevoir-mega|pokemon/gardevoir-mega]]
+- [[10052_mawile-mega|pokemon/mawile-mega]]
+- [[10056_banette-mega|pokemon/banette-mega]]
+- [[10057_absol-mega|pokemon/absol-mega]]
+- [[10066_sableye-mega|pokemon/sableye-mega]]
+- [[10068_gallade-mega|pokemon/gallade-mega]]
+- [[10069_audino-mega|pokemon/audino-mega]]
+- [[10086_hoopa-unbound|pokemon/hoopa-unbound]]
+- [[10091_rattata-alola|pokemon/rattata-alola]]
+- [[10092_raticate-alola|pokemon/raticate-alola]]
+- [[10093_raticate-totem-alola|pokemon/raticate-totem-alola]]
+- [[10107_meowth-alola|pokemon/meowth-alola]]
+- [[10108_persian-alola|pokemon/persian-alola]]
+- [[10116_greninja-battle-bond|pokemon/greninja-battle-bond]]
+- [[10117_greninja-ash|pokemon/greninja-ash]]
+- [[10129_salazzle-totem|pokemon/salazzle-totem]]
+- [[10143_mimikyu-busted|pokemon/mimikyu-busted]]
+- [[10144_mimikyu-totem-disguised|pokemon/mimikyu-totem-disguised]]
+- [[10145_mimikyu-totem-busted|pokemon/mimikyu-totem-busted]]
+

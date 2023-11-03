@@ -1,0 +1,185 @@
+---
+id: 397
+name: rock-polish
+type: rock
+power: null
+pp: 20
+priority: 0
+accuracy: null
+damage_class: status
+zh_name: 岩石打磨
+jp_name: ロックカット
+kr_name: 록커트
+aliases:
+  - ロックカット
+  - 록커트
+  - 岩石打磨
+  - Poliroche
+  - Steinpolitur
+  - Pulimento
+  - Lucidatura
+  - Rock Polish
+  - ロックカット
+  - 岩石打磨
+  - rock-polish
+  - move/397
+  - move/rock-polish
+---
+# rock-polish
+    
+ロックカット | 록커트 | 岩石打磨 | Poliroche | Steinpolitur | Pulimento | Lucidatura | Rock Polish | ロックカット | 岩石打磨
+
+[[6_rock|type/rock]]
+
+## Effect
+
+Raises the user's Speed by two stages.
+
+## Description
+
+
+
+## Pokemon
+
+- [[74_geodude|pokemon/geodude]]
+- [[75_graveler|pokemon/graveler]]
+- [[76_golem|pokemon/golem]]
+- [[95_onix|pokemon/onix]]
+- [[111_rhyhorn|pokemon/rhyhorn]]
+- [[112_rhydon|pokemon/rhydon]]
+- [[138_omanyte|pokemon/omanyte]]
+- [[139_omastar|pokemon/omastar]]
+- [[140_kabuto|pokemon/kabuto]]
+- [[141_kabutops|pokemon/kabutops]]
+- [[142_aerodactyl|pokemon/aerodactyl]]
+- [[151_mew|pokemon/mew]]
+- [[185_sudowoodo|pokemon/sudowoodo]]
+- [[205_forretress|pokemon/forretress]]
+- [[207_gligar|pokemon/gligar]]
+- [[208_steelix|pokemon/steelix]]
+- [[213_shuckle|pokemon/shuckle]]
+- [[219_magcargo|pokemon/magcargo]]
+- [[222_corsola|pokemon/corsola]]
+- [[232_donphan|pokemon/donphan]]
+- [[246_larvitar|pokemon/larvitar]]
+- [[247_pupitar|pokemon/pupitar]]
+- [[248_tyranitar|pokemon/tyranitar]]
+- [[299_nosepass|pokemon/nosepass]]
+- [[304_aron|pokemon/aron]]
+- [[305_lairon|pokemon/lairon]]
+- [[306_aggron|pokemon/aggron]]
+- [[323_camerupt|pokemon/camerupt]]
+- [[337_lunatone|pokemon/lunatone]]
+- [[338_solrock|pokemon/solrock]]
+- [[343_baltoy|pokemon/baltoy]]
+- [[344_claydol|pokemon/claydol]]
+- [[345_lileep|pokemon/lileep]]
+- [[346_cradily|pokemon/cradily]]
+- [[347_anorith|pokemon/anorith]]
+- [[348_armaldo|pokemon/armaldo]]
+- [[369_relicanth|pokemon/relicanth]]
+- [[375_metang|pokemon/metang]]
+- [[376_metagross|pokemon/metagross]]
+- [[377_regirock|pokemon/regirock]]
+- [[378_regice|pokemon/regice]]
+- [[379_registeel|pokemon/registeel]]
+- [[383_groudon|pokemon/groudon]]
+- [[389_torterra|pokemon/torterra]]
+- [[408_cranidos|pokemon/cranidos]]
+- [[409_rampardos|pokemon/rampardos]]
+- [[410_shieldon|pokemon/shieldon]]
+- [[411_bastiodon|pokemon/bastiodon]]
+- [[436_bronzor|pokemon/bronzor]]
+- [[437_bronzong|pokemon/bronzong]]
+- [[438_bonsly|pokemon/bonsly]]
+- [[464_rhyperior|pokemon/rhyperior]]
+- [[472_gliscor|pokemon/gliscor]]
+- [[476_probopass|pokemon/probopass]]
+- [[486_regigigas|pokemon/regigigas]]
+- [[524_roggenrola|pokemon/roggenrola]]
+- [[525_boldore|pokemon/boldore]]
+- [[526_gigalith|pokemon/gigalith]]
+- [[557_dwebble|pokemon/dwebble]]
+- [[558_crustle|pokemon/crustle]]
+- [[564_tirtouga|pokemon/tirtouga]]
+- [[565_carracosta|pokemon/carracosta]]
+- [[566_archen|pokemon/archen]]
+- [[567_archeops|pokemon/archeops]]
+- [[569_garbodor|pokemon/garbodor]]
+- [[597_ferroseed|pokemon/ferroseed]]
+- [[598_ferrothorn|pokemon/ferrothorn]]
+- [[599_klink|pokemon/klink]]
+- [[600_klang|pokemon/klang]]
+- [[601_klinklang|pokemon/klinklang]]
+- [[622_golett|pokemon/golett]]
+- [[623_golurk|pokemon/golurk]]
+- [[624_pawniard|pokemon/pawniard]]
+- [[625_bisharp|pokemon/bisharp]]
+- [[632_durant|pokemon/durant]]
+- [[638_cobalion|pokemon/cobalion]]
+- [[639_terrakion|pokemon/terrakion]]
+- [[645_landorus-incarnate|pokemon/landorus-incarnate]]
+- [[649_genesect|pokemon/genesect]]
+- [[688_binacle|pokemon/binacle]]
+- [[689_barbaracle|pokemon/barbaracle]]
+- [[696_tyrunt|pokemon/tyrunt]]
+- [[697_tyrantrum|pokemon/tyrantrum]]
+- [[698_amaura|pokemon/amaura]]
+- [[699_aurorus|pokemon/aurorus]]
+- [[703_carbink|pokemon/carbink]]
+- [[712_bergmite|pokemon/bergmite]]
+- [[713_avalugg|pokemon/avalugg]]
+- [[719_diancie|pokemon/diancie]]
+- [[744_rockruff|pokemon/rockruff]]
+- [[745_lycanroc-midday|pokemon/lycanroc-midday]]
+- [[769_sandygast|pokemon/sandygast]]
+- [[770_palossand|pokemon/palossand]]
+- [[774_minior-red-meteor|pokemon/minior-red-meteor]]
+- [[784_kommo-o|pokemon/kommo-o]]
+- [[800_necrozma|pokemon/necrozma]]
+- [[805_stakataka|pokemon/stakataka]]
+- [[834_drednaw|pokemon/drednaw]]
+- [[837_rolycoly|pokemon/rolycoly]]
+- [[838_carkol|pokemon/carkol]]
+- [[839_coalossal|pokemon/coalossal]]
+- [[874_stonjourner|pokemon/stonjourner]]
+- [[932_nacli|pokemon/nacli]]
+- [[933_naclstack|pokemon/naclstack]]
+- [[934_garganacl|pokemon/garganacl]]
+- [[969_glimmet|pokemon/glimmet]]
+- [[970_glimmora|pokemon/glimmora]]
+- [[10021_landorus-therian|pokemon/landorus-therian]]
+- [[10042_aerodactyl-mega|pokemon/aerodactyl-mega]]
+- [[10049_tyranitar-mega|pokemon/tyranitar-mega]]
+- [[10053_aggron-mega|pokemon/aggron-mega]]
+- [[10072_steelix-mega|pokemon/steelix-mega]]
+- [[10075_diancie-mega|pokemon/diancie-mega]]
+- [[10076_metagross-mega|pokemon/metagross-mega]]
+- [[10078_groudon-primal|pokemon/groudon-primal]]
+- [[10087_camerupt-mega|pokemon/camerupt-mega]]
+- [[10109_geodude-alola|pokemon/geodude-alola]]
+- [[10110_graveler-alola|pokemon/graveler-alola]]
+- [[10111_golem-alola|pokemon/golem-alola]]
+- [[10112_grimer-alola|pokemon/grimer-alola]]
+- [[10113_muk-alola|pokemon/muk-alola]]
+- [[10126_lycanroc-midnight|pokemon/lycanroc-midnight]]
+- [[10130_minior-orange-meteor|pokemon/minior-orange-meteor]]
+- [[10131_minior-yellow-meteor|pokemon/minior-yellow-meteor]]
+- [[10132_minior-green-meteor|pokemon/minior-green-meteor]]
+- [[10133_minior-blue-meteor|pokemon/minior-blue-meteor]]
+- [[10134_minior-indigo-meteor|pokemon/minior-indigo-meteor]]
+- [[10135_minior-violet-meteor|pokemon/minior-violet-meteor]]
+- [[10136_minior-red|pokemon/minior-red]]
+- [[10137_minior-orange|pokemon/minior-orange]]
+- [[10138_minior-yellow|pokemon/minior-yellow]]
+- [[10139_minior-green|pokemon/minior-green]]
+- [[10140_minior-blue|pokemon/minior-blue]]
+- [[10141_minior-indigo|pokemon/minior-indigo]]
+- [[10142_minior-violet|pokemon/minior-violet]]
+- [[10146_kommo-o-totem|pokemon/kommo-o-totem]]
+- [[10151_rockruff-own-tempo|pokemon/rockruff-own-tempo]]
+- [[10152_lycanroc-dusk|pokemon/lycanroc-dusk]]
+- [[10155_necrozma-dusk|pokemon/necrozma-dusk]]
+- [[10156_necrozma-dawn|pokemon/necrozma-dawn]]
+- [[10157_necrozma-ultra|pokemon/necrozma-ultra]]
+

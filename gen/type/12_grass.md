@@ -1,0 +1,278 @@
+---
+id: 12
+name: grass
+double_damage_from:
+  - flying
+  - poison
+  - bug
+  - fire
+  - ice
+double_damage_to:
+  - ground
+  - rock
+  - water
+half_damage_from:
+  - ground
+  - water
+  - grass
+  - electric
+half_damage_to:
+  - flying
+  - poison
+  - bug
+  - steel
+  - fire
+  - grass
+  - dragon
+no_damage_from: []
+no_damage_to: []
+zh_name: 草
+jp_name: くさ
+kr_name: 풀
+aliases:
+  - くさ
+  - 풀
+  - 草
+  - Plante
+  - Pflanze
+  - Planta
+  - Erba
+  - Grass
+  - くさ
+  - 草
+  - grass
+  - type/12
+  - type/grass
+---
+# grass
+
+くさ | 풀 | 草 | Plante | Pflanze | Planta | Erba | Grass | くさ | 草
+
+## Damage Relations
+
+From:
+- x2: [[3_flying|type/flying]] | [[4_poison|type/poison]] | [[7_bug|type/bug]] | [[10_fire|type/fire]] | [[15_ice|type/ice]]
+- x0.5: [[5_ground|type/ground]] | [[11_water|type/water]] | [[12_grass|type/grass]] | [[13_electric|type/electric]]
+- x0: 
+
+To:
+- x2: [[5_ground|type/ground]] | [[6_rock|type/rock]] | [[11_water|type/water]]
+- x0.5: [[3_flying|type/flying]] | [[4_poison|type/poison]] | [[7_bug|type/bug]] | [[9_steel|type/steel]] | [[10_fire|type/fire]] | [[12_grass|type/grass]] | [[16_dragon|type/dragon]]
+- x0: 
+
+## Pokemon
+
+- [[1_bulbasaur|pokemon/bulbasaur]]
+- [[2_ivysaur|pokemon/ivysaur]]
+- [[3_venusaur|pokemon/venusaur]]
+- [[43_oddish|pokemon/oddish]]
+- [[44_gloom|pokemon/gloom]]
+- [[45_vileplume|pokemon/vileplume]]
+- [[46_paras|pokemon/paras]]
+- [[47_parasect|pokemon/parasect]]
+- [[69_bellsprout|pokemon/bellsprout]]
+- [[70_weepinbell|pokemon/weepinbell]]
+- [[71_victreebel|pokemon/victreebel]]
+- [[102_exeggcute|pokemon/exeggcute]]
+- [[103_exeggutor|pokemon/exeggutor]]
+- [[114_tangela|pokemon/tangela]]
+- [[152_chikorita|pokemon/chikorita]]
+- [[153_bayleef|pokemon/bayleef]]
+- [[154_meganium|pokemon/meganium]]
+- [[182_bellossom|pokemon/bellossom]]
+- [[187_hoppip|pokemon/hoppip]]
+- [[188_skiploom|pokemon/skiploom]]
+- [[189_jumpluff|pokemon/jumpluff]]
+- [[191_sunkern|pokemon/sunkern]]
+- [[192_sunflora|pokemon/sunflora]]
+- [[251_celebi|pokemon/celebi]]
+- [[252_treecko|pokemon/treecko]]
+- [[253_grovyle|pokemon/grovyle]]
+- [[254_sceptile|pokemon/sceptile]]
+- [[270_lotad|pokemon/lotad]]
+- [[271_lombre|pokemon/lombre]]
+- [[272_ludicolo|pokemon/ludicolo]]
+- [[273_seedot|pokemon/seedot]]
+- [[274_nuzleaf|pokemon/nuzleaf]]
+- [[275_shiftry|pokemon/shiftry]]
+- [[285_shroomish|pokemon/shroomish]]
+- [[286_breloom|pokemon/breloom]]
+- [[315_roselia|pokemon/roselia]]
+- [[331_cacnea|pokemon/cacnea]]
+- [[332_cacturne|pokemon/cacturne]]
+- [[345_lileep|pokemon/lileep]]
+- [[346_cradily|pokemon/cradily]]
+- [[357_tropius|pokemon/tropius]]
+- [[387_turtwig|pokemon/turtwig]]
+- [[388_grotle|pokemon/grotle]]
+- [[389_torterra|pokemon/torterra]]
+- [[406_budew|pokemon/budew]]
+- [[407_roserade|pokemon/roserade]]
+- [[413_wormadam-plant|pokemon/wormadam-plant]]
+- [[420_cherubi|pokemon/cherubi]]
+- [[421_cherrim|pokemon/cherrim]]
+- [[455_carnivine|pokemon/carnivine]]
+- [[459_snover|pokemon/snover]]
+- [[460_abomasnow|pokemon/abomasnow]]
+- [[465_tangrowth|pokemon/tangrowth]]
+- [[470_leafeon|pokemon/leafeon]]
+- [[492_shaymin-land|pokemon/shaymin-land]]
+- [[495_snivy|pokemon/snivy]]
+- [[496_servine|pokemon/servine]]
+- [[497_serperior|pokemon/serperior]]
+- [[511_pansage|pokemon/pansage]]
+- [[512_simisage|pokemon/simisage]]
+- [[540_sewaddle|pokemon/sewaddle]]
+- [[541_swadloon|pokemon/swadloon]]
+- [[542_leavanny|pokemon/leavanny]]
+- [[546_cottonee|pokemon/cottonee]]
+- [[547_whimsicott|pokemon/whimsicott]]
+- [[548_petilil|pokemon/petilil]]
+- [[549_lilligant|pokemon/lilligant]]
+- [[556_maractus|pokemon/maractus]]
+- [[585_deerling|pokemon/deerling]]
+- [[586_sawsbuck|pokemon/sawsbuck]]
+- [[590_foongus|pokemon/foongus]]
+- [[591_amoonguss|pokemon/amoonguss]]
+- [[597_ferroseed|pokemon/ferroseed]]
+- [[598_ferrothorn|pokemon/ferrothorn]]
+- [[640_virizion|pokemon/virizion]]
+- [[650_chespin|pokemon/chespin]]
+- [[651_quilladin|pokemon/quilladin]]
+- [[652_chesnaught|pokemon/chesnaught]]
+- [[672_skiddo|pokemon/skiddo]]
+- [[673_gogoat|pokemon/gogoat]]
+- [[708_phantump|pokemon/phantump]]
+- [[709_trevenant|pokemon/trevenant]]
+- [[710_pumpkaboo-average|pokemon/pumpkaboo-average]]
+- [[711_gourgeist-average|pokemon/gourgeist-average]]
+- [[722_rowlet|pokemon/rowlet]]
+- [[723_dartrix|pokemon/dartrix]]
+- [[724_decidueye|pokemon/decidueye]]
+- [[753_fomantis|pokemon/fomantis]]
+- [[754_lurantis|pokemon/lurantis]]
+- [[755_morelull|pokemon/morelull]]
+- [[756_shiinotic|pokemon/shiinotic]]
+- [[761_bounsweet|pokemon/bounsweet]]
+- [[762_steenee|pokemon/steenee]]
+- [[763_tsareena|pokemon/tsareena]]
+- [[781_dhelmise|pokemon/dhelmise]]
+- [[787_tapu-bulu|pokemon/tapu-bulu]]
+- [[798_kartana|pokemon/kartana]]
+- [[810_grookey|pokemon/grookey]]
+- [[811_thwackey|pokemon/thwackey]]
+- [[812_rillaboom|pokemon/rillaboom]]
+- [[829_gossifleur|pokemon/gossifleur]]
+- [[830_eldegoss|pokemon/eldegoss]]
+- [[840_applin|pokemon/applin]]
+- [[841_flapple|pokemon/flapple]]
+- [[842_appletun|pokemon/appletun]]
+- [[893_zarude|pokemon/zarude]]
+- [[898_calyrex|pokemon/calyrex]]
+- [[906_sprigatito|pokemon/sprigatito]]
+- [[907_floragato|pokemon/floragato]]
+- [[908_meowscarada|pokemon/meowscarada]]
+- [[928_smoliv|pokemon/smoliv]]
+- [[929_dolliv|pokemon/dolliv]]
+- [[930_arboliva|pokemon/arboliva]]
+- [[946_bramblin|pokemon/bramblin]]
+- [[947_brambleghast|pokemon/brambleghast]]
+- [[948_toedscool|pokemon/toedscool]]
+- [[949_toedscruel|pokemon/toedscruel]]
+- [[951_capsakid|pokemon/capsakid]]
+- [[952_scovillain|pokemon/scovillain]]
+- [[986_brute-bonnet|pokemon/brute-bonnet]]
+- [[1001_wo-chien|pokemon/wo-chien]]
+- [[1010_iron-leaves|pokemon/iron-leaves]]
+- [[1011_dipplin|pokemon/dipplin]]
+- [[1012_poltchageist|pokemon/poltchageist]]
+- [[1013_sinistcha|pokemon/sinistcha]]
+- [[1017_ogerpon|pokemon/ogerpon]]
+- [[10006_shaymin-sky|pokemon/shaymin-sky]]
+- [[10012_rotom-mow|pokemon/rotom-mow]]
+- [[10027_pumpkaboo-small|pokemon/pumpkaboo-small]]
+- [[10028_pumpkaboo-large|pokemon/pumpkaboo-large]]
+- [[10029_pumpkaboo-super|pokemon/pumpkaboo-super]]
+- [[10030_gourgeist-small|pokemon/gourgeist-small]]
+- [[10031_gourgeist-large|pokemon/gourgeist-large]]
+- [[10032_gourgeist-super|pokemon/gourgeist-super]]
+- [[10033_venusaur-mega|pokemon/venusaur-mega]]
+- [[10060_abomasnow-mega|pokemon/abomasnow-mega]]
+- [[10065_sceptile-mega|pokemon/sceptile-mega]]
+- [[10114_exeggutor-alola|pokemon/exeggutor-alola]]
+- [[10128_lurantis-totem|pokemon/lurantis-totem]]
+- [[10192_zarude-dada|pokemon/zarude-dada]]
+- [[10195_venusaur-gmax|pokemon/venusaur-gmax]]
+- [[10209_rillaboom-gmax|pokemon/rillaboom-gmax]]
+- [[10216_flapple-gmax|pokemon/flapple-gmax]]
+- [[10217_appletun-gmax|pokemon/appletun-gmax]]
+- [[10231_voltorb-hisui|pokemon/voltorb-hisui]]
+- [[10232_electrode-hisui|pokemon/electrode-hisui]]
+- [[10237_lilligant-hisui|pokemon/lilligant-hisui]]
+- [[10244_decidueye-hisui|pokemon/decidueye-hisui]]
+- [[10273_ogerpon-wellspring-mask|pokemon/ogerpon-wellspring-mask]]
+- [[10274_ogerpon-hearthflame-mask|pokemon/ogerpon-hearthflame-mask]]
+- [[10275_ogerpon-cornerstone-mask|pokemon/ogerpon-cornerstone-mask]]
+
+## Moves
+
+- [[22_vine-whip|move/vine-whip]]
+- [[71_absorb|move/absorb]]
+- [[72_mega-drain|move/mega-drain]]
+- [[73_leech-seed|move/leech-seed]]
+- [[75_razor-leaf|move/razor-leaf]]
+- [[76_solar-beam|move/solar-beam]]
+- [[78_stun-spore|move/stun-spore]]
+- [[79_sleep-powder|move/sleep-powder]]
+- [[80_petal-dance|move/petal-dance]]
+- [[147_spore|move/spore]]
+- [[178_cotton-spore|move/cotton-spore]]
+- [[202_giga-drain|move/giga-drain]]
+- [[235_synthesis|move/synthesis]]
+- [[275_ingrain|move/ingrain]]
+- [[302_needle-arm|move/needle-arm]]
+- [[312_aromatherapy|move/aromatherapy]]
+- [[320_grass-whistle|move/grass-whistle]]
+- [[331_bullet-seed|move/bullet-seed]]
+- [[338_frenzy-plant|move/frenzy-plant]]
+- [[345_magical-leaf|move/magical-leaf]]
+- [[348_leaf-blade|move/leaf-blade]]
+- [[388_worry-seed|move/worry-seed]]
+- [[402_seed-bomb|move/seed-bomb]]
+- [[412_energy-ball|move/energy-ball]]
+- [[437_leaf-storm|move/leaf-storm]]
+- [[438_power-whip|move/power-whip]]
+- [[447_grass-knot|move/grass-knot]]
+- [[452_wood-hammer|move/wood-hammer]]
+- [[465_seed-flare|move/seed-flare]]
+- [[520_grass-pledge|move/grass-pledge]]
+- [[532_horn-leech|move/horn-leech]]
+- [[536_leaf-tornado|move/leaf-tornado]]
+- [[538_cotton-guard|move/cotton-guard]]
+- [[571_forests-curse|move/forests-curse]]
+- [[572_petal-blizzard|move/petal-blizzard]]
+- [[580_grassy-terrain|move/grassy-terrain]]
+- [[596_spiky-shield|move/spiky-shield]]
+- [[644_bloom-doom--physical|move/bloom-doom--physical]]
+- [[645_bloom-doom--special|move/bloom-doom--special]]
+- [[668_strength-sap|move/strength-sap]]
+- [[669_solar-blade|move/solar-blade]]
+- [[670_leafage|move/leafage]]
+- [[688_trop-kick|move/trop-kick]]
+- [[738_sappy-seed|move/sappy-seed]]
+- [[773_max-overgrowth|move/max-overgrowth]]
+- [[778_drum-beating|move/drum-beating]]
+- [[779_snap-trap|move/snap-trap]]
+- [[785_branch-poke|move/branch-poke]]
+- [[787_apple-acid|move/apple-acid]]
+- [[788_grav-apple|move/grav-apple]]
+- [[803_grassy-glide|move/grassy-glide]]
+- [[816_jungle-healing|move/jungle-healing]]
+- [[835_chloroblast|move/chloroblast]]
+- [[858_spicy-extract|move/spicy-extract]]
+- [[870_flower-trick|move/flower-trick]]
+- [[885_trailblaze|move/trailblaze]]
+- [[902_matcha-gotcha|move/matcha-gotcha]]
+- [[903_syrup-bomb|move/syrup-bomb]]
+- [[904_ivy-cudgel|move/ivy-cudgel]]
+

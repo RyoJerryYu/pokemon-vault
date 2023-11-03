@@ -1,0 +1,220 @@
+---
+id: 246
+name: ancient-power
+type: rock
+power: 60
+pp: 5
+priority: 0
+accuracy: 100
+damage_class: special
+zh_name: 原始之力
+jp_name: げんしのちから
+kr_name: 원시의힘
+aliases:
+  - げんしのちから
+  - 원시의힘
+  - 原始之力
+  - Pouvoir Antique
+  - Antik-Kraft
+  - Poder Pasado
+  - Forzantica
+  - Ancient Power
+  - げんしのちから
+  - 原始之力
+  - ancient-power
+  - move/246
+  - move/ancient-power
+---
+# ancient-power
+    
+げんしのちから | 원시의힘 | 原始之力 | Pouvoir Antique | Antik-Kraft | Poder Pasado | Forzantica | Ancient Power | げんしのちから | 原始之力
+
+[[6_rock|type/rock]]
+
+## Effect
+
+Inflicts regular damage. Has a $effect_chance% chance to raise all of the user's stats one stage.
+
+## Description
+
+
+
+## Pokemon
+
+- [[4_charmander|pokemon/charmander]]
+- [[50_diglett|pokemon/diglett]]
+- [[74_geodude|pokemon/geodude]]
+- [[75_graveler|pokemon/graveler]]
+- [[76_golem|pokemon/golem]]
+- [[95_onix|pokemon/onix]]
+- [[98_krabby|pokemon/krabby]]
+- [[99_kingler|pokemon/kingler]]
+- [[102_exeggcute|pokemon/exeggcute]]
+- [[103_exeggutor|pokemon/exeggutor]]
+- [[104_cubone|pokemon/cubone]]
+- [[111_rhyhorn|pokemon/rhyhorn]]
+- [[112_rhydon|pokemon/rhydon]]
+- [[114_tangela|pokemon/tangela]]
+- [[131_lapras|pokemon/lapras]]
+- [[138_omanyte|pokemon/omanyte]]
+- [[139_omastar|pokemon/omastar]]
+- [[140_kabuto|pokemon/kabuto]]
+- [[141_kabutops|pokemon/kabutops]]
+- [[142_aerodactyl|pokemon/aerodactyl]]
+- [[144_articuno|pokemon/articuno]]
+- [[145_zapdos|pokemon/zapdos]]
+- [[146_moltres|pokemon/moltres]]
+- [[150_mewtwo|pokemon/mewtwo]]
+- [[151_mew|pokemon/mew]]
+- [[152_chikorita|pokemon/chikorita]]
+- [[153_bayleef|pokemon/bayleef]]
+- [[154_meganium|pokemon/meganium]]
+- [[158_totodile|pokemon/totodile]]
+- [[159_croconaw|pokemon/croconaw]]
+- [[160_feraligatr|pokemon/feraligatr]]
+- [[175_togepi|pokemon/togepi]]
+- [[176_togetic|pokemon/togetic]]
+- [[193_yanma|pokemon/yanma]]
+- [[194_wooper|pokemon/wooper]]
+- [[195_quagsire|pokemon/quagsire]]
+- [[206_dunsparce|pokemon/dunsparce]]
+- [[208_steelix|pokemon/steelix]]
+- [[213_shuckle|pokemon/shuckle]]
+- [[218_slugma|pokemon/slugma]]
+- [[219_magcargo|pokemon/magcargo]]
+- [[220_swinub|pokemon/swinub]]
+- [[221_piloswine|pokemon/piloswine]]
+- [[222_corsola|pokemon/corsola]]
+- [[231_phanpy|pokemon/phanpy]]
+- [[232_donphan|pokemon/donphan]]
+- [[246_larvitar|pokemon/larvitar]]
+- [[247_pupitar|pokemon/pupitar]]
+- [[248_tyranitar|pokemon/tyranitar]]
+- [[249_lugia|pokemon/lugia]]
+- [[250_ho-oh|pokemon/ho-oh]]
+- [[251_celebi|pokemon/celebi]]
+- [[258_mudkip|pokemon/mudkip]]
+- [[259_marshtomp|pokemon/marshtomp]]
+- [[260_swampert|pokemon/swampert]]
+- [[299_nosepass|pokemon/nosepass]]
+- [[303_mawile|pokemon/mawile]]
+- [[304_aron|pokemon/aron]]
+- [[305_lairon|pokemon/lairon]]
+- [[306_aggron|pokemon/aggron]]
+- [[318_carvanha|pokemon/carvanha]]
+- [[319_sharpedo|pokemon/sharpedo]]
+- [[322_numel|pokemon/numel]]
+- [[324_torkoal|pokemon/torkoal]]
+- [[337_lunatone|pokemon/lunatone]]
+- [[338_solrock|pokemon/solrock]]
+- [[341_corphish|pokemon/corphish]]
+- [[342_crawdaunt|pokemon/crawdaunt]]
+- [[343_baltoy|pokemon/baltoy]]
+- [[344_claydol|pokemon/claydol]]
+- [[345_lileep|pokemon/lileep]]
+- [[346_cradily|pokemon/cradily]]
+- [[347_anorith|pokemon/anorith]]
+- [[348_armaldo|pokemon/armaldo]]
+- [[352_kecleon|pokemon/kecleon]]
+- [[369_relicanth|pokemon/relicanth]]
+- [[377_regirock|pokemon/regirock]]
+- [[378_regice|pokemon/regice]]
+- [[379_registeel|pokemon/registeel]]
+- [[382_kyogre|pokemon/kyogre]]
+- [[383_groudon|pokemon/groudon]]
+- [[384_rayquaza|pokemon/rayquaza]]
+- [[385_jirachi|pokemon/jirachi]]
+- [[408_cranidos|pokemon/cranidos]]
+- [[409_rampardos|pokemon/rampardos]]
+- [[410_shieldon|pokemon/shieldon]]
+- [[411_bastiodon|pokemon/bastiodon]]
+- [[422_shellos|pokemon/shellos]]
+- [[423_gastrodon|pokemon/gastrodon]]
+- [[436_bronzor|pokemon/bronzor]]
+- [[437_bronzong|pokemon/bronzong]]
+- [[464_rhyperior|pokemon/rhyperior]]
+- [[465_tangrowth|pokemon/tangrowth]]
+- [[468_togekiss|pokemon/togekiss]]
+- [[469_yanmega|pokemon/yanmega]]
+- [[473_mamoswine|pokemon/mamoswine]]
+- [[476_probopass|pokemon/probopass]]
+- [[483_dialga|pokemon/dialga]]
+- [[484_palkia|pokemon/palkia]]
+- [[485_heatran|pokemon/heatran]]
+- [[486_regigigas|pokemon/regigigas]]
+- [[487_giratina-altered|pokemon/giratina-altered]]
+- [[489_phione|pokemon/phione]]
+- [[490_manaphy|pokemon/manaphy]]
+- [[493_arceus|pokemon/arceus]]
+- [[561_sigilyph|pokemon/sigilyph]]
+- [[564_tirtouga|pokemon/tirtouga]]
+- [[565_carracosta|pokemon/carracosta]]
+- [[566_archen|pokemon/archen]]
+- [[567_archeops|pokemon/archeops]]
+- [[615_cryogonal|pokemon/cryogonal]]
+- [[643_reshiram|pokemon/reshiram]]
+- [[644_zekrom|pokemon/zekrom]]
+- [[646_kyurem|pokemon/kyurem]]
+- [[688_binacle|pokemon/binacle]]
+- [[689_barbaracle|pokemon/barbaracle]]
+- [[696_tyrunt|pokemon/tyrunt]]
+- [[697_tyrantrum|pokemon/tyrantrum]]
+- [[698_amaura|pokemon/amaura]]
+- [[699_aurorus|pokemon/aurorus]]
+- [[703_carbink|pokemon/carbink]]
+- [[719_diancie|pokemon/diancie]]
+- [[769_sandygast|pokemon/sandygast]]
+- [[774_minior-red-meteor|pokemon/minior-red-meteor]]
+- [[837_rolycoly|pokemon/rolycoly]]
+- [[838_carkol|pokemon/carkol]]
+- [[839_coalossal|pokemon/coalossal]]
+- [[864_cursola|pokemon/cursola]]
+- [[874_stonjourner|pokemon/stonjourner]]
+- [[880_dracozolt|pokemon/dracozolt]]
+- [[881_arctozolt|pokemon/arctozolt]]
+- [[882_dracovish|pokemon/dracovish]]
+- [[883_arctovish|pokemon/arctovish]]
+- [[894_regieleki|pokemon/regieleki]]
+- [[895_regidrago|pokemon/regidrago]]
+- [[932_nacli|pokemon/nacli]]
+- [[950_klawf|pokemon/klawf]]
+- [[969_glimmet|pokemon/glimmet]]
+- [[970_glimmora|pokemon/glimmora]]
+- [[982_dudunsparce|pokemon/dudunsparce]]
+- [[1007_koraidon|pokemon/koraidon]]
+- [[10007_giratina-origin|pokemon/giratina-origin]]
+- [[10022_kyurem-black|pokemon/kyurem-black]]
+- [[10023_kyurem-white|pokemon/kyurem-white]]
+- [[10042_aerodactyl-mega|pokemon/aerodactyl-mega]]
+- [[10052_mawile-mega|pokemon/mawile-mega]]
+- [[10075_diancie-mega|pokemon/diancie-mega]]
+- [[10077_kyogre-primal|pokemon/kyogre-primal]]
+- [[10078_groudon-primal|pokemon/groudon-primal]]
+- [[10079_rayquaza-mega|pokemon/rayquaza-mega]]
+- [[10105_diglett-alola|pokemon/diglett-alola]]
+- [[10130_minior-orange-meteor|pokemon/minior-orange-meteor]]
+- [[10131_minior-yellow-meteor|pokemon/minior-yellow-meteor]]
+- [[10132_minior-green-meteor|pokemon/minior-green-meteor]]
+- [[10133_minior-blue-meteor|pokemon/minior-blue-meteor]]
+- [[10134_minior-indigo-meteor|pokemon/minior-indigo-meteor]]
+- [[10135_minior-violet-meteor|pokemon/minior-violet-meteor]]
+- [[10136_minior-red|pokemon/minior-red]]
+- [[10137_minior-orange|pokemon/minior-orange]]
+- [[10138_minior-yellow|pokemon/minior-yellow]]
+- [[10139_minior-green|pokemon/minior-green]]
+- [[10140_minior-blue|pokemon/minior-blue]]
+- [[10141_minior-indigo|pokemon/minior-indigo]]
+- [[10142_minior-violet|pokemon/minior-violet]]
+- [[10169_articuno-galar|pokemon/articuno-galar]]
+- [[10170_zapdos-galar|pokemon/zapdos-galar]]
+- [[10171_moltres-galar|pokemon/moltres-galar]]
+- [[10173_corsola-galar|pokemon/corsola-galar]]
+- [[10245_dialga-origin|pokemon/dialga-origin]]
+- [[10246_palkia-origin|pokemon/palkia-origin]]
+- [[10253_wooper-paldea|pokemon/wooper-paldea]]
+- [[10255_dudunsparce-three-segment|pokemon/dudunsparce-three-segment]]
+- [[10264_koraidon-limited-build|pokemon/koraidon-limited-build]]
+- [[10265_koraidon-sprinting-build|pokemon/koraidon-sprinting-build]]
+- [[10266_koraidon-swimming-build|pokemon/koraidon-swimming-build]]
+- [[10267_koraidon-gliding-build|pokemon/koraidon-gliding-build]]
+

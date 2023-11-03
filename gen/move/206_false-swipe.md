@@ -1,0 +1,196 @@
+---
+id: 206
+name: false-swipe
+type: normal
+power: 40
+pp: 40
+priority: 0
+accuracy: 100
+damage_class: physical
+zh_name: 点到为止
+jp_name: みねうち
+kr_name: 칼등치기
+aliases:
+  - みねうち
+  - 칼등치기
+  - 點到為止
+  - Faux-Chage
+  - Trugschlag
+  - Falso Tortazo
+  - Falsofinale
+  - False Swipe
+  - みねうち
+  - 点到为止
+  - false-swipe
+  - move/206
+  - move/false-swipe
+---
+# false-swipe
+    
+みねうち | 칼등치기 | 點到為止 | Faux-Chage | Trugschlag | Falso Tortazo | Falsofinale | False Swipe | みねうち | 点到为止
+
+[[1_normal|type/normal]]
+
+## Effect
+
+Inflicts regular damage.  Will not reduce the target's HP below 1.
+
+## Description
+
+
+
+## Pokemon
+
+- [[1_bulbasaur|pokemon/bulbasaur]]
+- [[2_ivysaur|pokemon/ivysaur]]
+- [[3_venusaur|pokemon/venusaur]]
+- [[4_charmander|pokemon/charmander]]
+- [[5_charmeleon|pokemon/charmeleon]]
+- [[6_charizard|pokemon/charizard]]
+- [[7_squirtle|pokemon/squirtle]]
+- [[8_wartortle|pokemon/wartortle]]
+- [[9_blastoise|pokemon/blastoise]]
+- [[15_beedrill|pokemon/beedrill]]
+- [[21_spearow|pokemon/spearow]]
+- [[22_fearow|pokemon/fearow]]
+- [[27_sandshrew|pokemon/sandshrew]]
+- [[28_sandslash|pokemon/sandslash]]
+- [[46_paras|pokemon/paras]]
+- [[47_parasect|pokemon/parasect]]
+- [[52_meowth|pokemon/meowth]]
+- [[53_persian|pokemon/persian]]
+- [[83_farfetchd|pokemon/farfetchd]]
+- [[98_krabby|pokemon/krabby]]
+- [[99_kingler|pokemon/kingler]]
+- [[104_cubone|pokemon/cubone]]
+- [[105_marowak|pokemon/marowak]]
+- [[123_scyther|pokemon/scyther]]
+- [[127_pinsir|pokemon/pinsir]]
+- [[135_jolteon|pokemon/jolteon]]
+- [[151_mew|pokemon/mew]]
+- [[207_gligar|pokemon/gligar]]
+- [[212_scizor|pokemon/scizor]]
+- [[214_heracross|pokemon/heracross]]
+- [[215_sneasel|pokemon/sneasel]]
+- [[253_grovyle|pokemon/grovyle]]
+- [[254_sceptile|pokemon/sceptile]]
+- [[273_seedot|pokemon/seedot]]
+- [[274_nuzleaf|pokemon/nuzleaf]]
+- [[275_shiftry|pokemon/shiftry]]
+- [[285_shroomish|pokemon/shroomish]]
+- [[286_breloom|pokemon/breloom]]
+- [[287_slakoth|pokemon/slakoth]]
+- [[288_vigoroth|pokemon/vigoroth]]
+- [[289_slaking|pokemon/slaking]]
+- [[290_nincada|pokemon/nincada]]
+- [[291_ninjask|pokemon/ninjask]]
+- [[292_shedinja|pokemon/shedinja]]
+- [[303_mawile|pokemon/mawile]]
+- [[333_swablu|pokemon/swablu]]
+- [[334_altaria|pokemon/altaria]]
+- [[335_zangoose|pokemon/zangoose]]
+- [[341_corphish|pokemon/corphish]]
+- [[342_crawdaunt|pokemon/crawdaunt]]
+- [[347_anorith|pokemon/anorith]]
+- [[348_armaldo|pokemon/armaldo]]
+- [[359_absol|pokemon/absol]]
+- [[402_kricketune|pokemon/kricketune]]
+- [[443_gible|pokemon/gible]]
+- [[444_gabite|pokemon/gabite]]
+- [[445_garchomp|pokemon/garchomp]]
+- [[451_skorupi|pokemon/skorupi]]
+- [[452_drapion|pokemon/drapion]]
+- [[461_weavile|pokemon/weavile]]
+- [[472_gliscor|pokemon/gliscor]]
+- [[475_gallade|pokemon/gallade]]
+- [[501_oshawott|pokemon/oshawott]]
+- [[502_dewott|pokemon/dewott]]
+- [[503_samurott|pokemon/samurott]]
+- [[542_leavanny|pokemon/leavanny]]
+- [[588_karrablast|pokemon/karrablast]]
+- [[589_escavalier|pokemon/escavalier]]
+- [[610_axew|pokemon/axew]]
+- [[611_fraxure|pokemon/fraxure]]
+- [[612_haxorus|pokemon/haxorus]]
+- [[624_pawniard|pokemon/pawniard]]
+- [[625_bisharp|pokemon/bisharp]]
+- [[638_cobalion|pokemon/cobalion]]
+- [[639_terrakion|pokemon/terrakion]]
+- [[640_virizion|pokemon/virizion]]
+- [[647_keldeo-ordinary|pokemon/keldeo-ordinary]]
+- [[656_froakie|pokemon/froakie]]
+- [[657_frogadier|pokemon/frogadier]]
+- [[658_greninja|pokemon/greninja]]
+- [[674_pancham|pokemon/pancham]]
+- [[675_pangoro|pokemon/pangoro]]
+- [[679_honedge|pokemon/honedge]]
+- [[680_doublade|pokemon/doublade]]
+- [[681_aegislash-shield|pokemon/aegislash-shield]]
+- [[688_binacle|pokemon/binacle]]
+- [[689_barbaracle|pokemon/barbaracle]]
+- [[701_hawlucha|pokemon/hawlucha]]
+- [[722_rowlet|pokemon/rowlet]]
+- [[723_dartrix|pokemon/dartrix]]
+- [[724_decidueye|pokemon/decidueye]]
+- [[753_fomantis|pokemon/fomantis]]
+- [[754_lurantis|pokemon/lurantis]]
+- [[768_golisopod|pokemon/golisopod]]
+- [[782_jangmo-o|pokemon/jangmo-o]]
+- [[783_hakamo-o|pokemon/hakamo-o]]
+- [[784_kommo-o|pokemon/kommo-o]]
+- [[785_tapu-koko|pokemon/tapu-koko]]
+- [[787_tapu-bulu|pokemon/tapu-bulu]]
+- [[794_buzzwole|pokemon/buzzwole]]
+- [[795_pheromosa|pokemon/pheromosa]]
+- [[798_kartana|pokemon/kartana]]
+- [[801_magearna|pokemon/magearna]]
+- [[802_marshadow|pokemon/marshadow]]
+- [[807_zeraora|pokemon/zeraora]]
+- [[810_grookey|pokemon/grookey]]
+- [[811_thwackey|pokemon/thwackey]]
+- [[812_rillaboom|pokemon/rillaboom]]
+- [[833_chewtle|pokemon/chewtle]]
+- [[834_drednaw|pokemon/drednaw]]
+- [[863_perrserker|pokemon/perrserker]]
+- [[870_falinks|pokemon/falinks]]
+- [[888_zacian|pokemon/zacian]]
+- [[892_urshifu-single-strike|pokemon/urshifu-single-strike]]
+- [[900_kleavor|pokemon/kleavor]]
+- [[903_sneasler|pokemon/sneasler]]
+- [[917_tarountula|pokemon/tarountula]]
+- [[918_spidops|pokemon/spidops]]
+- [[937_ceruledge|pokemon/ceruledge]]
+- [[983_kingambit|pokemon/kingambit]]
+- [[998_baxcalibur|pokemon/baxcalibur]]
+- [[1002_chien-pao|pokemon/chien-pao]]
+- [[1006_iron-valiant|pokemon/iron-valiant]]
+- [[1010_iron-leaves|pokemon/iron-leaves]]
+- [[1017_ogerpon|pokemon/ogerpon]]
+- [[10024_keldeo-resolute|pokemon/keldeo-resolute]]
+- [[10026_aegislash-blade|pokemon/aegislash-blade]]
+- [[10040_pinsir-mega|pokemon/pinsir-mega]]
+- [[10046_scizor-mega|pokemon/scizor-mega]]
+- [[10047_heracross-mega|pokemon/heracross-mega]]
+- [[10052_mawile-mega|pokemon/mawile-mega]]
+- [[10057_absol-mega|pokemon/absol-mega]]
+- [[10058_garchomp-mega|pokemon/garchomp-mega]]
+- [[10065_sceptile-mega|pokemon/sceptile-mega]]
+- [[10068_gallade-mega|pokemon/gallade-mega]]
+- [[10090_beedrill-mega|pokemon/beedrill-mega]]
+- [[10102_sandslash-alola|pokemon/sandslash-alola]]
+- [[10115_marowak-alola|pokemon/marowak-alola]]
+- [[10117_greninja-ash|pokemon/greninja-ash]]
+- [[10128_lurantis-totem|pokemon/lurantis-totem]]
+- [[10146_kommo-o-totem|pokemon/kommo-o-totem]]
+- [[10147_magearna-original|pokemon/magearna-original]]
+- [[10149_marowak-totem|pokemon/marowak-totem]]
+- [[10161_meowth-galar|pokemon/meowth-galar]]
+- [[10188_zacian-crowned|pokemon/zacian-crowned]]
+- [[10191_urshifu-rapid-strike|pokemon/urshifu-rapid-strike]]
+- [[10235_sneasel-hisui|pokemon/sneasel-hisui]]
+- [[10236_samurott-hisui|pokemon/samurott-hisui]]
+- [[10244_decidueye-hisui|pokemon/decidueye-hisui]]
+- [[10273_ogerpon-wellspring-mask|pokemon/ogerpon-wellspring-mask]]
+- [[10274_ogerpon-hearthflame-mask|pokemon/ogerpon-hearthflame-mask]]
+- [[10275_ogerpon-cornerstone-mask|pokemon/ogerpon-cornerstone-mask]]
+

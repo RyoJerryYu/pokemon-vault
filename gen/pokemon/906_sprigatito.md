@@ -1,0 +1,113 @@
+---
+id: 906
+name: sprigatito
+abilities:
+  - overgrow
+  - protean
+stats:
+  hp: 40
+  attack: 61
+  defense: 54
+  special-attack: 45
+  special-defense: 45
+  speed: 65
+types:
+  - grass
+zh_name: 新叶喵
+jp_name: ニャオハ
+kr_name: 나오하
+aliases:
+  - 나오하
+  - ニャオハ
+  - Nyahoja
+  - 新葉喵
+  - Poussacha
+  - Felori
+  - Sprigatito
+  - Sprigatito
+  - Sprigatito
+  - ニャオハ
+  - 新叶喵
+  - sprigatito
+  - pokemon/906
+  - pokemon/sprigatito
+---
+# sprigatito
+
+![](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/906.png)
+
+나오하 | ニャオハ | Nyahoja | 新葉喵 | Poussacha | Felori | Sprigatito | Sprigatito | Sprigatito | ニャオハ | 新叶喵
+
+[[12_grass|type/grass]]
+
+[[65_overgrow|ability/overgrow]] | [[168_protean|ability/protean]]
+
+|stat|value|
+|---|---|
+|hp|40|
+|attack|61|
+|defense|54|
+|special-attack|45|
+|special-defense|45|
+|speed|65|
+
+
+## Moves
+
+- [[10_scratch|move/scratch]]
+- [[36_take-down|move/take-down]]
+- [[39_tail-whip|move/tail-whip]]
+- [[44_bite|move/bite]]
+- [[73_leech-seed|move/leech-seed]]
+- [[76_solar-beam|move/solar-beam]]
+- [[97_agility|move/agility]]
+- [[98_quick-attack|move/quick-attack]]
+- [[129_swift|move/swift]]
+- [[156_rest|move/rest]]
+- [[163_slash|move/slash]]
+- [[164_substitute|move/substitute]]
+- [[182_protect|move/protect]]
+- [[189_mud-slap|move/mud-slap]]
+- [[202_giga-drain|move/giga-drain]]
+- [[203_endure|move/endure]]
+- [[204_charm|move/charm]]
+- [[214_sleep-talk|move/sleep-talk]]
+- [[263_facade|move/facade]]
+- [[269_taunt|move/taunt]]
+- [[270_helping-hand|move/helping-hand]]
+- [[313_fake-tears|move/fake-tears]]
+- [[331_bullet-seed|move/bullet-seed]]
+- [[345_magical-leaf|move/magical-leaf]]
+- [[369_u-turn|move/u-turn]]
+- [[383_copycat|move/copycat]]
+- [[388_worry-seed|move/worry-seed]]
+- [[389_sucker-punch|move/sucker-punch]]
+- [[402_seed-bomb|move/seed-bomb]]
+- [[412_energy-ball|move/energy-ball]]
+- [[417_nasty-plot|move/nasty-plot]]
+- [[421_shadow-claw|move/shadow-claw]]
+- [[437_leaf-storm|move/leaf-storm]]
+- [[447_grass-knot|move/grass-knot]]
+- [[468_hone-claws|move/hone-claws]]
+- [[502_ally-switch|move/ally-switch]]
+- [[512_acrobatics|move/acrobatics]]
+- [[520_grass-pledge|move/grass-pledge]]
+- [[572_petal-blizzard|move/petal-blizzard]]
+- [[574_disarming-voice|move/disarming-voice]]
+- [[580_grassy-terrain|move/grassy-terrain]]
+- [[583_play-rough|move/play-rough]]
+- [[670_leafage|move/leafage]]
+- [[803_grassy-glide|move/grassy-glide]]
+- [[851_tera-blast|move/tera-blast]]
+- [[885_trailblaze|move/trailblaze]]
+
+## Forms
+
+
+
+[[906_sprigatito|pokemon-form/sprigatito]]
+
+## Description
+
+
+

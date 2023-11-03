@@ -1,0 +1,229 @@
+---
+id: 479
+name: smack-down
+type: rock
+power: 50
+pp: 15
+priority: 0
+accuracy: 100
+damage_class: physical
+zh_name: 击落
+jp_name: うちおとす
+kr_name: 떨어뜨리기
+aliases:
+  - うちおとす
+  - 떨어뜨리기
+  - 擊落
+  - Anti-Air
+  - Katapult
+  - Antiaéreo
+  - Abbattimento
+  - Smack Down
+  - うちおとす
+  - 击落
+  - smack-down
+  - move/479
+  - move/smack-down
+---
+# smack-down
+    
+うちおとす | 떨어뜨리기 | 擊落 | Anti-Air | Katapult | Antiaéreo | Abbattimento | Smack Down | うちおとす | 击落
+
+[[6_rock|type/rock]]
+
+## Effect
+
+Inflicts regular damage.  Removes the target's immunity to ground-type damage.  This effect removes any existing Ground immunity due to levitate, magnet rise, or telekinesis, and causes the target's flying type to be ignored when it takes Ground damage.
+
+If the target isn't immune to Ground damage, this move will fail.
+
+This move can hit Pokémon under the effect of bounce, fly, or sky drop, and ends the effect of Bounce or Fly.
+
+## Description
+
+
+
+## Pokemon
+
+- [[9_blastoise|pokemon/blastoise]]
+- [[27_sandshrew|pokemon/sandshrew]]
+- [[28_sandslash|pokemon/sandslash]]
+- [[31_nidoqueen|pokemon/nidoqueen]]
+- [[34_nidoking|pokemon/nidoking]]
+- [[50_diglett|pokemon/diglett]]
+- [[51_dugtrio|pokemon/dugtrio]]
+- [[56_mankey|pokemon/mankey]]
+- [[57_primeape|pokemon/primeape]]
+- [[66_machop|pokemon/machop]]
+- [[67_machoke|pokemon/machoke]]
+- [[68_machamp|pokemon/machamp]]
+- [[74_geodude|pokemon/geodude]]
+- [[75_graveler|pokemon/graveler]]
+- [[76_golem|pokemon/golem]]
+- [[95_onix|pokemon/onix]]
+- [[104_cubone|pokemon/cubone]]
+- [[105_marowak|pokemon/marowak]]
+- [[111_rhyhorn|pokemon/rhyhorn]]
+- [[112_rhydon|pokemon/rhydon]]
+- [[127_pinsir|pokemon/pinsir]]
+- [[138_omanyte|pokemon/omanyte]]
+- [[139_omastar|pokemon/omastar]]
+- [[140_kabuto|pokemon/kabuto]]
+- [[141_kabutops|pokemon/kabutops]]
+- [[142_aerodactyl|pokemon/aerodactyl]]
+- [[143_snorlax|pokemon/snorlax]]
+- [[151_mew|pokemon/mew]]
+- [[185_sudowoodo|pokemon/sudowoodo]]
+- [[190_aipom|pokemon/aipom]]
+- [[208_steelix|pokemon/steelix]]
+- [[213_shuckle|pokemon/shuckle]]
+- [[214_heracross|pokemon/heracross]]
+- [[216_teddiursa|pokemon/teddiursa]]
+- [[217_ursaring|pokemon/ursaring]]
+- [[218_slugma|pokemon/slugma]]
+- [[219_magcargo|pokemon/magcargo]]
+- [[220_swinub|pokemon/swinub]]
+- [[221_piloswine|pokemon/piloswine]]
+- [[223_remoraid|pokemon/remoraid]]
+- [[224_octillery|pokemon/octillery]]
+- [[231_phanpy|pokemon/phanpy]]
+- [[232_donphan|pokemon/donphan]]
+- [[246_larvitar|pokemon/larvitar]]
+- [[247_pupitar|pokemon/pupitar]]
+- [[248_tyranitar|pokemon/tyranitar]]
+- [[289_slaking|pokemon/slaking]]
+- [[294_loudred|pokemon/loudred]]
+- [[295_exploud|pokemon/exploud]]
+- [[296_makuhita|pokemon/makuhita]]
+- [[297_hariyama|pokemon/hariyama]]
+- [[299_nosepass|pokemon/nosepass]]
+- [[306_aggron|pokemon/aggron]]
+- [[323_camerupt|pokemon/camerupt]]
+- [[337_lunatone|pokemon/lunatone]]
+- [[338_solrock|pokemon/solrock]]
+- [[343_baltoy|pokemon/baltoy]]
+- [[344_claydol|pokemon/claydol]]
+- [[345_lileep|pokemon/lileep]]
+- [[346_cradily|pokemon/cradily]]
+- [[347_anorith|pokemon/anorith]]
+- [[348_armaldo|pokemon/armaldo]]
+- [[369_relicanth|pokemon/relicanth]]
+- [[377_regirock|pokemon/regirock]]
+- [[383_groudon|pokemon/groudon]]
+- [[387_turtwig|pokemon/turtwig]]
+- [[388_grotle|pokemon/grotle]]
+- [[389_torterra|pokemon/torterra]]
+- [[391_monferno|pokemon/monferno]]
+- [[392_infernape|pokemon/infernape]]
+- [[408_cranidos|pokemon/cranidos]]
+- [[409_rampardos|pokemon/rampardos]]
+- [[410_shieldon|pokemon/shieldon]]
+- [[411_bastiodon|pokemon/bastiodon]]
+- [[424_ambipom|pokemon/ambipom]]
+- [[438_bonsly|pokemon/bonsly]]
+- [[464_rhyperior|pokemon/rhyperior]]
+- [[473_mamoswine|pokemon/mamoswine]]
+- [[476_probopass|pokemon/probopass]]
+- [[486_regigigas|pokemon/regigigas]]
+- [[500_emboar|pokemon/emboar]]
+- [[524_roggenrola|pokemon/roggenrola]]
+- [[525_boldore|pokemon/boldore]]
+- [[526_gigalith|pokemon/gigalith]]
+- [[532_timburr|pokemon/timburr]]
+- [[533_gurdurr|pokemon/gurdurr]]
+- [[534_conkeldurr|pokemon/conkeldurr]]
+- [[553_krookodile|pokemon/krookodile]]
+- [[555_darmanitan-standard|pokemon/darmanitan-standard]]
+- [[557_dwebble|pokemon/dwebble]]
+- [[558_crustle|pokemon/crustle]]
+- [[559_scraggy|pokemon/scraggy]]
+- [[560_scrafty|pokemon/scrafty]]
+- [[561_sigilyph|pokemon/sigilyph]]
+- [[564_tirtouga|pokemon/tirtouga]]
+- [[565_carracosta|pokemon/carracosta]]
+- [[566_archen|pokemon/archen]]
+- [[567_archeops|pokemon/archeops]]
+- [[569_garbodor|pokemon/garbodor]]
+- [[621_druddigon|pokemon/druddigon]]
+- [[639_terrakion|pokemon/terrakion]]
+- [[641_tornadus-incarnate|pokemon/tornadus-incarnate]]
+- [[642_thundurus-incarnate|pokemon/thundurus-incarnate]]
+- [[645_landorus-incarnate|pokemon/landorus-incarnate]]
+- [[650_chespin|pokemon/chespin]]
+- [[651_quilladin|pokemon/quilladin]]
+- [[652_chesnaught|pokemon/chesnaught]]
+- [[656_froakie|pokemon/froakie]]
+- [[657_frogadier|pokemon/frogadier]]
+- [[658_greninja|pokemon/greninja]]
+- [[659_bunnelby|pokemon/bunnelby]]
+- [[660_diggersby|pokemon/diggersby]]
+- [[688_binacle|pokemon/binacle]]
+- [[689_barbaracle|pokemon/barbaracle]]
+- [[692_clauncher|pokemon/clauncher]]
+- [[693_clawitzer|pokemon/clawitzer]]
+- [[703_carbink|pokemon/carbink]]
+- [[719_diancie|pokemon/diancie]]
+- [[721_volcanion|pokemon/volcanion]]
+- [[724_decidueye|pokemon/decidueye]]
+- [[731_pikipek|pokemon/pikipek]]
+- [[732_trumbeak|pokemon/trumbeak]]
+- [[733_toucannon|pokemon/toucannon]]
+- [[748_toxapex|pokemon/toxapex]]
+- [[749_mudbray|pokemon/mudbray]]
+- [[750_mudsdale|pokemon/mudsdale]]
+- [[766_passimian|pokemon/passimian]]
+- [[776_turtonator|pokemon/turtonator]]
+- [[794_buzzwole|pokemon/buzzwole]]
+- [[797_celesteela|pokemon/celesteela]]
+- [[799_guzzlord|pokemon/guzzlord]]
+- [[802_marshadow|pokemon/marshadow]]
+- [[805_stakataka|pokemon/stakataka]]
+- [[806_blacephalon|pokemon/blacephalon]]
+- [[815_cinderace|pokemon/cinderace]]
+- [[818_inteleon|pokemon/inteleon]]
+- [[837_rolycoly|pokemon/rolycoly]]
+- [[838_carkol|pokemon/carkol]]
+- [[839_coalossal|pokemon/coalossal]]
+- [[874_stonjourner|pokemon/stonjourner]]
+- [[879_copperajah|pokemon/copperajah]]
+- [[900_kleavor|pokemon/kleavor]]
+- [[932_nacli|pokemon/nacli]]
+- [[933_naclstack|pokemon/naclstack]]
+- [[934_garganacl|pokemon/garganacl]]
+- [[950_klawf|pokemon/klawf]]
+- [[959_tinkaton|pokemon/tinkaton]]
+- [[968_orthworm|pokemon/orthworm]]
+- [[969_glimmet|pokemon/glimmet]]
+- [[970_glimmora|pokemon/glimmora]]
+- [[979_annihilape|pokemon/annihilape]]
+- [[984_great-tusk|pokemon/great-tusk]]
+- [[995_iron-thorns|pokemon/iron-thorns]]
+- [[10017_darmanitan-zen|pokemon/darmanitan-zen]]
+- [[10019_tornadus-therian|pokemon/tornadus-therian]]
+- [[10020_thundurus-therian|pokemon/thundurus-therian]]
+- [[10021_landorus-therian|pokemon/landorus-therian]]
+- [[10036_blastoise-mega|pokemon/blastoise-mega]]
+- [[10040_pinsir-mega|pokemon/pinsir-mega]]
+- [[10042_aerodactyl-mega|pokemon/aerodactyl-mega]]
+- [[10047_heracross-mega|pokemon/heracross-mega]]
+- [[10049_tyranitar-mega|pokemon/tyranitar-mega]]
+- [[10053_aggron-mega|pokemon/aggron-mega]]
+- [[10072_steelix-mega|pokemon/steelix-mega]]
+- [[10075_diancie-mega|pokemon/diancie-mega]]
+- [[10078_groudon-primal|pokemon/groudon-primal]]
+- [[10105_diglett-alola|pokemon/diglett-alola]]
+- [[10106_dugtrio-alola|pokemon/dugtrio-alola]]
+- [[10108_persian-alola|pokemon/persian-alola]]
+- [[10109_geodude-alola|pokemon/geodude-alola]]
+- [[10110_graveler-alola|pokemon/graveler-alola]]
+- [[10111_golem-alola|pokemon/golem-alola]]
+- [[10115_marowak-alola|pokemon/marowak-alola]]
+- [[10116_greninja-battle-bond|pokemon/greninja-battle-bond]]
+- [[10117_greninja-ash|pokemon/greninja-ash]]
+- [[10149_marowak-totem|pokemon/marowak-totem]]
+- [[10165_slowbro-galar|pokemon/slowbro-galar]]
+- [[10229_growlithe-hisui|pokemon/growlithe-hisui]]
+- [[10230_arcanine-hisui|pokemon/arcanine-hisui]]
+- [[10244_decidueye-hisui|pokemon/decidueye-hisui]]
+- [[10272_ursaluna-bloodmoon|pokemon/ursaluna-bloodmoon]]
+

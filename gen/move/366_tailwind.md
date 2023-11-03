@@ -1,0 +1,212 @@
+---
+id: 366
+name: tailwind
+type: flying
+power: null
+pp: 15
+priority: 0
+accuracy: null
+damage_class: status
+zh_name: 顺风
+jp_name: おいかぜ
+kr_name: 순풍
+aliases:
+  - おいかぜ
+  - 순풍
+  - 順風
+  - Vent Arrière
+  - Rückenwind
+  - Viento Afín
+  - Ventoincoda
+  - Tailwind
+  - おいかぜ
+  - 顺风
+  - tailwind
+  - move/366
+  - move/tailwind
+---
+# tailwind
+    
+おいかぜ | 순풍 | 順風 | Vent Arrière | Rückenwind | Viento Afín | Ventoincoda | Tailwind | おいかぜ | 顺风
+
+[[3_flying|type/flying]]
+
+## Effect
+
+For the next three turns, all Pokémon on the user's side of the field have their original Speed doubled.  This effect remains if the user leaves the field.
+
+## Description
+
+
+
+## Pokemon
+
+- [[6_charizard|pokemon/charizard]]
+- [[12_butterfree|pokemon/butterfree]]
+- [[15_beedrill|pokemon/beedrill]]
+- [[16_pidgey|pokemon/pidgey]]
+- [[17_pidgeotto|pokemon/pidgeotto]]
+- [[18_pidgeot|pokemon/pidgeot]]
+- [[21_spearow|pokemon/spearow]]
+- [[22_fearow|pokemon/fearow]]
+- [[41_zubat|pokemon/zubat]]
+- [[42_golbat|pokemon/golbat]]
+- [[49_venomoth|pokemon/venomoth]]
+- [[83_farfetchd|pokemon/farfetchd]]
+- [[123_scyther|pokemon/scyther]]
+- [[142_aerodactyl|pokemon/aerodactyl]]
+- [[144_articuno|pokemon/articuno]]
+- [[145_zapdos|pokemon/zapdos]]
+- [[146_moltres|pokemon/moltres]]
+- [[149_dragonite|pokemon/dragonite]]
+- [[151_mew|pokemon/mew]]
+- [[163_hoothoot|pokemon/hoothoot]]
+- [[164_noctowl|pokemon/noctowl]]
+- [[165_ledyba|pokemon/ledyba]]
+- [[166_ledian|pokemon/ledian]]
+- [[169_crobat|pokemon/crobat]]
+- [[176_togetic|pokemon/togetic]]
+- [[177_natu|pokemon/natu]]
+- [[178_xatu|pokemon/xatu]]
+- [[187_hoppip|pokemon/hoppip]]
+- [[188_skiploom|pokemon/skiploom]]
+- [[189_jumpluff|pokemon/jumpluff]]
+- [[193_yanma|pokemon/yanma]]
+- [[198_murkrow|pokemon/murkrow]]
+- [[207_gligar|pokemon/gligar]]
+- [[212_scizor|pokemon/scizor]]
+- [[225_delibird|pokemon/delibird]]
+- [[226_mantine|pokemon/mantine]]
+- [[227_skarmory|pokemon/skarmory]]
+- [[245_suicune|pokemon/suicune]]
+- [[249_lugia|pokemon/lugia]]
+- [[250_ho-oh|pokemon/ho-oh]]
+- [[267_beautifly|pokemon/beautifly]]
+- [[269_dustox|pokemon/dustox]]
+- [[275_shiftry|pokemon/shiftry]]
+- [[276_taillow|pokemon/taillow]]
+- [[277_swellow|pokemon/swellow]]
+- [[278_wingull|pokemon/wingull]]
+- [[279_pelipper|pokemon/pelipper]]
+- [[284_masquerain|pokemon/masquerain]]
+- [[313_volbeat|pokemon/volbeat]]
+- [[314_illumise|pokemon/illumise]]
+- [[329_vibrava|pokemon/vibrava]]
+- [[330_flygon|pokemon/flygon]]
+- [[333_swablu|pokemon/swablu]]
+- [[334_altaria|pokemon/altaria]]
+- [[351_castform|pokemon/castform]]
+- [[357_tropius|pokemon/tropius]]
+- [[373_salamence|pokemon/salamence]]
+- [[380_latias|pokemon/latias]]
+- [[381_latios|pokemon/latios]]
+- [[384_rayquaza|pokemon/rayquaza]]
+- [[396_starly|pokemon/starly]]
+- [[397_staravia|pokemon/staravia]]
+- [[398_staraptor|pokemon/staraptor]]
+- [[414_mothim|pokemon/mothim]]
+- [[415_combee|pokemon/combee]]
+- [[416_vespiquen|pokemon/vespiquen]]
+- [[425_drifloon|pokemon/drifloon]]
+- [[426_drifblim|pokemon/drifblim]]
+- [[430_honchkrow|pokemon/honchkrow]]
+- [[441_chatot|pokemon/chatot]]
+- [[456_finneon|pokemon/finneon]]
+- [[457_lumineon|pokemon/lumineon]]
+- [[458_mantyke|pokemon/mantyke]]
+- [[468_togekiss|pokemon/togekiss]]
+- [[469_yanmega|pokemon/yanmega]]
+- [[472_gliscor|pokemon/gliscor]]
+- [[493_arceus|pokemon/arceus]]
+- [[519_pidove|pokemon/pidove]]
+- [[520_tranquill|pokemon/tranquill]]
+- [[521_unfezant|pokemon/unfezant]]
+- [[527_woobat|pokemon/woobat]]
+- [[528_swoobat|pokemon/swoobat]]
+- [[546_cottonee|pokemon/cottonee]]
+- [[547_whimsicott|pokemon/whimsicott]]
+- [[561_sigilyph|pokemon/sigilyph]]
+- [[566_archen|pokemon/archen]]
+- [[567_archeops|pokemon/archeops]]
+- [[580_ducklett|pokemon/ducklett]]
+- [[581_swanna|pokemon/swanna]]
+- [[587_emolga|pokemon/emolga]]
+- [[627_rufflet|pokemon/rufflet]]
+- [[628_braviary|pokemon/braviary]]
+- [[629_vullaby|pokemon/vullaby]]
+- [[630_mandibuzz|pokemon/mandibuzz]]
+- [[635_hydreigon|pokemon/hydreigon]]
+- [[637_volcarona|pokemon/volcarona]]
+- [[641_tornadus-incarnate|pokemon/tornadus-incarnate]]
+- [[643_reshiram|pokemon/reshiram]]
+- [[644_zekrom|pokemon/zekrom]]
+- [[661_fletchling|pokemon/fletchling]]
+- [[662_fletchinder|pokemon/fletchinder]]
+- [[663_talonflame|pokemon/talonflame]]
+- [[666_vivillon|pokemon/vivillon]]
+- [[701_hawlucha|pokemon/hawlucha]]
+- [[714_noibat|pokemon/noibat]]
+- [[715_noivern|pokemon/noivern]]
+- [[717_yveltal|pokemon/yveltal]]
+- [[723_dartrix|pokemon/dartrix]]
+- [[724_decidueye|pokemon/decidueye]]
+- [[731_pikipek|pokemon/pikipek]]
+- [[732_trumbeak|pokemon/trumbeak]]
+- [[733_toucannon|pokemon/toucannon]]
+- [[741_oricorio-baile|pokemon/oricorio-baile]]
+- [[742_cutiefly|pokemon/cutiefly]]
+- [[743_ribombee|pokemon/ribombee]]
+- [[764_comfey|pokemon/comfey]]
+- [[773_silvally|pokemon/silvally]]
+- [[780_drampa|pokemon/drampa]]
+- [[792_lunala|pokemon/lunala]]
+- [[798_kartana|pokemon/kartana]]
+- [[804_naganadel|pokemon/naganadel]]
+- [[821_rookidee|pokemon/rookidee]]
+- [[822_corvisquire|pokemon/corvisquire]]
+- [[823_corviknight|pokemon/corviknight]]
+- [[845_cramorant|pokemon/cramorant]]
+- [[873_frosmoth|pokemon/frosmoth]]
+- [[900_kleavor|pokemon/kleavor]]
+- [[905_enamorus-incarnate|pokemon/enamorus-incarnate]]
+- [[931_squawkabilly|pokemon/squawkabilly]]
+- [[940_wattrel|pokemon/wattrel]]
+- [[941_kilowattrel|pokemon/kilowattrel]]
+- [[962_bombirdier|pokemon/bombirdier]]
+- [[973_flamigo|pokemon/flamigo]]
+- [[982_dudunsparce|pokemon/dudunsparce]]
+- [[993_iron-jugulis|pokemon/iron-jugulis]]
+- [[1005_roaring-moon|pokemon/roaring-moon]]
+- [[1016_fezandipiti|pokemon/fezandipiti]]
+- [[10006_shaymin-sky|pokemon/shaymin-sky]]
+- [[10007_giratina-origin|pokemon/giratina-origin]]
+- [[10013_castform-sunny|pokemon/castform-sunny]]
+- [[10014_castform-rainy|pokemon/castform-rainy]]
+- [[10015_castform-snowy|pokemon/castform-snowy]]
+- [[10019_tornadus-therian|pokemon/tornadus-therian]]
+- [[10034_charizard-mega-x|pokemon/charizard-mega-x]]
+- [[10035_charizard-mega-y|pokemon/charizard-mega-y]]
+- [[10042_aerodactyl-mega|pokemon/aerodactyl-mega]]
+- [[10046_scizor-mega|pokemon/scizor-mega]]
+- [[10062_latias-mega|pokemon/latias-mega]]
+- [[10063_latios-mega|pokemon/latios-mega]]
+- [[10067_altaria-mega|pokemon/altaria-mega]]
+- [[10073_pidgeot-mega|pokemon/pidgeot-mega]]
+- [[10079_rayquaza-mega|pokemon/rayquaza-mega]]
+- [[10089_salamence-mega|pokemon/salamence-mega]]
+- [[10090_beedrill-mega|pokemon/beedrill-mega]]
+- [[10123_oricorio-pom-pom|pokemon/oricorio-pom-pom]]
+- [[10124_oricorio-pau|pokemon/oricorio-pau]]
+- [[10125_oricorio-sensu|pokemon/oricorio-sensu]]
+- [[10150_ribombee-totem|pokemon/ribombee-totem]]
+- [[10169_articuno-galar|pokemon/articuno-galar]]
+- [[10170_zapdos-galar|pokemon/zapdos-galar]]
+- [[10171_moltres-galar|pokemon/moltres-galar]]
+- [[10240_braviary-hisui|pokemon/braviary-hisui]]
+- [[10244_decidueye-hisui|pokemon/decidueye-hisui]]
+- [[10249_enamorus-therian|pokemon/enamorus-therian]]
+- [[10255_dudunsparce-three-segment|pokemon/dudunsparce-three-segment]]
+- [[10260_squawkabilly-blue-plumage|pokemon/squawkabilly-blue-plumage]]
+- [[10261_squawkabilly-yellow-plumage|pokemon/squawkabilly-yellow-plumage]]
+- [[10262_squawkabilly-white-plumage|pokemon/squawkabilly-white-plumage]]
+

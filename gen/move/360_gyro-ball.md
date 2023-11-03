@@ -1,0 +1,206 @@
+---
+id: 360
+name: gyro-ball
+type: steel
+power: null
+pp: 5
+priority: 0
+accuracy: 100
+damage_class: physical
+zh_name: 陀螺球
+jp_name: ジャイロボール
+kr_name: 자이로볼
+aliases:
+  - ジャイロボール
+  - 자이로볼
+  - 陀螺球
+  - Gyroballe
+  - Gyroball
+  - Giro Bola
+  - Vortexpalla
+  - Gyro Ball
+  - ジャイロボール
+  - 陀螺球
+  - gyro-ball
+  - move/360
+  - move/gyro-ball
+---
+# gyro-ball
+    
+ジャイロボール | 자이로볼 | 陀螺球 | Gyroballe | Gyroball | Giro Bola | Vortexpalla | Gyro Ball | ジャイロボール | 陀螺球
+
+[[9_steel|type/steel]]
+
+## Effect
+
+Inflicts regular damage.  Power increases with the target's current Speed compared to the user, given by `1 + 25 * target Speed / user Speed`, capped at 150.
+
+## Description
+
+
+
+## Pokemon
+
+- [[7_squirtle|pokemon/squirtle]]
+- [[8_wartortle|pokemon/wartortle]]
+- [[9_blastoise|pokemon/blastoise]]
+- [[27_sandshrew|pokemon/sandshrew]]
+- [[28_sandslash|pokemon/sandslash]]
+- [[39_jigglypuff|pokemon/jigglypuff]]
+- [[40_wigglytuff|pokemon/wigglytuff]]
+- [[74_geodude|pokemon/geodude]]
+- [[75_graveler|pokemon/graveler]]
+- [[76_golem|pokemon/golem]]
+- [[81_magnemite|pokemon/magnemite]]
+- [[82_magneton|pokemon/magneton]]
+- [[95_onix|pokemon/onix]]
+- [[100_voltorb|pokemon/voltorb]]
+- [[101_electrode|pokemon/electrode]]
+- [[109_koffing|pokemon/koffing]]
+- [[110_weezing|pokemon/weezing]]
+- [[120_staryu|pokemon/staryu]]
+- [[121_starmie|pokemon/starmie]]
+- [[138_omanyte|pokemon/omanyte]]
+- [[139_omastar|pokemon/omastar]]
+- [[151_mew|pokemon/mew]]
+- [[157_typhlosion|pokemon/typhlosion]]
+- [[204_pineco|pokemon/pineco]]
+- [[205_forretress|pokemon/forretress]]
+- [[206_dunsparce|pokemon/dunsparce]]
+- [[208_steelix|pokemon/steelix]]
+- [[211_qwilfish|pokemon/qwilfish]]
+- [[213_shuckle|pokemon/shuckle]]
+- [[219_magcargo|pokemon/magcargo]]
+- [[232_donphan|pokemon/donphan]]
+- [[237_hitmontop|pokemon/hitmontop]]
+- [[241_miltank|pokemon/miltank]]
+- [[302_sableye|pokemon/sableye]]
+- [[324_torkoal|pokemon/torkoal]]
+- [[337_lunatone|pokemon/lunatone]]
+- [[338_solrock|pokemon/solrock]]
+- [[343_baltoy|pokemon/baltoy]]
+- [[344_claydol|pokemon/claydol]]
+- [[362_glalie|pokemon/glalie]]
+- [[375_metang|pokemon/metang]]
+- [[376_metagross|pokemon/metagross]]
+- [[384_rayquaza|pokemon/rayquaza]]
+- [[425_drifloon|pokemon/drifloon]]
+- [[426_drifblim|pokemon/drifblim]]
+- [[436_bronzor|pokemon/bronzor]]
+- [[437_bronzong|pokemon/bronzong]]
+- [[462_magnezone|pokemon/magnezone]]
+- [[463_lickilicky|pokemon/lickilicky]]
+- [[498_tepig|pokemon/tepig]]
+- [[499_pignite|pokemon/pignite]]
+- [[500_emboar|pokemon/emboar]]
+- [[517_munna|pokemon/munna]]
+- [[518_musharna|pokemon/musharna]]
+- [[527_woobat|pokemon/woobat]]
+- [[528_swoobat|pokemon/swoobat]]
+- [[543_venipede|pokemon/venipede]]
+- [[544_whirlipede|pokemon/whirlipede]]
+- [[545_scolipede|pokemon/scolipede]]
+- [[554_darumaka|pokemon/darumaka]]
+- [[555_darmanitan-standard|pokemon/darmanitan-standard]]
+- [[577_solosis|pokemon/solosis]]
+- [[578_duosion|pokemon/duosion]]
+- [[579_reuniclus|pokemon/reuniclus]]
+- [[597_ferroseed|pokemon/ferroseed]]
+- [[598_ferrothorn|pokemon/ferrothorn]]
+- [[622_golett|pokemon/golett]]
+- [[623_golurk|pokemon/golurk]]
+- [[650_chespin|pokemon/chespin]]
+- [[651_quilladin|pokemon/quilladin]]
+- [[652_chesnaught|pokemon/chesnaught]]
+- [[679_honedge|pokemon/honedge]]
+- [[680_doublade|pokemon/doublade]]
+- [[681_aegislash-shield|pokemon/aegislash-shield]]
+- [[682_spritzee|pokemon/spritzee]]
+- [[683_aromatisse|pokemon/aromatisse]]
+- [[703_carbink|pokemon/carbink]]
+- [[710_pumpkaboo-average|pokemon/pumpkaboo-average]]
+- [[711_gourgeist-average|pokemon/gourgeist-average]]
+- [[712_bergmite|pokemon/bergmite]]
+- [[713_avalugg|pokemon/avalugg]]
+- [[719_diancie|pokemon/diancie]]
+- [[721_volcanion|pokemon/volcanion]]
+- [[766_passimian|pokemon/passimian]]
+- [[774_minior-red-meteor|pokemon/minior-red-meteor]]
+- [[777_togedemaru|pokemon/togedemaru]]
+- [[781_dhelmise|pokemon/dhelmise]]
+- [[791_solgaleo|pokemon/solgaleo]]
+- [[794_buzzwole|pokemon/buzzwole]]
+- [[797_celesteela|pokemon/celesteela]]
+- [[799_guzzlord|pokemon/guzzlord]]
+- [[800_necrozma|pokemon/necrozma]]
+- [[801_magearna|pokemon/magearna]]
+- [[805_stakataka|pokemon/stakataka]]
+- [[808_meltan|pokemon/meltan]]
+- [[809_melmetal|pokemon/melmetal]]
+- [[819_skwovet|pokemon/skwovet]]
+- [[820_greedent|pokemon/greedent]]
+- [[837_rolycoly|pokemon/rolycoly]]
+- [[838_carkol|pokemon/carkol]]
+- [[839_coalossal|pokemon/coalossal]]
+- [[842_appletun|pokemon/appletun]]
+- [[863_perrserker|pokemon/perrserker]]
+- [[884_duraludon|pokemon/duraludon]]
+- [[904_overqwil|pokemon/overqwil]]
+- [[965_varoom|pokemon/varoom]]
+- [[966_revavroom|pokemon/revavroom]]
+- [[982_dudunsparce|pokemon/dudunsparce]]
+- [[985_scream-tail|pokemon/scream-tail]]
+- [[990_iron-treads|pokemon/iron-treads]]
+- [[1011_dipplin|pokemon/dipplin]]
+- [[10005_wormadam-trash|pokemon/wormadam-trash]]
+- [[10017_darmanitan-zen|pokemon/darmanitan-zen]]
+- [[10026_aegislash-blade|pokemon/aegislash-blade]]
+- [[10027_pumpkaboo-small|pokemon/pumpkaboo-small]]
+- [[10028_pumpkaboo-large|pokemon/pumpkaboo-large]]
+- [[10029_pumpkaboo-super|pokemon/pumpkaboo-super]]
+- [[10030_gourgeist-small|pokemon/gourgeist-small]]
+- [[10031_gourgeist-large|pokemon/gourgeist-large]]
+- [[10032_gourgeist-super|pokemon/gourgeist-super]]
+- [[10036_blastoise-mega|pokemon/blastoise-mega]]
+- [[10072_steelix-mega|pokemon/steelix-mega]]
+- [[10074_glalie-mega|pokemon/glalie-mega]]
+- [[10075_diancie-mega|pokemon/diancie-mega]]
+- [[10076_metagross-mega|pokemon/metagross-mega]]
+- [[10079_rayquaza-mega|pokemon/rayquaza-mega]]
+- [[10101_sandshrew-alola|pokemon/sandshrew-alola]]
+- [[10102_sandslash-alola|pokemon/sandslash-alola]]
+- [[10109_geodude-alola|pokemon/geodude-alola]]
+- [[10110_graveler-alola|pokemon/graveler-alola]]
+- [[10111_golem-alola|pokemon/golem-alola]]
+- [[10130_minior-orange-meteor|pokemon/minior-orange-meteor]]
+- [[10131_minior-yellow-meteor|pokemon/minior-yellow-meteor]]
+- [[10132_minior-green-meteor|pokemon/minior-green-meteor]]
+- [[10133_minior-blue-meteor|pokemon/minior-blue-meteor]]
+- [[10134_minior-indigo-meteor|pokemon/minior-indigo-meteor]]
+- [[10135_minior-violet-meteor|pokemon/minior-violet-meteor]]
+- [[10136_minior-red|pokemon/minior-red]]
+- [[10137_minior-orange|pokemon/minior-orange]]
+- [[10138_minior-yellow|pokemon/minior-yellow]]
+- [[10139_minior-green|pokemon/minior-green]]
+- [[10140_minior-blue|pokemon/minior-blue]]
+- [[10141_minior-indigo|pokemon/minior-indigo]]
+- [[10142_minior-violet|pokemon/minior-violet]]
+- [[10147_magearna-original|pokemon/magearna-original]]
+- [[10154_togedemaru-totem|pokemon/togedemaru-totem]]
+- [[10155_necrozma-dusk|pokemon/necrozma-dusk]]
+- [[10156_necrozma-dawn|pokemon/necrozma-dawn]]
+- [[10157_necrozma-ultra|pokemon/necrozma-ultra]]
+- [[10161_meowth-galar|pokemon/meowth-galar]]
+- [[10167_weezing-galar|pokemon/weezing-galar]]
+- [[10176_darumaka-galar|pokemon/darumaka-galar]]
+- [[10177_darmanitan-galar-standard|pokemon/darmanitan-galar-standard]]
+- [[10178_darmanitan-galar-zen|pokemon/darmanitan-galar-zen]]
+- [[10231_voltorb-hisui|pokemon/voltorb-hisui]]
+- [[10232_electrode-hisui|pokemon/electrode-hisui]]
+- [[10233_typhlosion-hisui|pokemon/typhlosion-hisui]]
+- [[10234_qwilfish-hisui|pokemon/qwilfish-hisui]]
+- [[10241_sliggoo-hisui|pokemon/sliggoo-hisui]]
+- [[10242_goodra-hisui|pokemon/goodra-hisui]]
+- [[10243_avalugg-hisui|pokemon/avalugg-hisui]]
+- [[10255_dudunsparce-three-segment|pokemon/dudunsparce-three-segment]]
+

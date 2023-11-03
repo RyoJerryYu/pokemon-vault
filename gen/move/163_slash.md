@@ -1,0 +1,201 @@
+---
+id: 163
+name: slash
+type: normal
+power: 70
+pp: 20
+priority: 0
+accuracy: 100
+damage_class: physical
+zh_name: 劈开
+jp_name: きりさく
+kr_name: 베어가르기
+aliases:
+  - きりさく
+  - 베어가르기
+  - 劈開
+  - Tranche
+  - Schlitzer
+  - Cuchillada
+  - Lacerazione
+  - Slash
+  - きりさく
+  - 劈开
+  - slash
+  - move/163
+  - move/slash
+---
+# slash
+    
+きりさく | 베어가르기 | 劈開 | Tranche | Schlitzer | Cuchillada | Lacerazione | Slash | きりさく | 劈开
+
+[[1_normal|type/normal]]
+
+## Effect
+
+Inflicts regular damage.  User's critical hit rate is one level higher when using this move.
+
+## Description
+
+
+
+## Pokemon
+
+- [[4_charmander|pokemon/charmander]]
+- [[5_charmeleon|pokemon/charmeleon]]
+- [[6_charizard|pokemon/charizard]]
+- [[27_sandshrew|pokemon/sandshrew]]
+- [[28_sandslash|pokemon/sandslash]]
+- [[46_paras|pokemon/paras]]
+- [[47_parasect|pokemon/parasect]]
+- [[50_diglett|pokemon/diglett]]
+- [[51_dugtrio|pokemon/dugtrio]]
+- [[52_meowth|pokemon/meowth]]
+- [[53_persian|pokemon/persian]]
+- [[83_farfetchd|pokemon/farfetchd]]
+- [[98_krabby|pokemon/krabby]]
+- [[123_scyther|pokemon/scyther]]
+- [[127_pinsir|pokemon/pinsir]]
+- [[140_kabuto|pokemon/kabuto]]
+- [[141_kabutops|pokemon/kabutops]]
+- [[158_totodile|pokemon/totodile]]
+- [[159_croconaw|pokemon/croconaw]]
+- [[160_feraligatr|pokemon/feraligatr]]
+- [[161_sentret|pokemon/sentret]]
+- [[162_furret|pokemon/furret]]
+- [[207_gligar|pokemon/gligar]]
+- [[212_scizor|pokemon/scizor]]
+- [[215_sneasel|pokemon/sneasel]]
+- [[216_teddiursa|pokemon/teddiursa]]
+- [[217_ursaring|pokemon/ursaring]]
+- [[227_skarmory|pokemon/skarmory]]
+- [[252_treecko|pokemon/treecko]]
+- [[255_torchic|pokemon/torchic]]
+- [[256_combusken|pokemon/combusken]]
+- [[257_blaziken|pokemon/blaziken]]
+- [[264_linoone|pokemon/linoone]]
+- [[287_slakoth|pokemon/slakoth]]
+- [[288_vigoroth|pokemon/vigoroth]]
+- [[289_slaking|pokemon/slaking]]
+- [[291_ninjask|pokemon/ninjask]]
+- [[319_sharpedo|pokemon/sharpedo]]
+- [[335_zangoose|pokemon/zangoose]]
+- [[341_corphish|pokemon/corphish]]
+- [[342_crawdaunt|pokemon/crawdaunt]]
+- [[347_anorith|pokemon/anorith]]
+- [[348_armaldo|pokemon/armaldo]]
+- [[352_kecleon|pokemon/kecleon]]
+- [[359_absol|pokemon/absol]]
+- [[383_groudon|pokemon/groudon]]
+- [[402_kricketune|pokemon/kricketune]]
+- [[416_vespiquen|pokemon/vespiquen]]
+- [[418_buizel|pokemon/buizel]]
+- [[431_glameow|pokemon/glameow]]
+- [[432_purugly|pokemon/purugly]]
+- [[434_stunky|pokemon/stunky]]
+- [[435_skuntank|pokemon/skuntank]]
+- [[443_gible|pokemon/gible]]
+- [[444_gabite|pokemon/gabite]]
+- [[445_garchomp|pokemon/garchomp]]
+- [[451_skorupi|pokemon/skorupi]]
+- [[461_weavile|pokemon/weavile]]
+- [[469_yanmega|pokemon/yanmega]]
+- [[472_gliscor|pokemon/gliscor]]
+- [[475_gallade|pokemon/gallade]]
+- [[483_dialga|pokemon/dialga]]
+- [[484_palkia|pokemon/palkia]]
+- [[487_giratina-altered|pokemon/giratina-altered]]
+- [[488_cresselia|pokemon/cresselia]]
+- [[503_samurott|pokemon/samurott]]
+- [[509_purrloin|pokemon/purrloin]]
+- [[510_liepard|pokemon/liepard]]
+- [[529_drilbur|pokemon/drilbur]]
+- [[530_excadrill|pokemon/excadrill]]
+- [[542_leavanny|pokemon/leavanny]]
+- [[557_dwebble|pokemon/dwebble]]
+- [[558_crustle|pokemon/crustle]]
+- [[588_karrablast|pokemon/karrablast]]
+- [[589_escavalier|pokemon/escavalier]]
+- [[595_joltik|pokemon/joltik]]
+- [[596_galvantula|pokemon/galvantula]]
+- [[610_axew|pokemon/axew]]
+- [[611_fraxure|pokemon/fraxure]]
+- [[612_haxorus|pokemon/haxorus]]
+- [[613_cubchoo|pokemon/cubchoo]]
+- [[614_beartic|pokemon/beartic]]
+- [[615_cryogonal|pokemon/cryogonal]]
+- [[621_druddigon|pokemon/druddigon]]
+- [[624_pawniard|pokemon/pawniard]]
+- [[625_bisharp|pokemon/bisharp]]
+- [[627_rufflet|pokemon/rufflet]]
+- [[628_braviary|pokemon/braviary]]
+- [[631_heatmor|pokemon/heatmor]]
+- [[643_reshiram|pokemon/reshiram]]
+- [[644_zekrom|pokemon/zekrom]]
+- [[646_kyurem|pokemon/kyurem]]
+- [[649_genesect|pokemon/genesect]]
+- [[674_pancham|pokemon/pancham]]
+- [[675_pangoro|pokemon/pangoro]]
+- [[679_honedge|pokemon/honedge]]
+- [[680_doublade|pokemon/doublade]]
+- [[681_aegislash-shield|pokemon/aegislash-shield]]
+- [[686_inkay|pokemon/inkay]]
+- [[687_malamar|pokemon/malamar]]
+- [[688_binacle|pokemon/binacle]]
+- [[689_barbaracle|pokemon/barbaracle]]
+- [[753_fomantis|pokemon/fomantis]]
+- [[754_lurantis|pokemon/lurantis]]
+- [[768_golisopod|pokemon/golisopod]]
+- [[778_mimikyu-disguised|pokemon/mimikyu-disguised]]
+- [[800_necrozma|pokemon/necrozma]]
+- [[807_zeraora|pokemon/zeraora]]
+- [[846_arrokuda|pokemon/arrokuda]]
+- [[863_perrserker|pokemon/perrserker]]
+- [[884_duraludon|pokemon/duraludon]]
+- [[888_zacian|pokemon/zacian]]
+- [[889_zamazenta|pokemon/zamazenta]]
+- [[900_kleavor|pokemon/kleavor]]
+- [[901_ursaluna|pokemon/ursaluna]]
+- [[903_sneasler|pokemon/sneasler]]
+- [[906_sprigatito|pokemon/sprigatito]]
+- [[907_floragato|pokemon/floragato]]
+- [[908_meowscarada|pokemon/meowscarada]]
+- [[944_shroodle|pokemon/shroodle]]
+- [[945_grafaiai|pokemon/grafaiai]]
+- [[976_veluza|pokemon/veluza]]
+- [[983_kingambit|pokemon/kingambit]]
+- [[10007_giratina-origin|pokemon/giratina-origin]]
+- [[10022_kyurem-black|pokemon/kyurem-black]]
+- [[10023_kyurem-white|pokemon/kyurem-white]]
+- [[10026_aegislash-blade|pokemon/aegislash-blade]]
+- [[10034_charizard-mega-x|pokemon/charizard-mega-x]]
+- [[10035_charizard-mega-y|pokemon/charizard-mega-y]]
+- [[10046_scizor-mega|pokemon/scizor-mega]]
+- [[10050_blaziken-mega|pokemon/blaziken-mega]]
+- [[10057_absol-mega|pokemon/absol-mega]]
+- [[10058_garchomp-mega|pokemon/garchomp-mega]]
+- [[10068_gallade-mega|pokemon/gallade-mega]]
+- [[10070_sharpedo-mega|pokemon/sharpedo-mega]]
+- [[10101_sandshrew-alola|pokemon/sandshrew-alola]]
+- [[10102_sandslash-alola|pokemon/sandslash-alola]]
+- [[10105_diglett-alola|pokemon/diglett-alola]]
+- [[10106_dugtrio-alola|pokemon/dugtrio-alola]]
+- [[10107_meowth-alola|pokemon/meowth-alola]]
+- [[10108_persian-alola|pokemon/persian-alola]]
+- [[10128_lurantis-totem|pokemon/lurantis-totem]]
+- [[10143_mimikyu-busted|pokemon/mimikyu-busted]]
+- [[10144_mimikyu-totem-disguised|pokemon/mimikyu-totem-disguised]]
+- [[10145_mimikyu-totem-busted|pokemon/mimikyu-totem-busted]]
+- [[10155_necrozma-dusk|pokemon/necrozma-dusk]]
+- [[10156_necrozma-dawn|pokemon/necrozma-dawn]]
+- [[10157_necrozma-ultra|pokemon/necrozma-ultra]]
+- [[10161_meowth-galar|pokemon/meowth-galar]]
+- [[10188_zacian-crowned|pokemon/zacian-crowned]]
+- [[10189_zamazenta-crowned|pokemon/zamazenta-crowned]]
+- [[10235_sneasel-hisui|pokemon/sneasel-hisui]]
+- [[10236_samurott-hisui|pokemon/samurott-hisui]]
+- [[10240_braviary-hisui|pokemon/braviary-hisui]]
+- [[10245_dialga-origin|pokemon/dialga-origin]]
+- [[10246_palkia-origin|pokemon/palkia-origin]]
+- [[10272_ursaluna-bloodmoon|pokemon/ursaluna-bloodmoon]]
+

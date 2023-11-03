@@ -1,0 +1,211 @@
+---
+id: 250
+name: whirlpool
+type: water
+power: 35
+pp: 15
+priority: 0
+accuracy: 85
+damage_class: special
+zh_name: 潮旋
+jp_name: うずしお
+kr_name: 바다회오리
+aliases:
+  - うずしお
+  - 바다회오리
+  - 潮旋
+  - Siphon
+  - Whirlpool
+  - Torbellino
+  - Mulinello
+  - Whirlpool
+  - うずしお
+  - 潮旋
+  - whirlpool
+  - move/250
+  - move/whirlpool
+---
+# whirlpool
+    
+うずしお | 바다회오리 | 潮旋 | Siphon | Whirlpool | Torbellino | Mulinello | Whirlpool | うずしお | 潮旋
+
+[[11_water|type/water]]
+
+## Effect
+
+Inflicts regular damage.  For the next 2–5 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  The user continues to use other moves during this time.  If the user leaves the field, this effect ends.
+
+Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.
+
+If the target is in the first turn of dive, this move will hit with double power.
+
+## Description
+
+
+
+## Pokemon
+
+- [[7_squirtle|pokemon/squirtle]]
+- [[8_wartortle|pokemon/wartortle]]
+- [[9_blastoise|pokemon/blastoise]]
+- [[31_nidoqueen|pokemon/nidoqueen]]
+- [[34_nidoking|pokemon/nidoking]]
+- [[54_psyduck|pokemon/psyduck]]
+- [[55_golduck|pokemon/golduck]]
+- [[60_poliwag|pokemon/poliwag]]
+- [[61_poliwhirl|pokemon/poliwhirl]]
+- [[62_poliwrath|pokemon/poliwrath]]
+- [[72_tentacool|pokemon/tentacool]]
+- [[73_tentacruel|pokemon/tentacruel]]
+- [[79_slowpoke|pokemon/slowpoke]]
+- [[80_slowbro|pokemon/slowbro]]
+- [[86_seel|pokemon/seel]]
+- [[87_dewgong|pokemon/dewgong]]
+- [[90_shellder|pokemon/shellder]]
+- [[91_cloyster|pokemon/cloyster]]
+- [[98_krabby|pokemon/krabby]]
+- [[99_kingler|pokemon/kingler]]
+- [[108_lickitung|pokemon/lickitung]]
+- [[112_rhydon|pokemon/rhydon]]
+- [[115_kangaskhan|pokemon/kangaskhan]]
+- [[116_horsea|pokemon/horsea]]
+- [[117_seadra|pokemon/seadra]]
+- [[118_goldeen|pokemon/goldeen]]
+- [[119_seaking|pokemon/seaking]]
+- [[120_staryu|pokemon/staryu]]
+- [[121_starmie|pokemon/starmie]]
+- [[128_tauros|pokemon/tauros]]
+- [[130_gyarados|pokemon/gyarados]]
+- [[131_lapras|pokemon/lapras]]
+- [[134_vaporeon|pokemon/vaporeon]]
+- [[138_omanyte|pokemon/omanyte]]
+- [[139_omastar|pokemon/omastar]]
+- [[140_kabuto|pokemon/kabuto]]
+- [[141_kabutops|pokemon/kabutops]]
+- [[143_snorlax|pokemon/snorlax]]
+- [[147_dratini|pokemon/dratini]]
+- [[148_dragonair|pokemon/dragonair]]
+- [[149_dragonite|pokemon/dragonite]]
+- [[151_mew|pokemon/mew]]
+- [[158_totodile|pokemon/totodile]]
+- [[159_croconaw|pokemon/croconaw]]
+- [[160_feraligatr|pokemon/feraligatr]]
+- [[161_sentret|pokemon/sentret]]
+- [[162_furret|pokemon/furret]]
+- [[170_chinchou|pokemon/chinchou]]
+- [[171_lanturn|pokemon/lanturn]]
+- [[183_marill|pokemon/marill]]
+- [[184_azumarill|pokemon/azumarill]]
+- [[186_politoed|pokemon/politoed]]
+- [[194_wooper|pokemon/wooper]]
+- [[195_quagsire|pokemon/quagsire]]
+- [[199_slowking|pokemon/slowking]]
+- [[211_qwilfish|pokemon/qwilfish]]
+- [[215_sneasel|pokemon/sneasel]]
+- [[222_corsola|pokemon/corsola]]
+- [[223_remoraid|pokemon/remoraid]]
+- [[224_octillery|pokemon/octillery]]
+- [[226_mantine|pokemon/mantine]]
+- [[230_kingdra|pokemon/kingdra]]
+- [[241_miltank|pokemon/miltank]]
+- [[245_suicune|pokemon/suicune]]
+- [[248_tyranitar|pokemon/tyranitar]]
+- [[249_lugia|pokemon/lugia]]
+- [[258_mudkip|pokemon/mudkip]]
+- [[259_marshtomp|pokemon/marshtomp]]
+- [[260_swampert|pokemon/swampert]]
+- [[263_zigzagoon|pokemon/zigzagoon]]
+- [[264_linoone|pokemon/linoone]]
+- [[270_lotad|pokemon/lotad]]
+- [[271_lombre|pokemon/lombre]]
+- [[272_ludicolo|pokemon/ludicolo]]
+- [[279_pelipper|pokemon/pelipper]]
+- [[295_exploud|pokemon/exploud]]
+- [[296_makuhita|pokemon/makuhita]]
+- [[297_hariyama|pokemon/hariyama]]
+- [[298_azurill|pokemon/azurill]]
+- [[306_aggron|pokemon/aggron]]
+- [[318_carvanha|pokemon/carvanha]]
+- [[319_sharpedo|pokemon/sharpedo]]
+- [[320_wailmer|pokemon/wailmer]]
+- [[321_wailord|pokemon/wailord]]
+- [[339_barboach|pokemon/barboach]]
+- [[340_whiscash|pokemon/whiscash]]
+- [[341_corphish|pokemon/corphish]]
+- [[342_crawdaunt|pokemon/crawdaunt]]
+- [[349_feebas|pokemon/feebas]]
+- [[350_milotic|pokemon/milotic]]
+- [[363_spheal|pokemon/spheal]]
+- [[364_sealeo|pokemon/sealeo]]
+- [[365_walrein|pokemon/walrein]]
+- [[366_clamperl|pokemon/clamperl]]
+- [[367_huntail|pokemon/huntail]]
+- [[368_gorebyss|pokemon/gorebyss]]
+- [[369_relicanth|pokemon/relicanth]]
+- [[370_luvdisc|pokemon/luvdisc]]
+- [[380_latias|pokemon/latias]]
+- [[381_latios|pokemon/latios]]
+- [[382_kyogre|pokemon/kyogre]]
+- [[384_rayquaza|pokemon/rayquaza]]
+- [[393_piplup|pokemon/piplup]]
+- [[394_prinplup|pokemon/prinplup]]
+- [[395_empoleon|pokemon/empoleon]]
+- [[400_bibarel|pokemon/bibarel]]
+- [[409_rampardos|pokemon/rampardos]]
+- [[418_buizel|pokemon/buizel]]
+- [[419_floatzel|pokemon/floatzel]]
+- [[422_shellos|pokemon/shellos]]
+- [[423_gastrodon|pokemon/gastrodon]]
+- [[445_garchomp|pokemon/garchomp]]
+- [[446_munchlax|pokemon/munchlax]]
+- [[456_finneon|pokemon/finneon]]
+- [[457_lumineon|pokemon/lumineon]]
+- [[458_mantyke|pokemon/mantyke]]
+- [[461_weavile|pokemon/weavile]]
+- [[463_lickilicky|pokemon/lickilicky]]
+- [[464_rhyperior|pokemon/rhyperior]]
+- [[484_palkia|pokemon/palkia]]
+- [[489_phione|pokemon/phione]]
+- [[490_manaphy|pokemon/manaphy]]
+- [[493_arceus|pokemon/arceus]]
+- [[550_basculin-red-striped|pokemon/basculin-red-striped]]
+- [[564_tirtouga|pokemon/tirtouga]]
+- [[565_carracosta|pokemon/carracosta]]
+- [[592_frillish|pokemon/frillish]]
+- [[593_jellicent|pokemon/jellicent]]
+- [[594_alomomola|pokemon/alomomola]]
+- [[689_barbaracle|pokemon/barbaracle]]
+- [[728_popplio|pokemon/popplio]]
+- [[729_brionne|pokemon/brionne]]
+- [[730_primarina|pokemon/primarina]]
+- [[746_wishiwashi-solo|pokemon/wishiwashi-solo]]
+- [[781_dhelmise|pokemon/dhelmise]]
+- [[788_tapu-fini|pokemon/tapu-fini]]
+- [[816_sobble|pokemon/sobble]]
+- [[817_drizzile|pokemon/drizzile]]
+- [[818_inteleon|pokemon/inteleon]]
+- [[833_chewtle|pokemon/chewtle]]
+- [[834_drednaw|pokemon/drednaw]]
+- [[845_cramorant|pokemon/cramorant]]
+- [[846_arrokuda|pokemon/arrokuda]]
+- [[847_barraskewda|pokemon/barraskewda]]
+- [[853_grapploct|pokemon/grapploct]]
+- [[862_obstagoon|pokemon/obstagoon]]
+- [[864_cursola|pokemon/cursola]]
+- [[875_eiscue-ice|pokemon/eiscue-ice]]
+- [[882_dracovish|pokemon/dracovish]]
+- [[883_arctovish|pokemon/arctovish]]
+- [[991_iron-bundle|pokemon/iron-bundle]]
+- [[10016_basculin-blue-striped|pokemon/basculin-blue-striped]]
+- [[10127_wishiwashi-school|pokemon/wishiwashi-school]]
+- [[10164_slowpoke-galar|pokemon/slowpoke-galar]]
+- [[10165_slowbro-galar|pokemon/slowbro-galar]]
+- [[10172_slowking-galar|pokemon/slowking-galar]]
+- [[10173_corsola-galar|pokemon/corsola-galar]]
+- [[10174_zigzagoon-galar|pokemon/zigzagoon-galar]]
+- [[10175_linoone-galar|pokemon/linoone-galar]]
+- [[10182_cramorant-gulping|pokemon/cramorant-gulping]]
+- [[10183_cramorant-gorging|pokemon/cramorant-gorging]]
+- [[10185_eiscue-noice|pokemon/eiscue-noice]]
+- [[10191_urshifu-rapid-strike|pokemon/urshifu-rapid-strike]]
+

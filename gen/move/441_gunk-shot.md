@@ -1,0 +1,180 @@
+---
+id: 441
+name: gunk-shot
+type: poison
+power: 120
+pp: 5
+priority: 0
+accuracy: 80
+damage_class: physical
+zh_name: 垃圾射击
+jp_name: ダストシュート
+kr_name: 더스트슈트
+aliases:
+  - ダストシュート
+  - 더스트슈트
+  - 垃圾射擊
+  - Détricanon
+  - Mülltreffer
+  - Lanzamugre
+  - Sporcolancio
+  - Gunk Shot
+  - ダストシュート
+  - 垃圾射击
+  - gunk-shot
+  - move/441
+  - move/gunk-shot
+---
+# gunk-shot
+    
+ダストシュート | 더스트슈트 | 垃圾射擊 | Détricanon | Mülltreffer | Lanzamugre | Sporcolancio | Gunk Shot | ダストシュート | 垃圾射击
+
+[[4_poison|type/poison]]
+
+## Effect
+
+Inflicts regular damage.  Has a $effect_chance% chance to poison the target.
+
+## Description
+
+
+
+## Pokemon
+
+- [[23_ekans|pokemon/ekans]]
+- [[24_arbok|pokemon/arbok]]
+- [[28_sandslash|pokemon/sandslash]]
+- [[52_meowth|pokemon/meowth]]
+- [[53_persian|pokemon/persian]]
+- [[56_mankey|pokemon/mankey]]
+- [[57_primeape|pokemon/primeape]]
+- [[88_grimer|pokemon/grimer]]
+- [[89_muk|pokemon/muk]]
+- [[92_gastly|pokemon/gastly]]
+- [[93_haunter|pokemon/haunter]]
+- [[94_gengar|pokemon/gengar]]
+- [[109_koffing|pokemon/koffing]]
+- [[110_weezing|pokemon/weezing]]
+- [[143_snorlax|pokemon/snorlax]]
+- [[151_mew|pokemon/mew]]
+- [[190_aipom|pokemon/aipom]]
+- [[207_gligar|pokemon/gligar]]
+- [[211_qwilfish|pokemon/qwilfish]]
+- [[216_teddiursa|pokemon/teddiursa]]
+- [[217_ursaring|pokemon/ursaring]]
+- [[223_remoraid|pokemon/remoraid]]
+- [[224_octillery|pokemon/octillery]]
+- [[225_delibird|pokemon/delibird]]
+- [[226_mantine|pokemon/mantine]]
+- [[231_phanpy|pokemon/phanpy]]
+- [[232_donphan|pokemon/donphan]]
+- [[263_zigzagoon|pokemon/zigzagoon]]
+- [[264_linoone|pokemon/linoone]]
+- [[279_pelipper|pokemon/pelipper]]
+- [[285_shroomish|pokemon/shroomish]]
+- [[286_breloom|pokemon/breloom]]
+- [[287_slakoth|pokemon/slakoth]]
+- [[288_vigoroth|pokemon/vigoroth]]
+- [[289_slaking|pokemon/slaking]]
+- [[316_gulpin|pokemon/gulpin]]
+- [[317_swalot|pokemon/swalot]]
+- [[335_zangoose|pokemon/zangoose]]
+- [[336_seviper|pokemon/seviper]]
+- [[353_shuppet|pokemon/shuppet]]
+- [[354_banette|pokemon/banette]]
+- [[390_chimchar|pokemon/chimchar]]
+- [[391_monferno|pokemon/monferno]]
+- [[392_infernape|pokemon/infernape]]
+- [[417_pachirisu|pokemon/pachirisu]]
+- [[424_ambipom|pokemon/ambipom]]
+- [[434_stunky|pokemon/stunky]]
+- [[435_skuntank|pokemon/skuntank]]
+- [[446_munchlax|pokemon/munchlax]]
+- [[453_croagunk|pokemon/croagunk]]
+- [[454_toxicroak|pokemon/toxicroak]]
+- [[472_gliscor|pokemon/gliscor]]
+- [[493_arceus|pokemon/arceus]]
+- [[504_patrat|pokemon/patrat]]
+- [[505_watchog|pokemon/watchog]]
+- [[509_purrloin|pokemon/purrloin]]
+- [[510_liepard|pokemon/liepard]]
+- [[511_pansage|pokemon/pansage]]
+- [[512_simisage|pokemon/simisage]]
+- [[513_pansear|pokemon/pansear]]
+- [[514_simisear|pokemon/simisear]]
+- [[515_panpour|pokemon/panpour]]
+- [[516_simipour|pokemon/simipour]]
+- [[553_krookodile|pokemon/krookodile]]
+- [[568_trubbish|pokemon/trubbish]]
+- [[569_garbodor|pokemon/garbodor]]
+- [[572_minccino|pokemon/minccino]]
+- [[573_cinccino|pokemon/cinccino]]
+- [[621_druddigon|pokemon/druddigon]]
+- [[649_genesect|pokemon/genesect]]
+- [[657_frogadier|pokemon/frogadier]]
+- [[658_greninja|pokemon/greninja]]
+- [[660_diggersby|pokemon/diggersby]]
+- [[674_pancham|pokemon/pancham]]
+- [[675_pangoro|pokemon/pangoro]]
+- [[690_skrelp|pokemon/skrelp]]
+- [[691_dragalge|pokemon/dragalge]]
+- [[720_hoopa|pokemon/hoopa]]
+- [[731_pikipek|pokemon/pikipek]]
+- [[732_trumbeak|pokemon/trumbeak]]
+- [[733_toucannon|pokemon/toucannon]]
+- [[739_crabrawler|pokemon/crabrawler]]
+- [[740_crabominable|pokemon/crabominable]]
+- [[747_mareanie|pokemon/mareanie]]
+- [[748_toxapex|pokemon/toxapex]]
+- [[757_salandit|pokemon/salandit]]
+- [[758_salazzle|pokemon/salazzle]]
+- [[766_passimian|pokemon/passimian]]
+- [[775_komala|pokemon/komala]]
+- [[793_nihilego|pokemon/nihilego]]
+- [[803_poipole|pokemon/poipole]]
+- [[804_naganadel|pokemon/naganadel]]
+- [[813_scorbunny|pokemon/scorbunny]]
+- [[814_raboot|pokemon/raboot]]
+- [[815_cinderace|pokemon/cinderace]]
+- [[849_toxtricity-amped|pokemon/toxtricity-amped]]
+- [[862_obstagoon|pokemon/obstagoon]]
+- [[863_perrserker|pokemon/perrserker]]
+- [[890_eternatus|pokemon/eternatus]]
+- [[901_ursaluna|pokemon/ursaluna]]
+- [[903_sneasler|pokemon/sneasler]]
+- [[904_overqwil|pokemon/overqwil]]
+- [[944_shroodle|pokemon/shroodle]]
+- [[945_grafaiai|pokemon/grafaiai]]
+- [[953_rellor|pokemon/rellor]]
+- [[954_rabsca|pokemon/rabsca]]
+- [[965_varoom|pokemon/varoom]]
+- [[966_revavroom|pokemon/revavroom]]
+- [[969_glimmet|pokemon/glimmet]]
+- [[970_glimmora|pokemon/glimmora]]
+- [[979_annihilape|pokemon/annihilape]]
+- [[980_clodsire|pokemon/clodsire]]
+- [[1014_okidogi|pokemon/okidogi]]
+- [[1015_munkidori|pokemon/munkidori]]
+- [[1016_fezandipiti|pokemon/fezandipiti]]
+- [[10005_wormadam-trash|pokemon/wormadam-trash]]
+- [[10056_banette-mega|pokemon/banette-mega]]
+- [[10086_hoopa-unbound|pokemon/hoopa-unbound]]
+- [[10107_meowth-alola|pokemon/meowth-alola]]
+- [[10108_persian-alola|pokemon/persian-alola]]
+- [[10112_grimer-alola|pokemon/grimer-alola]]
+- [[10113_muk-alola|pokemon/muk-alola]]
+- [[10116_greninja-battle-bond|pokemon/greninja-battle-bond]]
+- [[10117_greninja-ash|pokemon/greninja-ash]]
+- [[10129_salazzle-totem|pokemon/salazzle-totem]]
+- [[10161_meowth-galar|pokemon/meowth-galar]]
+- [[10165_slowbro-galar|pokemon/slowbro-galar]]
+- [[10167_weezing-galar|pokemon/weezing-galar]]
+- [[10172_slowking-galar|pokemon/slowking-galar]]
+- [[10174_zigzagoon-galar|pokemon/zigzagoon-galar]]
+- [[10175_linoone-galar|pokemon/linoone-galar]]
+- [[10184_toxtricity-low-key|pokemon/toxtricity-low-key]]
+- [[10234_qwilfish-hisui|pokemon/qwilfish-hisui]]
+- [[10235_sneasel-hisui|pokemon/sneasel-hisui]]
+- [[10253_wooper-paldea|pokemon/wooper-paldea]]
+- [[10272_ursaluna-bloodmoon|pokemon/ursaluna-bloodmoon]]
+

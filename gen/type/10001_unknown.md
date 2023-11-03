@@ -1,0 +1,51 @@
+---
+id: 10001
+name: unknown
+double_damage_from: []
+double_damage_to: []
+half_damage_from: []
+half_damage_to: []
+no_damage_from: []
+no_damage_to: []
+zh_name: '???'
+jp_name: ？？？
+kr_name: '???'
+aliases:
+  - ？？？
+  - '???'
+  - '???'
+  - '???'
+  - '???'
+  - '???'
+  - '???'
+  - '???'
+  - ？？？
+  - '???'
+  - unknown
+  - type/10001
+  - type/unknown
+---
+# unknown
+
+？？？ | ??? | ??? | ??? | ??? | ??? | ??? | ??? | ？？？ | ???
+
+## Damage Relations
+
+From:
+- x2: 
+- x0.5: 
+- x0: 
+
+To:
+- x2: 
+- x0.5: 
+- x0: 
+
+## Pokemon
+
+
+
+## Moves
+
+
+

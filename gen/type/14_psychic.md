@@ -1,0 +1,271 @@
+---
+id: 14
+name: psychic
+double_damage_from:
+  - bug
+  - ghost
+  - dark
+double_damage_to:
+  - fighting
+  - poison
+half_damage_from:
+  - fighting
+  - psychic
+half_damage_to:
+  - steel
+  - psychic
+no_damage_from: []
+no_damage_to:
+  - dark
+zh_name: 超能力
+jp_name: エスパー
+kr_name: 에스퍼
+aliases:
+  - エスパー
+  - 에스퍼
+  - 超能力
+  - Psy
+  - Psycho
+  - Psíquico
+  - Psico
+  - Psychic
+  - エスパー
+  - 超能力
+  - psychic
+  - type/14
+  - type/psychic
+---
+# psychic
+
+エスパー | 에스퍼 | 超能力 | Psy | Psycho | Psíquico | Psico | Psychic | エスパー | 超能力
+
+## Damage Relations
+
+From:
+- x2: [[7_bug|type/bug]] | [[8_ghost|type/ghost]] | [[17_dark|type/dark]]
+- x0.5: [[2_fighting|type/fighting]] | [[14_psychic|type/psychic]]
+- x0: 
+
+To:
+- x2: [[2_fighting|type/fighting]] | [[4_poison|type/poison]]
+- x0.5: [[9_steel|type/steel]] | [[14_psychic|type/psychic]]
+- x0: [[17_dark|type/dark]]
+
+## Pokemon
+
+- [[63_abra|pokemon/abra]]
+- [[64_kadabra|pokemon/kadabra]]
+- [[65_alakazam|pokemon/alakazam]]
+- [[79_slowpoke|pokemon/slowpoke]]
+- [[80_slowbro|pokemon/slowbro]]
+- [[96_drowzee|pokemon/drowzee]]
+- [[97_hypno|pokemon/hypno]]
+- [[102_exeggcute|pokemon/exeggcute]]
+- [[103_exeggutor|pokemon/exeggutor]]
+- [[121_starmie|pokemon/starmie]]
+- [[122_mr-mime|pokemon/mr-mime]]
+- [[124_jynx|pokemon/jynx]]
+- [[150_mewtwo|pokemon/mewtwo]]
+- [[151_mew|pokemon/mew]]
+- [[177_natu|pokemon/natu]]
+- [[178_xatu|pokemon/xatu]]
+- [[196_espeon|pokemon/espeon]]
+- [[199_slowking|pokemon/slowking]]
+- [[201_unown|pokemon/unown]]
+- [[202_wobbuffet|pokemon/wobbuffet]]
+- [[203_girafarig|pokemon/girafarig]]
+- [[238_smoochum|pokemon/smoochum]]
+- [[249_lugia|pokemon/lugia]]
+- [[251_celebi|pokemon/celebi]]
+- [[280_ralts|pokemon/ralts]]
+- [[281_kirlia|pokemon/kirlia]]
+- [[282_gardevoir|pokemon/gardevoir]]
+- [[307_meditite|pokemon/meditite]]
+- [[308_medicham|pokemon/medicham]]
+- [[325_spoink|pokemon/spoink]]
+- [[326_grumpig|pokemon/grumpig]]
+- [[337_lunatone|pokemon/lunatone]]
+- [[338_solrock|pokemon/solrock]]
+- [[343_baltoy|pokemon/baltoy]]
+- [[344_claydol|pokemon/claydol]]
+- [[358_chimecho|pokemon/chimecho]]
+- [[360_wynaut|pokemon/wynaut]]
+- [[374_beldum|pokemon/beldum]]
+- [[375_metang|pokemon/metang]]
+- [[376_metagross|pokemon/metagross]]
+- [[380_latias|pokemon/latias]]
+- [[381_latios|pokemon/latios]]
+- [[385_jirachi|pokemon/jirachi]]
+- [[386_deoxys-normal|pokemon/deoxys-normal]]
+- [[433_chingling|pokemon/chingling]]
+- [[436_bronzor|pokemon/bronzor]]
+- [[437_bronzong|pokemon/bronzong]]
+- [[439_mime-jr|pokemon/mime-jr]]
+- [[475_gallade|pokemon/gallade]]
+- [[480_uxie|pokemon/uxie]]
+- [[481_mesprit|pokemon/mesprit]]
+- [[482_azelf|pokemon/azelf]]
+- [[488_cresselia|pokemon/cresselia]]
+- [[494_victini|pokemon/victini]]
+- [[517_munna|pokemon/munna]]
+- [[518_musharna|pokemon/musharna]]
+- [[527_woobat|pokemon/woobat]]
+- [[528_swoobat|pokemon/swoobat]]
+- [[561_sigilyph|pokemon/sigilyph]]
+- [[574_gothita|pokemon/gothita]]
+- [[575_gothorita|pokemon/gothorita]]
+- [[576_gothitelle|pokemon/gothitelle]]
+- [[577_solosis|pokemon/solosis]]
+- [[578_duosion|pokemon/duosion]]
+- [[579_reuniclus|pokemon/reuniclus]]
+- [[605_elgyem|pokemon/elgyem]]
+- [[606_beheeyem|pokemon/beheeyem]]
+- [[648_meloetta-aria|pokemon/meloetta-aria]]
+- [[655_delphox|pokemon/delphox]]
+- [[677_espurr|pokemon/espurr]]
+- [[678_meowstic-male|pokemon/meowstic-male]]
+- [[686_inkay|pokemon/inkay]]
+- [[687_malamar|pokemon/malamar]]
+- [[720_hoopa|pokemon/hoopa]]
+- [[765_oranguru|pokemon/oranguru]]
+- [[779_bruxish|pokemon/bruxish]]
+- [[786_tapu-lele|pokemon/tapu-lele]]
+- [[789_cosmog|pokemon/cosmog]]
+- [[790_cosmoem|pokemon/cosmoem]]
+- [[791_solgaleo|pokemon/solgaleo]]
+- [[792_lunala|pokemon/lunala]]
+- [[800_necrozma|pokemon/necrozma]]
+- [[825_dottler|pokemon/dottler]]
+- [[826_orbeetle|pokemon/orbeetle]]
+- [[856_hatenna|pokemon/hatenna]]
+- [[857_hattrem|pokemon/hattrem]]
+- [[858_hatterene|pokemon/hatterene]]
+- [[866_mr-rime|pokemon/mr-rime]]
+- [[876_indeedee-male|pokemon/indeedee-male]]
+- [[898_calyrex|pokemon/calyrex]]
+- [[899_wyrdeer|pokemon/wyrdeer]]
+- [[936_armarouge|pokemon/armarouge]]
+- [[954_rabsca|pokemon/rabsca]]
+- [[955_flittle|pokemon/flittle]]
+- [[956_espathra|pokemon/espathra]]
+- [[976_veluza|pokemon/veluza]]
+- [[981_farigiraf|pokemon/farigiraf]]
+- [[985_scream-tail|pokemon/scream-tail]]
+- [[1010_iron-leaves|pokemon/iron-leaves]]
+- [[1015_munkidori|pokemon/munkidori]]
+- [[10001_deoxys-attack|pokemon/deoxys-attack]]
+- [[10002_deoxys-defense|pokemon/deoxys-defense]]
+- [[10003_deoxys-speed|pokemon/deoxys-speed]]
+- [[10017_darmanitan-zen|pokemon/darmanitan-zen]]
+- [[10025_meowstic-female|pokemon/meowstic-female]]
+- [[10037_alakazam-mega|pokemon/alakazam-mega]]
+- [[10043_mewtwo-mega-x|pokemon/mewtwo-mega-x]]
+- [[10044_mewtwo-mega-y|pokemon/mewtwo-mega-y]]
+- [[10051_gardevoir-mega|pokemon/gardevoir-mega]]
+- [[10054_medicham-mega|pokemon/medicham-mega]]
+- [[10062_latias-mega|pokemon/latias-mega]]
+- [[10063_latios-mega|pokemon/latios-mega]]
+- [[10068_gallade-mega|pokemon/gallade-mega]]
+- [[10071_slowbro-mega|pokemon/slowbro-mega]]
+- [[10076_metagross-mega|pokemon/metagross-mega]]
+- [[10086_hoopa-unbound|pokemon/hoopa-unbound]]
+- [[10100_raichu-alola|pokemon/raichu-alola]]
+- [[10124_oricorio-pau|pokemon/oricorio-pau]]
+- [[10155_necrozma-dusk|pokemon/necrozma-dusk]]
+- [[10156_necrozma-dawn|pokemon/necrozma-dawn]]
+- [[10157_necrozma-ultra|pokemon/necrozma-ultra]]
+- [[10162_ponyta-galar|pokemon/ponyta-galar]]
+- [[10163_rapidash-galar|pokemon/rapidash-galar]]
+- [[10164_slowpoke-galar|pokemon/slowpoke-galar]]
+- [[10165_slowbro-galar|pokemon/slowbro-galar]]
+- [[10168_mr-mime-galar|pokemon/mr-mime-galar]]
+- [[10169_articuno-galar|pokemon/articuno-galar]]
+- [[10172_slowking-galar|pokemon/slowking-galar]]
+- [[10186_indeedee-female|pokemon/indeedee-female]]
+- [[10193_calyrex-ice|pokemon/calyrex-ice]]
+- [[10194_calyrex-shadow|pokemon/calyrex-shadow]]
+- [[10213_orbeetle-gmax|pokemon/orbeetle-gmax]]
+- [[10221_hatterene-gmax|pokemon/hatterene-gmax]]
+- [[10240_braviary-hisui|pokemon/braviary-hisui]]
+
+## Moves
+
+- [[60_psybeam|move/psybeam]]
+- [[93_confusion|move/confusion]]
+- [[94_psychic|move/psychic]]
+- [[95_hypnosis|move/hypnosis]]
+- [[96_meditate|move/meditate]]
+- [[97_agility|move/agility]]
+- [[100_teleport|move/teleport]]
+- [[112_barrier|move/barrier]]
+- [[113_light-screen|move/light-screen]]
+- [[115_reflect|move/reflect]]
+- [[133_amnesia|move/amnesia]]
+- [[134_kinesis|move/kinesis]]
+- [[138_dream-eater|move/dream-eater]]
+- [[149_psywave|move/psywave]]
+- [[156_rest|move/rest]]
+- [[243_mirror-coat|move/mirror-coat]]
+- [[248_future-sight|move/future-sight]]
+- [[271_trick|move/trick]]
+- [[272_role-play|move/role-play]]
+- [[277_magic-coat|move/magic-coat]]
+- [[285_skill-swap|move/skill-swap]]
+- [[286_imprison|move/imprison]]
+- [[295_luster-purge|move/luster-purge]]
+- [[296_mist-ball|move/mist-ball]]
+- [[322_cosmic-power|move/cosmic-power]]
+- [[326_extrasensory|move/extrasensory]]
+- [[347_calm-mind|move/calm-mind]]
+- [[354_psycho-boost|move/psycho-boost]]
+- [[356_gravity|move/gravity]]
+- [[357_miracle-eye|move/miracle-eye]]
+- [[361_healing-wish|move/healing-wish]]
+- [[375_psycho-shift|move/psycho-shift]]
+- [[377_heal-block|move/heal-block]]
+- [[379_power-trick|move/power-trick]]
+- [[384_power-swap|move/power-swap]]
+- [[385_guard-swap|move/guard-swap]]
+- [[391_heart-swap|move/heart-swap]]
+- [[427_psycho-cut|move/psycho-cut]]
+- [[428_zen-headbutt|move/zen-headbutt]]
+- [[433_trick-room|move/trick-room]]
+- [[461_lunar-dance|move/lunar-dance]]
+- [[470_guard-split|move/guard-split]]
+- [[471_power-split|move/power-split]]
+- [[472_wonder-room|move/wonder-room]]
+- [[473_psyshock|move/psyshock]]
+- [[477_telekinesis|move/telekinesis]]
+- [[478_magic-room|move/magic-room]]
+- [[485_synchronoise|move/synchronoise]]
+- [[500_stored-power|move/stored-power]]
+- [[502_ally-switch|move/ally-switch]]
+- [[505_heal-pulse|move/heal-pulse]]
+- [[531_heart-stamp|move/heart-stamp]]
+- [[540_psystrike|move/psystrike]]
+- [[593_hyperspace-hole|move/hyperspace-hole]]
+- [[648_shattered-psyche--physical|move/shattered-psyche--physical]]
+- [[649_shattered-psyche--special|move/shattered-psyche--special]]
+- [[678_psychic-terrain|move/psychic-terrain]]
+- [[683_speed-swap|move/speed-swap]]
+- [[689_instruct|move/instruct]]
+- [[703_genesis-supernova|move/genesis-supernova]]
+- [[706_psychic-fangs|move/psychic-fangs]]
+- [[711_prismatic-laser|move/prismatic-laser]]
+- [[722_photon-geyser|move/photon-geyser]]
+- [[723_light-that-burns-the-sky|move/light-that-burns-the-sky]]
+- [[736_glitzy-glow|move/glitzy-glow]]
+- [[750_magic-powder|move/magic-powder]]
+- [[769_max-mindstorm|move/max-mindstorm]]
+- [[797_expanding-force|move/expanding-force]]
+- [[821_freezing-glare|move/freezing-glare]]
+- [[826_eerie-spell|move/eerie-spell]]
+- [[828_psyshield-bash|move/psyshield-bash]]
+- [[832_mystical-power|move/mystical-power]]
+- [[840_esper-wing|move/esper-wing]]
+- [[849_lunar-blessing|move/lunar-blessing]]
+- [[850_take-heart|move/take-heart]]
+- [[855_lumina-crash|move/lumina-crash]]
+- [[875_psyblade|move/psyblade]]
+- [[888_twin-beam|move/twin-beam]]
+

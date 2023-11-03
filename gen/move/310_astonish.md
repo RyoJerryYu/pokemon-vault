@@ -1,0 +1,201 @@
+---
+id: 310
+name: astonish
+type: ghost
+power: 30
+pp: 15
+priority: 0
+accuracy: 100
+damage_class: physical
+zh_name: 惊吓
+jp_name: おどろかす
+kr_name: 놀래키기
+aliases:
+  - おどろかす
+  - 놀래키기
+  - 驚嚇
+  - Étonnement
+  - Erstauner
+  - Impresionar
+  - Sgomento
+  - Astonish
+  - おどろかす
+  - 惊吓
+  - astonish
+  - move/310
+  - move/astonish
+---
+# astonish
+    
+おどろかす | 놀래키기 | 驚嚇 | Étonnement | Erstauner | Impresionar | Sgomento | Astonish | おどろかす | 惊吓
+
+[[8_ghost|type/ghost]]
+
+## Effect
+
+Inflicts regular damage.  Has a $effect_chance% chance to make the target flinch.
+
+## Description
+
+
+
+## Pokemon
+
+- [[21_spearow|pokemon/spearow]]
+- [[41_zubat|pokemon/zubat]]
+- [[42_golbat|pokemon/golbat]]
+- [[50_diglett|pokemon/diglett]]
+- [[51_dugtrio|pokemon/dugtrio]]
+- [[92_gastly|pokemon/gastly]]
+- [[169_crobat|pokemon/crobat]]
+- [[190_aipom|pokemon/aipom]]
+- [[198_murkrow|pokemon/murkrow]]
+- [[200_misdreavus|pokemon/misdreavus]]
+- [[203_girafarig|pokemon/girafarig]]
+- [[206_dunsparce|pokemon/dunsparce]]
+- [[211_qwilfish|pokemon/qwilfish]]
+- [[234_stantler|pokemon/stantler]]
+- [[261_poochyena|pokemon/poochyena]]
+- [[262_mightyena|pokemon/mightyena]]
+- [[270_lotad|pokemon/lotad]]
+- [[271_lombre|pokemon/lombre]]
+- [[272_ludicolo|pokemon/ludicolo]]
+- [[273_seedot|pokemon/seedot]]
+- [[274_nuzleaf|pokemon/nuzleaf]]
+- [[275_shiftry|pokemon/shiftry]]
+- [[293_whismur|pokemon/whismur]]
+- [[294_loudred|pokemon/loudred]]
+- [[295_exploud|pokemon/exploud]]
+- [[302_sableye|pokemon/sableye]]
+- [[303_mawile|pokemon/mawile]]
+- [[320_wailmer|pokemon/wailmer]]
+- [[321_wailord|pokemon/wailord]]
+- [[328_trapinch|pokemon/trapinch]]
+- [[329_vibrava|pokemon/vibrava]]
+- [[330_flygon|pokemon/flygon]]
+- [[333_swablu|pokemon/swablu]]
+- [[334_altaria|pokemon/altaria]]
+- [[345_lileep|pokemon/lileep]]
+- [[346_cradily|pokemon/cradily]]
+- [[352_kecleon|pokemon/kecleon]]
+- [[353_shuppet|pokemon/shuppet]]
+- [[355_duskull|pokemon/duskull]]
+- [[356_dusclops|pokemon/dusclops]]
+- [[358_chimecho|pokemon/chimecho]]
+- [[361_snorunt|pokemon/snorunt]]
+- [[362_glalie|pokemon/glalie]]
+- [[396_starly|pokemon/starly]]
+- [[424_ambipom|pokemon/ambipom]]
+- [[425_drifloon|pokemon/drifloon]]
+- [[426_drifblim|pokemon/drifblim]]
+- [[429_mismagius|pokemon/mismagius]]
+- [[430_honchkrow|pokemon/honchkrow]]
+- [[433_chingling|pokemon/chingling]]
+- [[434_stunky|pokemon/stunky]]
+- [[453_croagunk|pokemon/croagunk]]
+- [[454_toxicroak|pokemon/toxicroak]]
+- [[477_dusknoir|pokemon/dusknoir]]
+- [[478_froslass|pokemon/froslass]]
+- [[479_rotom|pokemon/rotom]]
+- [[511_pansage|pokemon/pansage]]
+- [[513_pansear|pokemon/pansear]]
+- [[515_panpour|pokemon/panpour]]
+- [[562_yamask|pokemon/yamask]]
+- [[563_cofagrigus|pokemon/cofagrigus]]
+- [[577_solosis|pokemon/solosis]]
+- [[582_vanillite|pokemon/vanillite]]
+- [[583_vanillish|pokemon/vanillish]]
+- [[584_vanilluxe|pokemon/vanilluxe]]
+- [[587_emolga|pokemon/emolga]]
+- [[590_foongus|pokemon/foongus]]
+- [[591_amoonguss|pokemon/amoonguss]]
+- [[605_elgyem|pokemon/elgyem]]
+- [[607_litwick|pokemon/litwick]]
+- [[608_lampent|pokemon/lampent]]
+- [[609_chandelure|pokemon/chandelure]]
+- [[618_stunfisk|pokemon/stunfisk]]
+- [[622_golett|pokemon/golett]]
+- [[623_golurk|pokemon/golurk]]
+- [[633_deino|pokemon/deino]]
+- [[641_tornadus-incarnate|pokemon/tornadus-incarnate]]
+- [[642_thundurus-incarnate|pokemon/thundurus-incarnate]]
+- [[707_klefki|pokemon/klefki]]
+- [[708_phantump|pokemon/phantump]]
+- [[709_trevenant|pokemon/trevenant]]
+- [[710_pumpkaboo-average|pokemon/pumpkaboo-average]]
+- [[711_gourgeist-average|pokemon/gourgeist-average]]
+- [[720_hoopa|pokemon/hoopa]]
+- [[722_rowlet|pokemon/rowlet]]
+- [[723_dartrix|pokemon/dartrix]]
+- [[724_decidueye|pokemon/decidueye]]
+- [[755_morelull|pokemon/morelull]]
+- [[756_shiinotic|pokemon/shiinotic]]
+- [[769_sandygast|pokemon/sandygast]]
+- [[770_palossand|pokemon/palossand]]
+- [[778_mimikyu-disguised|pokemon/mimikyu-disguised]]
+- [[779_bruxish|pokemon/bruxish]]
+- [[781_dhelmise|pokemon/dhelmise]]
+- [[786_tapu-lele|pokemon/tapu-lele]]
+- [[806_blacephalon|pokemon/blacephalon]]
+- [[840_applin|pokemon/applin]]
+- [[841_flapple|pokemon/flapple]]
+- [[842_appletun|pokemon/appletun]]
+- [[854_sinistea|pokemon/sinistea]]
+- [[855_polteageist|pokemon/polteageist]]
+- [[864_cursola|pokemon/cursola]]
+- [[867_runerigus|pokemon/runerigus]]
+- [[885_dreepy|pokemon/dreepy]]
+- [[886_drakloak|pokemon/drakloak]]
+- [[887_dragapult|pokemon/dragapult]]
+- [[899_wyrdeer|pokemon/wyrdeer]]
+- [[905_enamorus-incarnate|pokemon/enamorus-incarnate]]
+- [[919_nymble|pokemon/nymble]]
+- [[920_lokix|pokemon/lokix]]
+- [[935_charcadet|pokemon/charcadet]]
+- [[936_armarouge|pokemon/armarouge]]
+- [[937_ceruledge|pokemon/ceruledge]]
+- [[946_bramblin|pokemon/bramblin]]
+- [[947_brambleghast|pokemon/brambleghast]]
+- [[957_tinkatink|pokemon/tinkatink]]
+- [[958_tinkatuff|pokemon/tinkatuff]]
+- [[959_tinkaton|pokemon/tinkaton]]
+- [[963_finizen|pokemon/finizen]]
+- [[964_palafin|pokemon/palafin]]
+- [[981_farigiraf|pokemon/farigiraf]]
+- [[986_brute-bonnet|pokemon/brute-bonnet]]
+- [[987_flutter-mane|pokemon/flutter-mane]]
+- [[999_gimmighoul|pokemon/gimmighoul]]
+- [[1000_gholdengo|pokemon/gholdengo]]
+- [[1011_dipplin|pokemon/dipplin]]
+- [[1012_poltchageist|pokemon/poltchageist]]
+- [[1013_sinistcha|pokemon/sinistcha]]
+- [[10008_rotom-heat|pokemon/rotom-heat]]
+- [[10009_rotom-wash|pokemon/rotom-wash]]
+- [[10010_rotom-frost|pokemon/rotom-frost]]
+- [[10011_rotom-fan|pokemon/rotom-fan]]
+- [[10012_rotom-mow|pokemon/rotom-mow]]
+- [[10019_tornadus-therian|pokemon/tornadus-therian]]
+- [[10020_thundurus-therian|pokemon/thundurus-therian]]
+- [[10027_pumpkaboo-small|pokemon/pumpkaboo-small]]
+- [[10028_pumpkaboo-large|pokemon/pumpkaboo-large]]
+- [[10029_pumpkaboo-super|pokemon/pumpkaboo-super]]
+- [[10030_gourgeist-small|pokemon/gourgeist-small]]
+- [[10031_gourgeist-large|pokemon/gourgeist-large]]
+- [[10032_gourgeist-super|pokemon/gourgeist-super]]
+- [[10052_mawile-mega|pokemon/mawile-mega]]
+- [[10066_sableye-mega|pokemon/sableye-mega]]
+- [[10067_altaria-mega|pokemon/altaria-mega]]
+- [[10086_hoopa-unbound|pokemon/hoopa-unbound]]
+- [[10105_diglett-alola|pokemon/diglett-alola]]
+- [[10106_dugtrio-alola|pokemon/dugtrio-alola]]
+- [[10143_mimikyu-busted|pokemon/mimikyu-busted]]
+- [[10144_mimikyu-totem-disguised|pokemon/mimikyu-totem-disguised]]
+- [[10145_mimikyu-totem-busted|pokemon/mimikyu-totem-busted]]
+- [[10173_corsola-galar|pokemon/corsola-galar]]
+- [[10179_yamask-galar|pokemon/yamask-galar]]
+- [[10180_stunfisk-galar|pokemon/stunfisk-galar]]
+- [[10234_qwilfish-hisui|pokemon/qwilfish-hisui]]
+- [[10249_enamorus-therian|pokemon/enamorus-therian]]
+- [[10256_palafin-hero|pokemon/palafin-hero]]
+- [[10263_gimmighoul-roaming|pokemon/gimmighoul-roaming]]
+
