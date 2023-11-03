@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "d14187bff49d12d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce0a74f1ab4f41dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a3268ced19a8a63",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "01874a815d5da606",
+    "type": "split",
+    "children": [
+      {
+        "id": "433e7d9f35692e46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fbe0275458b185a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c2e61b2bdaf40571",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9e55f661fd5bf689",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "af78038eb6a6fa39",
+    "type": "split",
+    "children": [
+      {
+        "id": "21dd226d5fb635e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2e71986b65cc1a0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9d6e1d5e791c2e5d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "94ef17402c994cd3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3724799ef7ee9974",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "floating": {
+    "id": "e49631eb1967fe14",
+    "type": "floating",
+    "children": [
+      {
+        "id": "132f5c8e927bc117",
+        "type": "window",
+        "children": [
+          {
+            "id": "21f5cae43541e821",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fb89a6ea38a4d665",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "gen/ability/10052_high-rise.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "c080c610f3ae1dbd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "gen/pokemon/89_muk.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical",
+        "x": 124,
+        "y": 136,
+        "width": 680,
+        "height": 760,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "5a3268ced19a8a63",
+  "lastOpenFiles": [
+    "README.md",
+    "gen/ability/1_stench.md",
+    "gen/pokemon/8_wartortle.md",
+    "gen/pokemon/89_muk.md",
+    "gen/ability/10052_high-rise.md",
+    "gen/ability/289_hadron-engine.md",
+    "gen/ability/2_drizzle.md"
+  ]
+}
