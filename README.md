@@ -19,3 +19,26 @@ dataview query about Pokemon.
 
 The `master` branch is the source code for generating markdown files on the `vault` branch.
 All pokemon datas parsed from [PokeAPI/api-data](https://github.com/PokeAPI/api-data).
+
+## Generate markdown files
+
+### update submodule
+
+```bash
+# on master branch
+git submodule update --init --recursive
+```
+
+### Install dependencies
+
+```bash
+yarn install
+```
+
+### Transform json data into markdown files
+
+```bash
+yarn transform
+```
+
+Then copy the generated markdown files to your vault.
